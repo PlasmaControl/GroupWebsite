@@ -1,5 +1,7 @@
 publications:
   - title: An Open-Source 3D FE Quench Simulation Tool for No-Insulation HTS Pancake Coils
+    type: presentation
+    category: Controls and Optimization
     date: "2024-05-08"
     doi: 10.1088/1361-6668/ad3f83
     pdf_url: https://iopscience.iop.org/article/10.1088/1361-6668/ad3f83/pdf

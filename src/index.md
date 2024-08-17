@@ -2,6 +2,7 @@
 disable_comments: true
 ---
 
-Welcome!
+Welcome to the Plasma Control Group's website.
 
-## Posts
+<!-- `## Posts` isn't used to avoid TOC -->
+<h2>Posts</h2> 

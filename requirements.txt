@@ -1,6 +1,6 @@
 mkdocs-material==9.5.27
 mkdocs-bibtex==2.16.0
-mkdocs-caption @ git+https://github.com/tobiasah/mkdocs-caption.git@tobiasa/19
+mkdocs-caption==1.2.0
 mkdocs-rss-plugin==1.14.0
 mkdocs-macros-plugin==1.0.5
 pydantic==2.7.4

@@ -2,12 +2,13 @@ site_name: Plasma Control Group
 site_url: https://control.princeton.edu/
 site_author: Plasma Control Group
 site_description: Plasma Control Group at Princeton University
-copyright: Copyright &copy; 2024 Plasma Control Group
+copyright: Copyright &copy; 2024 Princeton University, Plasma Control Group
 docs_dir: src
 
 theme:
   name: material
   logo: assets/images/logo.png
+  favicon: assets/images/logo.png
   language: en
   locale: en
   custom_dir: src/assets/overrides
@@ -33,6 +34,7 @@ theme:
     - content.action.edit # view source button for pages
     - content.code.copy # the copy-to-clipboard buttons for code blocks
     - content.action.view # view source button for pages
+    - navigation.sections
     - navigation.indexes # allow mother pages to have their own index pages
     - navigation.instant # instant navigation for faster page loads
     - navigation.instant.prefetch # prefetch pages for instant navigation
@@ -68,7 +70,7 @@ plugins:
         - Hiring
 
   - bibtex: # https://github.com/shyamd/mkdocs-bibtex
-      bib_file: src/assets/bibliography.bib
+      bib_file: src/assets/data/bibliography.bib
       bib_by_default: false
 
   - caption: # https://github.com/tobiasah/mkdocs-caption
@@ -76,7 +78,7 @@ plugins:
         position: top
 
   - rss: # https://github.com/Guts/mkdocs-rss-plugin/
-      match_path: .*
+      match_path: posts/.*
       date_from_meta:
         as_creation: date
       categories:
