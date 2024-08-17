@@ -1,0 +1,9 @@
+members:
+  - name: John Doe
+    title: Graduate Student
+    description: "John is a graduate student in the Department of Mechanical Engineering at the University of Example. His research interests include computational mechanics, finite element analysis, and optimization."
+    emails:
+      - john.doe@example.com
+    cv_url: https://example.com/johndoe/cv
+    google_scholar_url: https://scholar.google.com/citations?user=1234567890
+    orcid_id: 0000-0000-0000-0000

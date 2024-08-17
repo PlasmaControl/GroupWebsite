@@ -1,0 +1,132 @@
+site_name: Plasma Control Group
+site_url: https://control.princeton.edu/
+site_author: Plasma Control Group
+site_description: Plasma Control Group at Princeton University
+copyright: Copyright &copy; 2024 Plasma Control Group
+docs_dir: src
+
+theme:
+  name: material
+  logo: assets/images/logo.png
+  language: en
+  locale: en
+  custom_dir: src/assets/overrides
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      primary: white
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      primary: white
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - content.action.edit # view source button for pages
+    - content.code.copy # the copy-to-clipboard buttons for code blocks
+    - content.action.view # view source button for pages
+    - navigation.indexes # allow mother pages to have their own index pages
+    - navigation.instant # instant navigation for faster page loads
+    - navigation.instant.prefetch # prefetch pages for instant navigation
+    - navigation.instant.progress # show progress bar for instant navigation
+    - navigation.top # back to top button
+    - search.highlight # highlight search results after going to a page
+    - search.suggest # show search suggestions while typing
+    - search.share # share search results with others
+    - toc.follow # if toc sidebar doesn't fit, scroll to the active heading
+    - content.code.annotate # allow annotations in code blocks
+
+nav:
+  - Home:
+    - index.md
+  - Research:
+    - Research: research/index.md
+    - X: research/x.md
+    - Y: research/y.md
+  - Members: members.md
+  - Publications: publications.md
+
+plugins:
+  - search # mkdocs-material search plugin
+
+  - blog:
+      blog_dir: .
+      post_dir: "{blog}/posts"
+      authors_file: "{blog}/assets/data/blog_authors.yaml"
+      post_url_format: "posts/{slug}"
+      post_date_format: long
+      categories_allowed:
+        - News
+        - Hiring
+
+  - bibtex: # https://github.com/shyamd/mkdocs-bibtex
+      bib_file: src/assets/bibliography.bib
+      bib_by_default: false
+
+  - caption: # https://github.com/tobiasah/mkdocs-caption
+      table:
+        position: top
+
+  - rss: # https://github.com/Guts/mkdocs-rss-plugin/
+      match_path: .*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+      comments_path: "#__comments"
+
+  - macros: # https://github.com/fralau/mkdocs-macros-plugin
+      module_name: src/assets/data/data
+
+markdown_extensions:
+  # see https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/ for more pymdownx info
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.extra:
+      pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+  - toc:
+      permalink: true
+  - footnotes # allows footnotes
+  - attr_list # allow assigning HTML attributes to elements
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.pathconverter # convert relative paths to absolute paths
+  - pymdownx.betterem
+  - pymdownx.tabbed: # content tabs
+      alternate_style: true
+
+extra_javascript:
+  - assets/javascripts/katex.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css
+  - assets/stylesheets/extra.css
+
+extra:
+  # analytics:
+  #   provider: google
+  #   property: PROPERTY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/PlasmaControl
+
