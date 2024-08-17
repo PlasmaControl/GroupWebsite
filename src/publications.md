@@ -2,19 +2,27 @@
 hide:
  - navigation
 disable_comments: true
+toc_depth: 1
 ---
 
 # Publications
 
-{% for publication in publications() -%}
-- **{{ publication.title }}** [:fontawesome-regular-file-pdf:]({{ publication.pdf_url }}) 
+{% for publication in publications() %}
+## {{ publication.year }}
 
-    published in *{{ publication.journal }}* ({{ publication.date }})
+    {% for category_title, papers_and_presentations in publication.categories.items() %}
 
-    {{ publication.author_list }}
+### {{ category_title }}
 
-    DOI: [{{ publication.doi }}]({{ publication.doi_url }})
+        {% for type, publications in papers_and_presentations.items() %}
+#### {{ type }}
+            {% for publication in publications %}
+- "{{ publication.title }}," {{ publication.author_list }}, {{ publication.context }}, {{ publication.beautiful_date }} ([link]({{ publication.pdf_url }}))
+            {% endfor %}
+        {% endfor %}
 
+
+    {% endfor %}
 
 {% endfor %}
 
