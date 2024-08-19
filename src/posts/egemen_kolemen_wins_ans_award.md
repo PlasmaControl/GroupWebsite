@@ -9,7 +9,7 @@ categories:
 # Egemen Kolemen wins American Nuclear Society’s Technical Accomplishment Award
 
 <div class="post-title-image" markdown="span">
-![](post_images/egemen_kolemen_wins_ans_award.jpg)
+![](images/egemen_kolemen_wins_ans_award.jpg)
 </div>
 
 Egemen Kolemen, a staff research physicist at the U.S. [Department of Energy](https://www.energy.gov/)'s (DOE) [Princeton Plasma Physics Laboratory](https://www.pppl.gov/) (PPPL) and an associate professor of mechanical and aerospace engineering at [Princeton University](https://www.princeton.edu/), was awarded the [American Nuclear Society's.](https://www.ans.org/) (ANS) 2024 [Technical Accomplishment Award](https://fed.ans.org/awards/tarules/) for his research on using machine learning for controlling fusion reactors.

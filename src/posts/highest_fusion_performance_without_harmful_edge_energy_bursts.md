@@ -9,7 +9,7 @@ categories:
 # Highest fusion performance without harmful edge energy bursts
 
 <div class="post-title-image" markdown="span">
-![](post_images/highest_fusion_performance_without_harmful_edge_energy_bursts.png)
+![](images/highest_fusion_performance_without_harmful_edge_energy_bursts.png)
 </div>
 
 Led by Sangkyeun Kim, we achieved the highest fusion performance without harmful edge energy bursts in two separate tokamaks, KSTAR and DIII-D. This work combined physics and AI to control the fusion plasma.
@@ -24,4 +24,4 @@ Led by Sangkyeun Kim, we achieved the highest fusion performance without harmful
 
 <https://acee.princeton.edu/acee-news/ai-approach-elevates-plasma-performance-and-stability-across-fusion-devices/>
 
-![](post_images/highest_fusion_performance_without_harmful_edge_energy_bursts_2.png)
+![](images/highest_fusion_performance_without_harmful_edge_energy_bursts_2.png)
