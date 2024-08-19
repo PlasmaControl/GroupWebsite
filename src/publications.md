@@ -7,17 +7,18 @@ toc_depth: 1
 
 # Publications
 
-{% for publication in publications() %}
-## {{ publication.year }}
+{% for year_of_research in year_of_research_objects() %}
+## {{ year_of_research.year }}
 
-    {% for category_title, papers_and_presentations in publication.categories.items() %}
+    {% for category_title, publications in year_of_research.publications.items() %}
 
 ### {{ category_title }}
 
-        {% for type, publications in papers_and_presentations.items() %}
+        {% for type, publications in publications.items() %}
 #### {{ type }}
+
             {% for publication in publications %}
-- "{{ publication.title }}," {{ publication.author_list }}, {{ publication.context }}, {{ publication.beautiful_date }} ([link]({{ publication.pdf_url }}))
+- "{{ publication.title }}," {{ publication.author_list }}, {{ publication.context }}, {{ publication.beautiful_date }}, [:fontawesome-regular-file-pdf:]({{ publication.pdf_url }})
             {% endfor %}
         {% endfor %}
 
