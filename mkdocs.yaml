@@ -104,10 +104,12 @@ plugins:
 
   - macros: # https://github.com/fralau/mkdocs-macros-plugin
       module_name: src/assets/data/data
-
+  
+  # Redirect the old pages to the new ones:
   - redirects:
       redirect_maps:
-        "people.md": "members.md"
+        people.md: members.md
+        group-members.md: members.md
 
 markdown_extensions:
   # see https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/ for more pymdownx info
