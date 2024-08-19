@@ -24,7 +24,7 @@ theme:
     # Palette toggle for dark mode
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
-      primary: white
+      primary: black
       accent: teal
       toggle:
         icon: material/brightness-4
@@ -48,11 +48,11 @@ theme:
 
 nav:
   - Home:
-    - index.md
+      - index.md
   - Research:
-    - Research: research/index.md
-    - X: research/x.md
-    - Y: research/y.md
+      - Research: research/index.md
+      - X: research/x.md
+      - Y: research/y.md
   - Members: members.md
   - Publications: publications.md
 
@@ -65,6 +65,8 @@ plugins:
       authors_file: "{blog}/assets/data/blog_authors.yaml"
       post_url_format: "posts/{slug}"
       post_date_format: long
+      archive_toc: false
+      categories_toc: false
       categories_allowed:
         - News
         - Hiring
@@ -132,3 +134,5 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/PlasmaControl
 
+hooks:
+  - src/assets/hooks/archive_and_category_pages.py

@@ -19,6 +19,14 @@
 .md-tabs {
   background-color: #e4efeb;
 }
+[data-md-color-scheme="slate"] {
+  .md-header {
+    background-color: hsl(158 26% 40% / 1);
+  }
+  .md-tabs {
+    background-color: hsl(158 26% 40% / 1);
+  }
+}
 /* Change navbar color */
 
 /* Increase the logo size */
@@ -69,7 +77,27 @@
 /* For index page, posts  */
 .post-container {
   display: flex;
-  flex-direction: column;
   flex-wrap: wrap;
+  justify-content: space-between;
+  column-gap: 20px;
+}
+.post {
+  margin-bottom: 20px;
+  flex: 45%;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #e4efeb60;
+}
+
+@media (max-width: 650px) {
+  .post {
+    flex: 100%;
+  }
+}
+
+[data-md-color-scheme="slate"] {
+  .post {
+    background-color: hsl(158deg 26% 40% / 10%);
+  }
 }
 /* For index page, posts  */
