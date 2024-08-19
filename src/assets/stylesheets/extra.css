@@ -39,12 +39,13 @@
   height: 2.6rem;
 }
 // To make anchor links work with the increased logo size:
-[id]::before {
-  content: "";
-  display: block;
-  height: 30px;
-  margin-top: -30px;
-  visibility: hidden;
+// For PC screens:
+:target {
+}
+@media (min-width: 1220px) {
+  :target {
+    --md-scroll-offset: -1.5rem !important;
+  }
 }
 /* Increase the logo size */
 
