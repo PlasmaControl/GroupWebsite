@@ -305,6 +305,19 @@ class GroupMembers(BaseModel):
     visiting_scholars: list[Member]
     past_members: list[Member]
 
+    @pydantic.field_validator(
+        "principal_investigator",
+        "research_staff",
+        "graduate_students",
+        "undergraduate_students",
+        "visiting_scholars",
+        "past_members",
+    )
+    @classmethod
+    def sort_members_alphabetically(cls, members) -> list[Member]:
+        """Sort the publications by date in descending order."""
+        return sorted(members, key=lambda member: member.name)
+
 
 # ======================================================================================
 # ======================================================================================
