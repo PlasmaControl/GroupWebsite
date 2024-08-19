@@ -3,5 +3,5 @@ mkdocs-bibtex==2.16.0
 mkdocs-caption==1.2.0
 mkdocs-rss-plugin==1.14.0
 mkdocs-macros-plugin==1.0.5
-pydantic==2.7.4
+pydantic[email]==2.7.4
 ruamel.yaml==0.18.6

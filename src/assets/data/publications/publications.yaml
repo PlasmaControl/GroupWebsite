@@ -3,7 +3,7 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: "2024-07-01"
-    pdf_url: https://iopscience.iop.org/article/10.1088/1361-6668/ad3f83/pdf
+    pdf_file_name: 2024-07-Rothstein.pdf
     context: DIII-D SET Meeting
     authors:
       - A. Rothstein
@@ -16,7 +16,7 @@ publications:
     type: Papers
     category: Controls and Optimization
     date: "2024-07-01"
-    pdf_url: https://drive.google.com/file/d/1UHa8-EyqrYZU46i7gXTqlIMG8OIEJ5HG/view?usp=sharing
+    pdf_file_name: 2024-07-Kolemen.pdf
     context: Nuclear Fusion
     authors:
       - E. Kolemen

@@ -1,9 +1,78 @@
-members:
-  - name: John Doe
-    title: Graduate Student
-    description: "John is a graduate student in the Department of Mechanical Engineering at the University of Example. His research interests include computational mechanics, finite element analysis, and optimization."
+principal_investigator:
+  name: Egemen Kolemen
+  title: Principal Investigator
+  description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
+  emails:
+    - ekolemen@pppl.gov
+    - ekolemen@princeton.edu
+  cv_file_name: Egemen_Kolemen_CV.pdf
+  photo_file_name: Egemen_Kolemen.png
+  orcid_id: 0000-0003-4212-3247
+  google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
+  github_username: egemen-kolemen
+
+
+research_staff:
+  - name: Egemen Kolemen
+    title: Principal Investigator
+    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
     emails:
-      - john.doe@example.com
-    cv_url: https://example.com/johndoe/cv
-    google_scholar_url: https://scholar.google.com/citations?user=1234567890
-    orcid_id: 0000-0000-0000-0000
+      - ekolemen@pppl.gov
+      - ekolemen@princeton.edu
+    cv_file_name: Egemen_Kolemen_CV.pdf
+    photo_file_name: Egemen_Kolemen.png
+    orcid_id: 0000-0003-4212-3247
+    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
+    github_username: egemen-kolemen
+
+graduate_students:
+  - name: Egemen Kolemen
+    title: Principal Investigator
+    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
+    emails:
+      - ekolemen@pppl.gov
+      - ekolemen@princeton.edu
+    cv_file_name: Egemen_Kolemen_CV.pdf
+    photo_file_name: Egemen_Kolemen.png
+    orcid_id: 0000-0003-4212-3247
+    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
+    github_username: egemen-kolemen
+
+undergraduate_students:
+  - name: Egemen Kolemen
+    title: Principal Investigator
+    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
+    emails:
+      - ekolemen@pppl.gov
+      - ekolemen@princeton.edu
+    cv_file_name: Egemen_Kolemen_CV.pdf
+    photo_file_name: Egemen_Kolemen.png
+    orcid_id: 0000-0003-4212-3247
+    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
+    github_username: egemen-kolemen
+
+visiting_scholars:
+  - name: Egemen Kolemen
+    title: Principal Investigator
+    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
+    emails:
+      - ekolemen@pppl.gov
+      - ekolemen@princeton.edu
+    cv_file_name: Egemen_Kolemen_CV.pdf
+    photo_file_name: Egemen_Kolemen.png
+    orcid_id: 0000-0003-4212-3247
+    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
+    github_username: egemen-kolemen
+
+past_members:
+  - name: Egemen Kolemen
+    title: Principal Investigator
+    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
+    emails:
+      - ekolemen@pppl.gov
+      - ekolemen@princeton.edu
+    cv_file_name: Egemen_Kolemen_CV.pdf
+    photo_file_name: Egemen_Kolemen.png
+    orcid_id: 0000-0003-4212-3247
+    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
+    github_username: egemen-kolemen

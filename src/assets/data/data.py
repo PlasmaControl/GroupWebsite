@@ -6,8 +6,13 @@ from typing import Literal, get_args, Optional
 
 import pydantic
 
+
+class BaseModel(pydantic.BaseModel):
+    model_config = pydantic.ConfigDict(extra="forbid")
+
+
 # ======================================================================================
-# Read the publications.yaml file and create a list of YearOfResearch objects
+# Utilities for reading the publications.yaml file:
 # ======================================================================================
 
 available_categories = Literal[
@@ -20,7 +25,7 @@ available_categories = Literal[
 available_types = Literal["Papers", "Presentations"]
 
 
-class Publication(pydantic.BaseModel):
+class Publication(BaseModel):
     """This class defines the schema for a publication."""
 
     title: str
@@ -29,7 +34,7 @@ class Publication(pydantic.BaseModel):
     authors: list[str]
     date: str
     context: Optional[str] = None
-    pdf_url: pydantic.HttpUrl
+    pdf_file_name: str
 
     @functools.cached_property
     def date_object(self) -> Date:
@@ -59,6 +64,11 @@ class Publication(pydantic.BaseModel):
         """Return the year of the publication."""
         return self.date_object.year
 
+    @functools.cached_property
+    def pdf_url(self) -> str:
+        """Return the URL of the PDF file."""
+        return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/publications/pdfs/{self.pdf_file_name}?raw=true"
+
     @pydantic.field_validator("date")
     @classmethod
     def validate_date(cls, date: str) -> str:
@@ -70,8 +80,20 @@ class Publication(pydantic.BaseModel):
 
         return date
 
+    @pydantic.field_validator("pdf_file_name")
+    @classmethod
+    def validate_pdf_exists(cls, pdf_file_name: str) -> str:
+        """Validate that the PDF file exists."""
+        pdf_file_path = (
+            pathlib.Path(__file__).parent / "publications" / "pdfs" / pdf_file_name
+        )
+        if not pdf_file_path.exists():
+            raise FileNotFoundError(f"The file {pdf_file_name} does not exist!")
 
-class Publications(pydantic.BaseModel):
+        return pdf_file_name
+
+
+class Publications(BaseModel):
     """This class defines the schema for the publications.yaml file."""
 
     publications: list[Publication]
@@ -85,7 +107,7 @@ class Publications(pydantic.BaseModel):
         )
 
 
-class YearOfResearch(pydantic.BaseModel):
+class YearOfResearch(BaseModel):
     """This class defines the schema for a year of research, which will be used in
     the `publications.md` file."""
 
@@ -126,6 +148,136 @@ def group_publications_by_year(
 ) -> dict[int, list[Publication]]:
     """Group the publications by year."""
     return group_publications(publications, "year")
+
+
+# ======================================================================================
+# ======================================================================================
+# ======================================================================================
+
+
+# ======================================================================================
+# Utilities for reading the members.yaml file:
+# ======================================================================================
+
+
+class Member(BaseModel):
+    """This class defines the schema for a member of the research group."""
+
+    name: str
+    title: str
+    description: Optional[str] = pydantic.Field(default=None, max_length=900)
+    emails: list[pydantic.EmailStr]
+    photo_file_name: Optional[str] = None
+    cv_file_name: Optional[str] = None
+    google_scholar_url: Optional[str] = None
+    orcid_id: Optional[str] = None
+    github_username: Optional[str] = None
+
+    @functools.cached_property
+    def photo_url(self) -> Optional[str]:
+        """Return the URL of the photo file."""
+        if self.photo_file_name is not None:
+            return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/photos/{self.photo_file_name}?raw=true"
+
+        return None
+
+    @functools.cached_property
+    def cv_markdown_url(self) -> Optional[str]:
+        """Return the URL of the CV file."""
+        if self.cv_file_name is not None:
+            return f"[CV](https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/cvs/{self.cv_file_name}?raw=true)"
+
+        return None
+
+    @functools.cached_property
+    def github_markdown_url(self) -> Optional[str]:
+        """Return the URL of the GitHub profile."""
+        if self.github_username is not None:
+            return f"[:fontawesome-brands-github:](https://github.com/{self.github_username})"
+        else:
+            return ""
+
+    @functools.cached_property
+    def google_scholar_markdown_url(self) -> Optional[str]:
+        """Return the URL of the Google Scholar profile."""
+        if self.google_scholar_url is not None:
+            return (
+                "[Google"
+                f" Scholar](https://scholar.google.com/citations?user={self.google_scholar_url})"
+            )
+        else:
+            return ""
+
+    @functools.cached_property
+    def orcid_markdown_url(self) -> Optional[str]:
+        """Return the URL of the ORCID profile."""
+        if self.orcid_id is not None:
+            return f"[:fontawesome-brands-orcid:](https://orcid.org/{self.orcid_id})"
+        else:
+            return ""
+
+    @functools.cached_property
+    def emails_markdown_urls(self) -> str:
+        """Return a string with the emails separated by commas."""
+        email_links = [f"[{email}](mailto:{email})" for email in self.emails]
+        return ", ".join(email_links)
+
+    @functools.cached_property
+    def links(self) -> str:
+        """Return a string with the links separated by commas."""
+        links = [
+            link
+            for link in [
+                self.orcid_markdown_url,
+                self.google_scholar_markdown_url,
+                self.cv_markdown_url,
+                self.github_markdown_url,
+            ]
+            if link
+        ]
+        return ", ".join(links)
+
+    @pydantic.field_validator("cv_file_name")
+    @classmethod
+    def validate_cv_exists(cls, cv_file_name: Optional[str]) -> Optional[str]:
+        """Validate that the CV file exists."""
+        if cv_file_name is not None:
+            cv_file_path = (
+                pathlib.Path(__file__).parent / "members" / "cvs" / cv_file_name
+            )
+            if not cv_file_path.exists():
+                raise FileNotFoundError(f"The file {cv_file_name} does not exist!")
+
+        return cv_file_name
+
+    @pydantic.field_validator("photo_file_name")
+    @classmethod
+    def validate_photo_exists(cls, photo_file_name: Optional[str]) -> Optional[str]:
+        """Validate that the photo file exists."""
+        if photo_file_name is not None:
+            photo_file_path = (
+                pathlib.Path(__file__).parent / "members" / "photos" / photo_file_name
+            )
+            if not photo_file_path.exists():
+                raise FileNotFoundError(f"The file {photo_file_name} does not exist!")
+
+        return photo_file_name
+
+
+class GroupMembers(BaseModel):
+    """This class defines the schema for the members.yaml file."""
+
+    principal_investigator: Member
+    research_staff: list[Member]
+    graduate_students: list[Member]
+    undergraduate_students: list[Member]
+    visiting_scholars: list[Member]
+    past_members: list[Member]
+
+
+# ======================================================================================
+# ======================================================================================
+# ======================================================================================
 
 
 def define_env(env):
@@ -174,7 +326,15 @@ def define_env(env):
 
         return year_of_research_objects
 
+    @env.macro
+    def members():
+        members_file_path = pathlib.Path(__file__).parent / "members" / "members.yaml"
 
-# ======================================================================================
-# ======================================================================================
-# ======================================================================================
+        if not members_file_path.exists():
+            raise FileNotFoundError("The file members.yaml does not exist!")
+
+        members_file_contents = members_file_path.read_text(encoding="utf-8")
+        members_as_dictionary = ruamel.yaml.YAML().load(members_file_contents)
+        group_members = GroupMembers(**members_as_dictionary)
+
+        return group_members
