@@ -1,4 +1,4 @@
-/* If the screen size is smaller than 450px, change equation styling below */
+/* If the screen size is smaller than 450px, change equation styling */
 @media (max-width: 450px) {
   .katex {
     overflow-x: scroll;
@@ -10,37 +10,37 @@
     right: -10px;
   }
 }
-/* If the screen size is smaller than 450px, change equation styling above */
+/* If the screen size is smaller than 450px, change equation styling */
 
-/* Change navbar color below */
+/* Change navbar color */
 .md-header {
   background-color: #e4efeb;
 }
 .md-tabs {
   background-color: #e4efeb;
 }
-/* Change navbar color above */
+/* Change navbar color */
 
-/* Increase the logo size below */
+/* Increase the logo size */
 .md-header__button.md-logo {
   margin: 20px;
   padding: 0;
 }
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  height: 2rem;
+  height: 2.6rem;
 }
-/* Increase the logo size above */
+/* Increase the logo size */
 
-/* Blog title image settings below */
+/* Blog title image settings */
 .blog-title-image {
   height: auto;
   width: 100%;
   overflow: hidden;
 }
-/* Blog title image settings above */
+/* Blog title image settings */
 
-/* For YouTube embeds below */
+/* For YouTube embeds */
 .video-wrapper {
   position: relative;
   display: block;
@@ -58,4 +58,4 @@
   height: 100%;
   border: 0;
 }
-/* For YouTube embeds above */
+/* For YouTube embeds */

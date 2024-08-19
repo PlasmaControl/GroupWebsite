@@ -2,13 +2,13 @@ site_name: Plasma Control Group
 site_url: https://control.princeton.edu/
 site_author: Plasma Control Group
 site_description: Plasma Control Group at Princeton University
-copyright: Copyright &copy; 2024 Princeton University, Plasma Control Group
+copyright: Copyright &copy; 2024 Plasma Control Group
 docs_dir: src
 
 theme:
   name: material
   logo: assets/images/logo.png
-  favicon: assets/images/logo.png
+  favicon: assets/images/favicon_logo.png
   language: en
   locale: en
   custom_dir: src/assets/overrides
