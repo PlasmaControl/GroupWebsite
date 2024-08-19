@@ -164,9 +164,9 @@ class Member(BaseModel):
     """This class defines the schema for a member of the research group."""
 
     name: str
-    title: str
-    description: Optional[str] = pydantic.Field(default=None, max_length=900)
-    emails: list[pydantic.EmailStr]
+    title: str = pydantic.Field(default="")
+    description: str = pydantic.Field(default="", max_length=900)
+    emails: list[pydantic.EmailStr] = []
     photo_file_name: Optional[str] = None
     cv_file_name: Optional[str] = None
     google_scholar_url: Optional[str] = None
@@ -178,6 +178,8 @@ class Member(BaseModel):
         """Return the URL of the photo file."""
         if self.photo_file_name is not None:
             return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/photos/{self.photo_file_name}?raw=true"
+        else:
+            return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/photos/person?raw=true"
 
     @functools.cached_property
     def cv_html_url(self) -> Optional[str]:
@@ -260,9 +262,9 @@ class Member(BaseModel):
             link
             for link in [
                 self.orcid_html_url,
+                self.github_html_url,
                 self.google_scholar_html_url,
                 self.cv_html_url,
-                self.github_html_url,
             ]
             if link
         ]
@@ -295,12 +297,22 @@ class Member(BaseModel):
         return photo_file_name
 
 
+class GraduateStudentMember(Member):
+    title: Literal[
+        "1st Year Graduate Student",
+        "2nd Year Graduate Student",
+        "3rd Year Graduate Student",
+        "4th Year Graduate Student",
+        "5th Year Graduate Student",
+    ]
+
+
 class GroupMembers(BaseModel):
     """This class defines the schema for the members.yaml file."""
 
     principal_investigator: list[Member]
     research_staff: list[Member]
-    graduate_students: list[Member]
+    graduate_students: list[GraduateStudentMember]
     undergraduate_students: list[Member]
     visiting_scholars: list[Member]
     past_members: list[Member]
@@ -308,7 +320,6 @@ class GroupMembers(BaseModel):
     @pydantic.field_validator(
         "principal_investigator",
         "research_staff",
-        "graduate_students",
         "undergraduate_students",
         "visiting_scholars",
         "past_members",
@@ -317,6 +328,16 @@ class GroupMembers(BaseModel):
     def sort_members_alphabetically(cls, members) -> list[Member]:
         """Sort the publications by date in descending order."""
         return sorted(members, key=lambda member: member.name)
+
+    @pydantic.field_validator(
+        "graduate_students",
+    )
+    @classmethod
+    def sort_graduate_students(cls, members) -> list[Member]:
+        """Sort the publications by date in descending order."""
+        alphabetical = sorted(members, key=lambda member: member.name)
+        by_year = sorted(alphabetical, key=lambda member: member.title, reverse=True)
+        return by_year
 
 
 # ======================================================================================

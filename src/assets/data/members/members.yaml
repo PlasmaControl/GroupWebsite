@@ -9,69 +9,216 @@ principal_investigator:
     photo_file_name: Egemen_Kolemen.png
     orcid_id: 0000-0003-4212-3247
     google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
-    github_username: egemen-kolemen
 
 research_staff:
-  - name: Egemen Kolemen
-    title: Principal Investigator
-    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
-    emails:
-      - ekolemen@pppl.gov
-      - ekolemen@princeton.edu
-    cv_file_name: Egemen_Kolemen_CV.pdf
-    photo_file_name: Egemen_Kolemen.png
-    orcid_id: 0000-0003-4212-3247
-    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
-    github_username: egemen-kolemen
+  - name: Azarakhsh Jalalvand
+    title: Research Scientist
+    description: Azarakhsh Jalalvand is a Research Scholar in Princeton University with a Ph.D. in Computer Engineering from Ghent University (Belgium). His research focuses on Artificial Intelligence, signal processing and data-driven discovery research tracks including audio, visual and radar data analysis as well as multi-sensor signal processing for variety of applications such as object recognition, surveillance, predictive maintenance and anomaly detection. He investigates real-time, robust and adaptive data-driven models for condition monitoring and plasma control in the magnetic confinement devices to produce controlled thermonuclear fusion power.
+    photo_file_name: Azarakhsh_Jalalvand.jpg
+
+  - name: SangKyeun Kim
+    title: Research Scientist
+    description: SangKyeun Kim is a staff research scientist at the Princeton Plasma Physics Laboratory (PPPL) with a focus on plasma physics and fusion research. His expertise encompasses a wide range of areas including linear PBM stability analysis using MISHKA and ELITE tools, nonlinear physics studies with the JOREK 3D MHD code, and the development of the kinetic-EFIT reconstruction system for the KSTAR tokamak. Currently, SangKyeun is engaged in ML-related plasma control at DIII-D, where he explores the utilization of machine learning techniques for 3D control, ELM suppression, and boundary control, contributing to advancements in these fields.
+    photo_file_name: SangKyeun_Kim.jpg
+
+  - name: CheolSik Byun
+    title: Postdoctoral Researcher
+    description: CheolSik Byun is a postdoctoral researcher with expertise in simulation and experiment of particle transport. During his doctoral studies at Seoul National University, he focused on interpretative/predictive simulations and experiments for hybrid scenarios in  KSTAR. He also conducted research on particle transport driven by turbulence using perturbative analysis in KSTAR experiments. Currently, his primary research focus involves implementing various controllers, such as RMP-driven ELM suppression and radiation power control, utilizing RT-bolometer to manage heat loads on the plasma-facing components in KSTAR.
+    photo_file_name: CheolSik_Byun.jpg
+
+  - name: Alvin Garcia
+    title: Postdoctoral Researcher
+    description: Alvin Garcia is an ORISE FES Postdoctoral Research Fellow experienced in computational modelling, analysis and techniques that can be used to study mission critical topics in fusion energy. Prior to joining the Plasma Control Group at Princeton University, he completed his PhD in Physics at the University of California, Irvine on projects related to Spin Polarized Fuel and Artificial Intelligence using data from the DIII-D National Fusion Facility. He plans to design, propose, and execute experiments aimed at controlling dangerous Alfvén eigenmodes on DIII-D as a contributing member of the Plasma Control Group.
+    photo_file_name: Alvin_Garcia.jpg
+
+  - name: Yufan Xu
+    title: Postdoctoral Researcher
+    description: Yufan Xu is a postdoc at PPPL specialized in liquid metal magnetohydrodynamics, geophysical and astrophysical turbulence, and planetary and stellar dynamos. He received his PhD in geophysics and space physics at University of California, Los Angeles in 2023, on the experimental investigation of the heat and momentum transfer in liquid gallium rotating and non-rotating magnetoconvection, complemented with theoretical and numerical analyses. In Princeton, his focus is developing a flowing liquid lithium facility at PPPL for testing and validating liquid metal plasma facing component designs for fusion devices.
+    photo_file_name: Yufan_Xu.jpg
+
+  - name: Rahul Gaur
+    title: Postdoctoral Researcher
+    description: Rahul Gaur is a postdoctoral researcher working with the DESC optimization code. He is interested in the optimization of stellarators against instabilities and turbulent transport. He completed his Ph.D. in Physics from the University of Maryland, College Park where he investigated the effect of ideal MHD and kinetic instabilities on high-beta tokamak and stellarator equilibria.
+    photo_file_name: Rahul_Gaur.jpg
+
+  - name: Peter Steiner
+    title: Postdoctoral Researcher
+    description: Peter is a postdoctoral researcher in Princeton University with a Ph.D. in Signal Processing and Machine Learning from Dresden University of Technology (Germany). His research focuses on Artificial and signal processing of audio and multi-sensor signals with many application from recognition until event detection. He investigates data-driven models for plasma control and signal processing methods for different plasma diagnostics.
+    photo_file_name: Peter_Steiner.jpg
+
+  - name: Max Curie
+    title: Postdoctoral Researcher
+    description: "Max Curie is a postdoc in Princeton University. He received his Ph.D. in physics in the University of Texas at Austin in 2022. His focuses are: (1) End-to-end prediction for Tokamak. (2) Signal processing for the spectral diagnostics. (3) Design, propose, and conduct experiments in DIII-D (future)."
+    photo_file_name: Max_Curie.jpg
 
 graduate_students:
-  - name: Egemen Kolemen
-    title: Principal Investigator
-    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
-    emails:
-      - ekolemen@pppl.gov
-      - ekolemen@princeton.edu
-    cv_file_name: Egemen_Kolemen_CV.pdf
-    photo_file_name: Egemen_Kolemen.png
-    orcid_id: 0000-0003-4212-3247
-    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
-    github_username: egemen-kolemen
+  - name: Dario Panici
+    title: 4th Year Graduate Student
+    description: Dario is a 4th-year graduate student in the MAE department interested in computational plasma physics, especially related to fusion energy. He completed his undergraduate in Nuclear, Plasma, and Radiological Engineering at UIUC before attending Princeton. Currently, Dario works on code development and error analysis of computational stellarator equilibria, as well as helical coil design and connections between 3D global MHD equilibria and the near-axis expansion.
+    photo_file_name: Dario_Panici.jpg
+
+  - name: Francisco Saenz
+    title: 4th Year Graduate Student
+    description: Francisco is a 4th-year PhD student in the MAE department interested in computational/experimental liquid metal magnetohydrodynamics, especially related to the design of plasma-facing component of fusion systems. His undergraduate degree is in Mechanical Engineering from Universidad de Costa Rica. Currently, Francisco works on simulations and experiments to evaluate the performance of the new liquid metal divertor concept called "Divertorlets". Additionally, he works on simulations of free-surface liquid metal flows for MHD drag calculations.
+    photo_file_name: Francisco_Saenz.jpg
+
+  - name: Brian Wynne
+    title: 3rd Year Graduate Student
+    description: Brian is a 3rd year graduate student in MAE. Before joining the Kolemen group, he completed his Bachelor's Degree in Chemical Engineering at The Ohio State University. Brian works with experiments and simulations on LMX-U (Liquid Metal eXperiment Upgrade) at PPPL. He is currently involved in testing  the effects of a gradient magnetic field on free surface flow, as well as designing a magnetically driven centrifuge for lithium hydride separation from liquid lithium.
+    photo_file_name: Brian_Wynne.jpg
+
+  - name: Andy Rothstein
+    title: 3rd Year Graduate Student
+    description: Andy is a 3rd year graduate student in MAE interested in data-driven approaches to plasma control. His work involved building machine learning models to find correlations between tokamak diagnostics and magnetic instabilities to build models capable of predicting magnetic instabilities in real-time. Before Princeton, he got his Bachelor's Degree in Physics from Caltech and while performing research in astrodynamics and quantum optics.
+    photo_file_name: Andy_Rothstein.jpg
+
+  - name: Jalal Butt
+    title: 2nd Year Graduate Student
+    description: Jalal studies the 3D field physics of edge-localized modes (ELMs) and their control in pursuit of long-pulse tokamak operation for KSTAR, ITER and beyond. Before Princeton, Jalal graduated from Columbia University, where he contributed to the disruption event characterization and forecasting code (DECAF), and CCSU. Jalal also worked as a research scientist at NASA Goddard Space Flight Center on novel satellite remote sensing techniques.
+    photo_file_name: Jalal _Butt.jpg
+
+  - name: Minseok Kim
+    title: 1st Year Graduate Student
+    description: Minseok is a 1st-year PhD student in the MAE department. Before joining the Kolemen group, he completed his bachelor's degree in Physics and Artificial intelligence at Korea University and master's degree in Nuclear and Quantum engineering at Korea Advanced Institute of Science and Technology (KAIST). Minseok studied Bayesian statistics for KSTAR ion temperature profile reconstruction and machine learning application for fusion-grade hot plasma prediction during his master's degree. His current research interest is to detect edge localized mode (ELM) induced by sawtooth instability at DIII-D tokamak using ECE diagnostics.
+    photo_file_name: Minseok_Kim.jpg
+
+  - name: Yigit Gunsur Elmacioglu
+    title: 1st Year Graduate Student
+    description: Dario is a 5th-year graduate student in the MAE department interested in computational plasma physics, especially related to fusion energy. He completed his undergraduate in Nuclear, Plasma, and Radiological Engineering at UIUC before attending Princeton. Currently, Dario works on code development and error analysis of computational stellarator equilibria, as well as helical coil design and connections between 3D global MHD equilibria and the near-axis expansion.
+    photo_file_name: Yigit_Gunsur_Elmacioglu.jpg
+
+  - name: Hiro Farre
+    title: 1st Year Graduate Student
+    description: Hiro is a 1st year PhD student at the Princeton Plasma Physics Laboratory. He completed his master's and bachelor's degrees in Physics at the University of Cambridge, where he worked on simulating and detecting the Low to High Confinement Mode transition in tokamaks. By running HESEL simulations and analyzing experimental data from the DIII-D and MAST-U tokamaks, he studied the triggers leading to High Confinement Mode, a plasma state that is favorable for fusion reactors. In the Plasma Control group, he will work on plasma profile prediction for real time control on the DIII-D and ASDEX-U tokamaks.
+    photo_file_name: Hiro_Farre.jpg
+
+  - name: Nathaniel Chen
+    title: 1st Year Graduate Student
+    description: Nathan is a PhD student in  the Mechanical and Aerospace Engineering department. He completed his bachelor's degree in Physics and Cognitive Science at the University of California, Los Angeles. He works on machine learning and diagnostics in the plasma control group.
+    photo_file_name: Nathaniel_Chen.jpg
+
+  - name: Kian Orr
+    title: 1st Year Graduate Student
+    description: Kian is a 1st year PhD student interested in computational plasma physics, especially in the context of fusion. He went to UCLA for his undergrad in physics and subsequently worked at TAE Technologies, where he researched particle confinement times with spectroscopy diagnostics.
+    photo_file_name: Kian_Orr.jpg
 
 undergraduate_students:
-  - name: Egemen Kolemen
-    title: Principal Investigator
-    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
-    emails:
-      - ekolemen@pppl.gov
-      - ekolemen@princeton.edu
-    cv_file_name: Egemen_Kolemen_CV.pdf
-    photo_file_name: Egemen_Kolemen.png
-    orcid_id: 0000-0003-4212-3247
-    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
-    github_username: egemen-kolemen
+  - name: Kaya Unalmis
+    title: Undergraduate Student
+    description: Kaya is an undergraduate student at Princeton studying Electrical Engineering and Engineering Physics. As part of the stellarator team in the summer of 2022, Kaya contributed to the development of DESC, a stellarator equilibrium and optimization code. Outside of research, Kaya enjoys swimming and lifting.
+    photo_file_name: Kaya_Unalmis.jpg
+
+  - name: Felipe De Bolle
+    title: Undergraduate Student
+
+  - name: Aly Rashid
+    title: Undergraduate Student
 
 visiting_scholars:
-  - name: Egemen Kolemen
-    title: Principal Investigator
-    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
-    emails:
-      - ekolemen@pppl.gov
-      - ekolemen@princeton.edu
-    cv_file_name: Egemen_Kolemen_CV.pdf
-    photo_file_name: Egemen_Kolemen.png
-    orcid_id: 0000-0003-4212-3247
-    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
-    github_username: egemen-kolemen
+  - name: Andrea Hernandez
+    title: Visiting Scholar
+    description: High heat flux and recycling hydrogen isotopes (H/D/T) under strong magnetic fields are critical challenges for steady-state fusion reactors. To address these issues, Andrea's project aims to design an in-situ liquid metal centrifuge prototype for hydrogen isotope separation, using materials like Galinstan mixed with impurities such as Hafnium Oxide (HfO2) and Tungsten Trioxide (WO3). Employing X-ray fluorescence (XRF) for precise composition measurement, this work aims to optimize impurity-to-liquid metal ratios and create a benchmark for future lithium-based testing, enhancing efficiency in fusion reactors.
+    photo_file_name: Andrea_Hernandez.jpg
+  
+  - name: Autria Aidun
+    title: Visiting Scholar
+    description: Autria's summer project involves studying the liquid lithium utilization in the LTX-β tokamak walls. She has developed an algorithm to measure the velocity of liquid lithium flow using video motion tracking, with the aim of understanding the forces driving this movement. The goal is to explore possible mechanisms for liquid lithium wall movement under plasma conditions and to better understand the benefits of liquid lithium's ability to improve fusion.
+    photo_file_name: Autria_Aidun.jpg
+
+  - name: David Wang
+    title: Visiting Scholar
+    description: The DIII-D tokamak in San Diego employs gyrotrons to emit microwave beams that heat up the plasma, in a process called Electron Cyclotron Heating (ECH). It is important to understand how these ECH beams affect both the temperature and current drive of the plasma, in order to control heating and mitigate plasma instabilities such as Tearing Modes and ELMs. The goal of the project is to build a machine learning surrogate to predict the temperature and current drive profiles in the plasma, adjusting quickly and accurately for plasma instabilities. By optimizing the hyperparameters for a multilayer perceptron neural network, David is steadily improve the accuracy of its predictions.
+    photo_file_name: David_Wang.jpg
+
+  - name: Junyoung Jang
+    title: Visiting Scholar
+    description: Junyong is an undergraduate student at Seoul National University. He is now visiting Princeton University to collaborate with Plasma Control Group in the process of converting the outputs of DESC into Boozer coordinate components. He is conducting research analyzing the results obtained from DESC using STELLOPT packages such as TERPSICHORE and NEO.
+    photo_file_name: Junyoung_Jang.jpg
+
+  - name: Taegeun Jeong
+    title: Visiting Scholar
+    description: Taegeun is an integrated B.S./M.S. student in Seoul National University, and collaborate with DESC team in Plasma Control Group. He is working on the design of flexible stellarator, especially optimizing multiple quasi-symmetric plasmas and coils in single device.
+    photo_file_name: Taegeun_Jeong.jpg
+
+  - name: Min Ki Jung
+    title: Visiting Scholar
+    description: Min Ki am a visiting scholar from Seoul National University, South Korea. He is working on integrating the magnetic field induction formulation into free surface liquid metal flow simulation code, FreeMHD.
+    photo_file_name: Min_Ki_Jung.jpg
 
 past_members:
-  - name: Egemen Kolemen
-    title: Principal Investigator
-    description: Egemen Kolemen is an Associate Professor at Princeton University's Mechanical & Aerospace Engineering jointly appointed with the Andlinger Center for Energy and the Environment and the Princeton Plasma Physics Laboratory (PPPL). He is the director of the Program in Sustainable Energy, recipient of the David J. Rose Excellence in Fusion Engineering Award and the American Nuclear Society's Technical Accomplishment Award, and an ITER Scientist Fellow. His research combines engineering and physics analysis to enable economically feasible fusion reactors. He currently leads research on machine learning, real-time diagnostics and control at KSTAR, NSTX-U, and DIII-D. He directs liquid metal divertor and low temperature diagnostics labs. On the theoretical side, his group develops software for stellarator optimization and economical analysis of fusion reactors.
-    emails:
-      - ekolemen@pppl.gov
-      - ekolemen@princeton.edu
-    cv_file_name: Egemen_Kolemen_CV.pdf
-    photo_file_name: Egemen_Kolemen.png
-    orcid_id: 0000-0003-4212-3247
-    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
-    github_username: egemen-kolemen
+  - name: Rory Conlin
+    photo_file_name: Rory_Conlin.jpg
+  - name: Ricardo Shousha
+    photo_file_name: Ricardo_Shousha.jpg
+  - name: Joe Abbate
+    photo_file_name: Joe_Abbate.jpg
+  - name: Daniel Dudt
+    photo_file_name: Daniel_Dudt.jpg
+  - name: Susan Redmond
+    photo_file_name: Susan_Redmond.jpg
+  - name: Josiah Wai
+    photo_file_name: Josiah_Wai.jpg
+  - name: Zhen Sun
+    photo_file_name: Zhen_Sun.jpg
+  - name: J. A. Schwartz
+    photo_file_name: JA_Schwartz.jpg
+  - name: Jaemin Seo
+    photo_file_name: Jaemin_Seo.jpg
+  - name: Pat Vail
+    photo_file_name: Pat_Vail.jpg
+  - name: Tim Chen
+    photo_file_name: Tim_Chen.jpg
+  - name: Oak Nelson
+    photo_file_name: Oak_Nelson.jpg
+  - name: Adam Fisher
+    photo_file_name: Adam_Fisher.jpg
+  - name: Yichen Fu
+    photo_file_name: Yichen_Fu.jpg
+  - name: Mike Hvasta
+    photo_file_name: Mike_Hvasta.jpg
+  - name: Olivier Izacard
+    photo_file_name: Olivier_Izacard.jpg
+  - name: Florian Laggner
+    photo_file_name: Florian_Laggner.jpg
+  - name: David Eldon
+    photo_file_name: David_Eldon.jpg
+  - name: Alexandre Fil
+    photo_file_name: Alexandre_Fil.jpg
+  - name: Mikhail Modestov
+    photo_file_name: Mikhail_Modestov.jpg
+  - name: Matthijs Roelofs
+    photo_file_name: Matthijs_Roelofs.jpg
+  - name: Kornee Kleijwegt
+    photo_file_name: Kornee_Kleijwegt.jpg
+  - name: Koji Kusumi
+    photo_file_name: Koji_Kusumi.jpg
+  - name: Shoki Nakamura
+  - name: Jason Crocker
+  - name: Kayla Xu
+    photo_file_name: Kayla_Xu.jpg
+  - name: Daniel Vergara
+    photo_file_name: Daniel_Vergara.jpg
+  - name: Tal Shpigel
+    photo_file_name: Tal_Shpigel.jpg
+  - name: Ayomikun Gbadamosi
+  - name: Samantha O'Sullivan
+    photo_file_name: Samantha_OSullivan.jpg
+  - name: Shayaan Subzwari
+    photo_file_name: Shayaan_Subzwari.jpg
+  - name: Nigel Mesta
+    photo_file_name: Nigel_Mesta.jpg
+  - name: Laura Fang
+  - name: Yuno Iwasaki
+  - name: Azmaine Iqtidar
+  - name: Aaron Wu
+  - name: Milan A Wolff
+  - name: Bora Kiyan
+  - name: Alex Liu
+  - name: Nathaniel Barbour
+    photo_file_name: Nathaniel_Barbour.jpg
+  - name: Neil Slighton
+    photo_file_name: Neil_Slighton.jpg
+  - name: Gerrit Bruhaug
+    photo_file_name: Gerrit_Bruhaug.jpg
+  - name: Dhruval Patel
+    photo_file_name: Dhruval_Patel.jpg
