@@ -8,18 +8,18 @@ disable_comments: true
 # Members
 
 {% for people_category, people in members().items() %}
-{% if people_category != "Past Members" %}
+{% if people_category not in ["Past Members"] %}
 ## {{ people_category }}
 
 {% for person in people %}
 
-### {{ person.name }}
+### {{ person.name }} {% if people_category not in ["Principal Investigator"] %}({{ person.title }}) {% endif %}
 
 <div class="member-container">
     <div class="member-photo">
         <img src="{{ person.photo_url }}">
 
-        <p>{{ person.links }}</p>
+        {% if person.links %}<p>{{ person.links }}</p>{% endif %}
     </div>
 
     <div class="member-description" markdown="span">
@@ -38,12 +38,11 @@ disable_comments: true
 
 ## Past Members
 
-<div class="grid cards" markdown>
+<div class="past-member-grid grid" markdown>
 {% for person in members()["Past Members"] %}
 -  **{{ person.name }}**
 
     ---
-
     ![]({{ person.photo_url }})
 
 {% endfor %}

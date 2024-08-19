@@ -131,8 +131,10 @@
   border-radius: 0px 10px 10px 0px;
 }
 .member-photo img {
-  justify-content: center;
   border-radius: 10px 10px 10px 10px;
+}
+.member-photo p {
+  margin-bottom: 0px;
 }
 
 @media (min-width: 700px) {
@@ -150,8 +152,9 @@
   }
 }
 
-@media (min-width: 550px) and (max-width: 700px) {
+@media (min-width: 550px) {
   .member-photo img {
+    margin: auto;
     width: 70%;
   }
 }
@@ -184,4 +187,56 @@
     background-color: hsl(158deg 26% 40% / 10%);
   }
 }
+.past-member-grid {
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(min(100%, 12rem), 1fr)
+  ) !important;
+}
+.md-typeset .past-member-grid > ul > li {
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.1rem;
+  display: block;
+  margin: 0;
+  padding: 0.8rem;
+  transition: border 0.25s, box-shadow 0.25s;
+}
+
+.md-typeset .past-member-grid > ul {
+  display: contents;
+}
+
+.md-typeset .past-member-grid > ul > li {
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.1rem;
+  display: block;
+  margin: 0;
+  padding: 0.8rem;
+  text-align: center;
+}
+
+.md-typeset .past-member-grid > ul > li > hr {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.md-typeset .past-member-grid > ul > li > :first-child {
+  margin-top: 0;
+}
+
+.md-typeset .past-member-grid > ul > li > :last-child,
+.md-typeset .grid > .card > :last-child {
+  margin-bottom: 0;
+}
+
+.md-typeset .past-member-grid > ul > li :last-child {
+  width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.md-typeset .past-member-grid > ul > li > p > img {
+  object-fit: cover
+}
+
 /* For members page  */
