@@ -48,7 +48,7 @@ jxB-thrust was experimentally tested with free-surface-LM flows, a vertical magn
 
 ![CAPTION](../images/liquid_metals_for_fusion_8.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_9.png)
+![CAPTION](../images/liquid_metals_for_fusion_9.jpg)
 
 ## Divertorlets concept for low-recycling slow-flow liquid-metal divertors of fusion reactors
 
