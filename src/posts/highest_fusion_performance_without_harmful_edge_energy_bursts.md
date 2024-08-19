@@ -8,7 +8,7 @@ categories:
 
 # Highest fusion performance without harmful edge energy bursts
 
-<div class="blog-title-image" markdown="span">
+<div class="post-title-image" markdown="span">
 ![](post_images/highest_fusion_performance_without_harmful_edge_energy_bursts.png)
 </div>
 

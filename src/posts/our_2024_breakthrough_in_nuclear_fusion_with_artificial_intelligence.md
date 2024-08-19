@@ -8,7 +8,7 @@ categories:
 
 # Our 2024 Breakthrough in Nuclear Fusion with Artificial Intelligence
 
-<div class="blog-title-image" markdown="span">
+<div class="post-title-image" markdown="span">
 ![](post_images/our_2024_breakthrough_in_nuclear_fusion_with_artificial_intelligence.jpg)
 </div>
 

@@ -48,13 +48,13 @@
 }
 /* Increase the logo size */
 
-/* Blog title image settings */
-.blog-title-image {
+/* Post title image settings */
+.post-title-image {
   height: auto;
   width: 100%;
   overflow: hidden;
 }
-/* Blog title image settings */
+/* Post title image settings */
 
 /* For YouTube embeds */
 .video-wrapper {
@@ -78,7 +78,7 @@
 
 /* Group photo settings */
 #group-photo {
-  border-radius: 25px;
+  border-radius: 10px;
 }
 /* Group photo settings */
 
@@ -149,6 +149,12 @@
   }
 }
 
+@media (min-width: 550px) and (max-width: 700px) {
+  .member-photo img {
+    width: 70%;
+  }
+}
+
 @media (max-width: 700px) {
   .member-container {
     display: flex;
@@ -168,9 +174,6 @@
   .member-description {
     border-radius: 0px 0px 10px 10px;
     padding-top: 0px;
-  }
-  .member-photo img {
-    max-width: 500px;
   }
 }
 

@@ -8,7 +8,7 @@ categories:
 
 # Egemen Kolemen wins American Nuclear Society’s Technical Accomplishment Award
 
-<div class="blog-title-image" markdown="span">
+<div class="post-title-image" markdown="span">
 ![](post_images/egemen_kolemen_wins_ans_award.jpg)
 </div>
 
