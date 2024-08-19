@@ -59,3 +59,17 @@
   border: 0;
 }
 /* For YouTube embeds */
+
+/* Group photo settings */
+#group-photo {
+  border-radius: 25px;
+}
+/* Group photo settings */
+
+/* For index page, posts  */
+.post-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+/* For index page, posts  */
