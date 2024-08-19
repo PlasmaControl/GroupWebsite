@@ -1,4 +1,4 @@
-# DIII-D Collaboration
+# DIII-D Tokamak
 
 ## Real-time Equilibrium Reconstruction with Kinetic Constraints on DIII-D
 

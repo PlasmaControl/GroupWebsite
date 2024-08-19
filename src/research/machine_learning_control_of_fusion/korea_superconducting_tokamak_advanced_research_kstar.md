@@ -1,4 +1,4 @@
-# KSTAR
+# Korea Superconducting Tokamak Advanced Research (KSTAR)
 
 ## Adaptive ELM control
 
@@ -20,19 +20,9 @@ Recently, we are adopting the machine-learning algorithm to make a more advanced
 
 We are developing and testing these features in KSTAR recently, and expect that the success of control development will provide an ITER-relevant ELM control method.
 
-### Recent publication
-
-R. Shousha, S.K. Kim, K. G. Erickson, S. H. Hahn, A. O. Nelson, S. M. Yang, J. -K. Park, J. Wai, Y. M. Jeon, J.H. Lee, J. Jang, D. Seo and E. Kolemen "*Design and experimental demonstration of feedback adaptive RMP ELM controller toward complete long pulse ELM suppression on KSTAR*", Physics of Plasmas, DOI: [10.1063/5.0081928](https://doi.org/10.1063/5.0081928)
-
-S.K. Kim, R. Shousha, S. H. Hahn, A. O. Nelson, J. Wai, S. M. Yang, J. -K. Park,  Y. M. Jeon, J.H. Lee, J. Kim, C.Y. Lee, Y.-S. Na and E. Kolemen "*Optimization of 3D controlled ELM-free state with recovered global confinement for KSTAR with n = 1 resonant magnetic field perturbation*", Nuclear Fusion, DOI: [10.1088/1741-4326/ac4369](https://doi.org/10.1088/1741-4326/ac4369)
-
 ## MHD modeling on the pedestal stability under RMPs
 
 We are also developing the physics understanding of the role of RMPs on edge pedestal transport and stability. Nonlinear 3D MHD codes are utilized for numerical modeling, and such work will provide physics-based guidance for RMP control.
-
-
-### Recent publication
-S.K. Kim, S. Pamela, N. Logan, Y.-S. Na, C. Y. Lee, J.-K. Park, S. Yang, Q. Hu, M. Becoulet, G. Huisjmans, M. Hoelzl, Y. In, M. Kim, H.H.Lee, J. Lee, O. Kwon and E. Kolemen "*Nonlinear MHD modeling of n=1 RMP-induced pedestal transport and mode coupling effects on ELM suppression in KSTAR*", Nuclear Fusion, DOI: [10.1088/1741-4326/ac84ef](https://doi.org/10.1088/1741-4326/ac84ef)
 
 ## 3D Spectroscopy
 
