@@ -7,53 +7,29 @@ disable_comments: true
 
 # Members
 
-## Principal Investigator
+{% for people_category, people in members().items() %}
 
-### {{ members().principal_investigator.name }} ({{ members().principal_investigator.links }})
+## {{ people_category }}
 
-![]({{ members().principal_investigator.photo_url }})
+{% for person in people %}
 
-{{ members().principal_investigator.description }}
+### {{ person.name }}
 
-**Contact**: {{ members().principal_investigator.emails_markdown_urls }}
+<div class="member-container">
+    <div class="member-photo">
+        <img src="{{ person.photo_url }}">
 
-## Research Staff
+        <p>{{ person.links }}</p>
+    </div>
 
-{% for member in members().research_staff %}
-### {{ member.name }}
+    <div class="member-description" markdown="span">
+<p>{{ person.description }}</p>
 
-![]({{ member.photo_url }})
+<p><strong>Contact: </strong>{{ person.emails_html_urls }}</p>
+    </div>
+</div>
 
-{{ member.description }}
 {% endfor %}
 
-## Graduate Students
-
-{% for member in members().graduate_students %}
-### {{ member.name }}
-
-![]({{ member.photo_url }})
-
-{{ member.description }}
 {% endfor %}
 
-## Undergraduate Students
-
-{% for member in members().undergraduate_students %}
-
-### {{ member.name }}
-
-![]({{ member.photo_url }})
-
-{{ member.description }}
-{% endfor %}
-
-## Visiting Scholars
-
-{% for member in members().visiting_scholars %}
-### {{ member.name }}
-
-![]({{ member.photo_url }})
-
-{{ member.description }}
-{% endfor %}

@@ -179,47 +179,78 @@ class Member(BaseModel):
         if self.photo_file_name is not None:
             return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/photos/{self.photo_file_name}?raw=true"
 
-        return None
-
     @functools.cached_property
-    def cv_markdown_url(self) -> Optional[str]:
+    def cv_html_url(self) -> Optional[str]:
         """Return the URL of the CV file."""
         if self.cv_file_name is not None:
-            return f"[CV](https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/cvs/{self.cv_file_name}?raw=true)"
-
-        return None
+            return (
+                f'<a href="https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/cvs/{self.cv_file_name}?raw=true">CV</a>'
+            )
 
     @functools.cached_property
-    def github_markdown_url(self) -> Optional[str]:
+    def github_html_url(self) -> Optional[str]:
         """Return the URL of the GitHub profile."""
         if self.github_username is not None:
-            return f"[:fontawesome-brands-github:](https://github.com/{self.github_username})"
-        else:
-            return ""
+            return (
+                f'<a href="https://github.com/{self.github_username}"><span'
+                ' class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0'
+                ' 496 512"><!--! Font Awesome Free 6.5.2 by @fontawesome -'
+                " https://fontawesome.com License -"
+                " https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL"
+                " OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path"
+                ' d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2'
+                " 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3"
+                " 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2"
+                " 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7"
+                " 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0"
+                " 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1"
+                " 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0"
+                " 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9"
+                " 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5"
+                " 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27"
+                " 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7"
+                " 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9"
+                " 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0"
+                " 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5"
+                " 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1"
+                " 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9"
+                " 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4"
+                " 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1"
+                " 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6"
+                " 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9"
+                ' 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg></span></a>'
+            )
 
     @functools.cached_property
-    def google_scholar_markdown_url(self) -> Optional[str]:
+    def google_scholar_html_url(self) -> Optional[str]:
         """Return the URL of the Google Scholar profile."""
         if self.google_scholar_url is not None:
-            return (
-                "[Google"
-                f" Scholar](https://scholar.google.com/citations?user={self.google_scholar_url})"
-            )
-        else:
-            return ""
+            return f'<a href="{self.google_scholar_url}">Google Scholar</a>'
 
     @functools.cached_property
-    def orcid_markdown_url(self) -> Optional[str]:
+    def orcid_html_url(self) -> Optional[str]:
         """Return the URL of the ORCID profile."""
         if self.orcid_id is not None:
-            return f"[:fontawesome-brands-orcid:](https://orcid.org/{self.orcid_id})"
-        else:
-            return ""
+            return (
+                f'<a href="https://orcid.org/{self.orcid_id}"><span'
+                ' class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0'
+                ' 512 512"><!--! Font Awesome Free 6.5.2 by @fontawesome -'
+                " https://fontawesome.com License -"
+                " https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL"
+                " OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path"
+                ' d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91'
+                " 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248"
+                " 248 248-111 248-248S393 8 256 8zm-80.79"
+                " 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1"
+                " 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300"
+                " 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410 318.39"
+                ' 368.38 369 300 369z"></path></svg></span></a>'
+            )
 
     @functools.cached_property
-    def emails_markdown_urls(self) -> str:
+    def emails_html_urls(self) -> str:
         """Return a string with the emails separated by commas."""
-        email_links = [f"[{email}](mailto:{email})" for email in self.emails]
+        email_links = [f"<a href='mailto:{email}'>{email}</a>" for email in self.emails]
         return ", ".join(email_links)
 
     @functools.cached_property
@@ -228,10 +259,10 @@ class Member(BaseModel):
         links = [
             link
             for link in [
-                self.orcid_markdown_url,
-                self.google_scholar_markdown_url,
-                self.cv_markdown_url,
-                self.github_markdown_url,
+                self.orcid_html_url,
+                self.google_scholar_html_url,
+                self.cv_html_url,
+                self.github_html_url,
             ]
             if link
         ]
@@ -267,7 +298,7 @@ class Member(BaseModel):
 class GroupMembers(BaseModel):
     """This class defines the schema for the members.yaml file."""
 
-    principal_investigator: Member
+    principal_investigator: list[Member]
     research_staff: list[Member]
     graduate_students: list[Member]
     undergraduate_students: list[Member]
@@ -336,5 +367,14 @@ def define_env(env):
         members_file_contents = members_file_path.read_text(encoding="utf-8")
         members_as_dictionary = ruamel.yaml.YAML().load(members_file_contents)
         group_members = GroupMembers(**members_as_dictionary)
+
+        group_members = {
+            "Principal Investigator": group_members.principal_investigator,
+            "Research Staff": group_members.research_staff,
+            "Graduate Students": group_members.graduate_students,
+            "Undergraduate Students": group_members.undergraduate_students,
+            "Visiting Scholars": group_members.visiting_scholars,
+            "Past Members": group_members.past_members,
+        }
 
         return group_members

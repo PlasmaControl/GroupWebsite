@@ -38,7 +38,7 @@
 .md-header__button.md-logo svg {
   height: 2.6rem;
 }
-// To make anchor links work with the increased logo size
+// To make anchor links work with the increased logo size:
 [id]::before {
   content: "";
   display: block;
@@ -109,3 +109,75 @@
   }
 }
 /* For index page, posts  */
+
+/* For members page  */
+.member-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.member-photo,
+.member-description {
+  flex: 45%;
+  padding: 15px;
+  border-radius: 10px 0px 0px 10px;
+  background-color: #e4efeb60;
+}
+.member-photo {
+  text-align: center;
+  border-radius: 10px 0px 0px 10px;
+}
+.member-description {
+  border-radius: 0px 10px 10px 0px;
+}
+.member-photo img {
+  justify-content: center;
+  border-radius: 10px 10px 10px 10px;
+}
+
+@media (min-width: 700px) {
+  .member-photo,
+  .member-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .member-description > p:first-child {
+    margin-top: 0px;
+  }
+  .member-description > p:last-child {
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 700px) {
+  .member-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 0px;
+  }
+  .member-photo,
+  .member-description {
+    margin-bottom: 0px;
+    flex: 100%;
+  }
+  .member-photo {
+    border-radius: 10px 10px 0px 0px;
+    padding-bottom: 0px;
+  }
+  .member-description {
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 0px;
+  }
+  .member-photo img {
+    max-width: 500px;
+  }
+}
+
+[data-md-color-scheme="slate"] {
+  .member-photo,
+  .member-description {
+    background-color: hsl(158deg 26% 40% / 10%);
+  }
+}
+/* For members page  */
