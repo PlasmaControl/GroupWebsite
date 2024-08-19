@@ -1,0 +1,3 @@
+# DESC
+
+Stellarators are a promising type of fusion reactor that can run in steady-state with a low risk of disrupting. They need to be optimized for good particle confinement, however, and their complicated geometry makes these calculations expensive. We have developed the code DESC to compute three-dimensional equilibria by solving the magnetohydrodynamic force balance equations. DESC is an open-source, 3D ideal MHD equilibrium solver and optimization code suite, designed to be the modern stellarator optimization and design tool, able to quickly and accurately solve the 3D ideal MHD equilibrium equations and obtain optimized stellarator designs while satisfying physics and engineering constraints.
