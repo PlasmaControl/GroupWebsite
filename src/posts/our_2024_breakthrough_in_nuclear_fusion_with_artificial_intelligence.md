@@ -50,7 +50,7 @@ Researchers Involved: [Jaemin Seo](https://www.nature.com/articles/s41586-024-0
 
 [USA: nuclear fusion, Princeton University uses AI to stabilize plasma (agenzianova.com)](https://www.agenzianova.com/en/news/USA-nuclear-fusion-Princeton-University-uses-artificial-intelligence-to-stabilize-plasma/)
 
-[AI can now forecasts nuclear fusion reactor instabilities in real time (interestingengineering.com)](https://interestingengineering.com/innovation/ai-to-forecast-real-time-plasma-instabilities-in-nuclear-fusion-reactor)ucted by researchers including **Jaemin Seo**, **SangKyeun Kim**, and **Azarakhsh Jalalvand**, affiliated with **Princeton University** and **Princeton Plasma Physics Lab (PPPL)**.
+[AI can now forecasts nuclear fusion reactor instabilities in real time (interestingengineering.com)](https://interestingengineering.com/innovation/ai-to-forecast-real-time-plasma-instabilities-in-nuclear-fusion-reactor)
 
 ## Other Videos
 
