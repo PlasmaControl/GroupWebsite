@@ -240,3 +240,14 @@
 }
 
 /* For members page  */
+
+/* For footer logo */
+.footer-logo {
+  text-align: center;
+}
+.footer-logo > img{
+  width: 5rem;
+  margin-top: 5px;
+  margin-bottom: -5px;
+}
+/* For footer logo */

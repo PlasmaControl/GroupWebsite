@@ -30,6 +30,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
+    - navigation.footer
     - navigation.tabs
     - content.action.edit # view source button for pages
     - content.code.copy # the copy-to-clipboard buttons for code blocks
