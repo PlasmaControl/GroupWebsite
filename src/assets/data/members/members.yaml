@@ -87,6 +87,16 @@ graduate_students:
     description: Yigit is an incoming PhD student in the Mechanical and Aerospace Engineering department. He completed his bachelor's degree in Mechanical Engineering along with a double major in Physics at Bogazici University. During his undergraduate studies, he worked on magnetic guidewire steering in ultrahigh magnetic fields and PIC-DSMC implementation of the ion thruster grid region. In the Kolemen group, he will work on plasma simulations for stellarators.
     photo_file_name: Yigit_Gunsur_Elmacioglu.jpg
 
+  - name: Sina Atalay
+    title: 1st Year Graduate Student
+    description: Sina is an incoming PhD student in the Mechanical and Aerospace Engineering department. He completed his bachelor's degree in Mechanical Engineering at Bogazici University in Istanbul. Following his undergraduate studies, he worked at CERN as a technical student, focusing on modeling and simulating the quench of superconducting coils. In his upcoming work with the Plasma Control Group, he will concentrate on stellarator optimization and superconductivity.
+    photo_file_name: Sina_Atalay.jpg
+    emails:
+      - sina.atalay@princeton.edu
+    orcid_id: 0009-0000-4969-8604
+    google_scholar_url: https://scholar.google.com/citations?user=F8IyYrQAAAAJ&hl=en
+    github_username: sinaatalay
+
   - name: Hiro Farre
     title: 1st Year Graduate Student
     description: Hiro is a 1st year PhD student at the Princeton Plasma Physics Laboratory. He completed his master's and bachelor's degrees in Physics at the University of Cambridge, where he worked on simulating and detecting the Low to High Confinement Mode transition in tokamaks. By running HESEL simulations and analyzing experimental data from the DIII-D and MAST-U tokamaks, he studied the triggers leading to High Confinement Mode, a plasma state that is favorable for fusion reactors. In the Plasma Control group, he will work on plasma profile prediction for real time control on the DIII-D and ASDEX-U tokamaks.
