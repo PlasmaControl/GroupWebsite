@@ -84,7 +84,7 @@ graduate_students:
 
   - name: Yigit Gunsur Elmacioglu
     title: 1st Year Graduate Student
-    description: Dario is a 5th-year graduate student in the MAE department interested in computational plasma physics, especially related to fusion energy. He completed his undergraduate in Nuclear, Plasma, and Radiological Engineering at UIUC before attending Princeton. Currently, Dario works on code development and error analysis of computational stellarator equilibria, as well as helical coil design and connections between 3D global MHD equilibria and the near-axis expansion.
+    description: Yigit is an incoming PhD student in the Mechanical and Aerospace Engineering department. He completed his bachelor's degree in Mechanical Engineering along with a double major in Physics at Bogazici University. During his undergraduate studies, he worked on magnetic guidewire steering in ultrahigh magnetic fields and PIC-DSMC implementation of the ion thruster grid region. In the Kolemen group, he will work on plasma simulations for stellarators.
     photo_file_name: Yigit_Gunsur_Elmacioglu.jpg
 
   - name: Hiro Farre
