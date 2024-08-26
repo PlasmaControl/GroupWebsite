@@ -67,7 +67,7 @@ class Publication(BaseModel):
     @functools.cached_property
     def pdf_url(self) -> str:
         """Return the URL of the PDF file."""
-        return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/publications/pdfs/{self.pdf_file_name}?raw=true"
+        return f"https://plasmacontrol.github.io/GroupWebsite/assets/data/publications/pdfs/{self.pdf_file_name}"
 
     @pydantic.field_validator("date")
     @classmethod
