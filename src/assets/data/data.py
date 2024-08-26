@@ -177,9 +177,9 @@ class Member(BaseModel):
     def photo_url(self) -> Optional[str]:
         """Return the URL of the photo file."""
         if self.photo_file_name is not None:
-            return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/photos/{self.photo_file_name}?raw=true"
+            return f"https://plasmacontrol.github.io/GroupWebsite/assets/data/members/photos/{self.photo_file_name}"
         else:
-            return f"https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/photos/person.png?raw=true"
+            return "https://plasmacontrol.github.io/GroupWebsite/assets/data/members/photos/person.png"
 
     @functools.cached_property
     def cv_html_url(self) -> Optional[str]:

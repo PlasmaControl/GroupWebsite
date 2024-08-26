@@ -155,7 +155,7 @@
 @media (min-width: 550px) {
   .member-photo img {
     margin: auto;
-    width: 70%;
+    width: 85%;
   }
 }
 
@@ -186,6 +186,9 @@
   .member-description {
     background-color: hsl(158deg 26% 40% / 10%);
   }
+  .md-typeset .past-member-grid > ul > li {
+    background-color: hsl(158deg 26% 40% / 10%);
+  }
 }
 .past-member-grid {
   grid-template-columns: repeat(
@@ -193,22 +196,14 @@
     minmax(min(100%, 12rem), 1fr)
   ) !important;
 }
-.md-typeset .past-member-grid > ul > li {
-  border: 0.05rem solid var(--md-default-fg-color--lightest);
-  border-radius: 0.1rem;
-  display: block;
-  margin: 0;
-  padding: 0.8rem;
-  transition: border 0.25s, box-shadow 0.25s;
-}
 
 .md-typeset .past-member-grid > ul {
   display: contents;
 }
 
 .md-typeset .past-member-grid > ul > li {
-  border: 0.05rem solid var(--md-default-fg-color--lightest);
-  border-radius: 0.1rem;
+  background-color: #e4efeb60;
+  border-radius: 10px;
   display: block;
   margin: 0;
   padding: 0.8rem;
@@ -216,8 +211,7 @@
 }
 
 .md-typeset .past-member-grid > ul > li > hr {
-  margin-bottom: 1em;
-  margin-top: 1em;
+  display: none;
 }
 
 .md-typeset .past-member-grid > ul > li > :first-child {
@@ -236,16 +230,15 @@
 }
 
 .md-typeset .past-member-grid > ul > li > p > img {
-  object-fit: cover
+  object-fit: cover;
 }
-
 /* For members page  */
 
 /* For footer logo */
 .footer-logo {
   text-align: center;
 }
-.footer-logo > img{
+.footer-logo > img {
   width: 5rem;
   margin-top: 5px;
   margin-bottom: -5px;
