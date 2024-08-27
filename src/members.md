@@ -7,6 +7,8 @@ disable_comments: true
 
 # Members
 
+![](/assets/images/group_photo_2.png){ #group-photo }
+
 {% for people_category, people in members().items() %}
 {% if people_category not in ["Past Members"] %}
 ## {{ people_category }}
