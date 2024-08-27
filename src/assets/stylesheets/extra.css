@@ -80,6 +80,8 @@
 /* Group photo settings */
 #group-photo {
   border-radius: 10px;
+  margin: auto;
+  display: block;
 }
 /* Group photo settings */
 

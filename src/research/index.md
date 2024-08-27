@@ -7,6 +7,8 @@ disable_comments: true
 
 # Research
 
+![](images/research_animation.gif){ #group-photo }
+
 <div class="grid cards" markdown>
 
 -   **Machine Learning Control of Fusion**
