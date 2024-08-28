@@ -440,9 +440,14 @@ past_members:
   - name: Dhruval Patel
     photo_file_name: Dhruval_Patel.jpg
   - name: Test
+    title:
+    description:
     emails:
       - 
       - 
       - 
     photo_file_name: ''
     cv_file_name: ''
+    google_scholar_url:
+    orcid_id:
+    github_username:
