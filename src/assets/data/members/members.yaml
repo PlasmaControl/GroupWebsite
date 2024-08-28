@@ -439,3 +439,10 @@ past_members:
     photo_file_name: Gerrit_Bruhaug.jpg
   - name: Dhruval Patel
     photo_file_name: Dhruval_Patel.jpg
+  - name: Test
+    emails:
+      - 
+      - 
+      - 
+    photo_file_name: ''
+    cv_file_name: ''
