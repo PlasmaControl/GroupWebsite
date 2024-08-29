@@ -224,8 +224,7 @@ graduate_students:
     photo_file_name: Yigit_Gunsur_Elmacioglu.jpg
 
   - name: Sina Atalay
-    title: 1st Year Graduate Student
-    description: Test
+    photo_file_name: Sina_Atalay.jpg
   - name: Hiro Farre
     title: 1st Year Graduate Student
     description: Hiro is a 1st year PhD student at the Princeton
