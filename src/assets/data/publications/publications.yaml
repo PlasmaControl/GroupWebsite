@@ -3113,9 +3113,9 @@ publications:
       tearing instability with deep reinforcement learning”.pdf'
   - title: Test
     type: Papers
-    category: Special Topics
+    category: Machine Learning
     authors:
       - Test Author
-    date: '2024-08-30'
+    date: '2024-08-31'
     context: Conference
     pdf_file_name: AtalayS.pdf
