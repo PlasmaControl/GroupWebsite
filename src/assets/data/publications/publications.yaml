@@ -3111,11 +3111,11 @@ publications:
     context: Test
     pdf_file_name: '[294] Jaemin Seo et al. “Avoiding fusion plasma
       tearing instability with deep reinforcement learning”.pdf'
-  - title: Test 2
+  - title: Test
     type: Papers
-    category: Machine Learning
+    category: Special Topics
     authors:
       - Test Author
-    date: '2024-08-31'
+    date: '2024-08-30'
     context: Conference
     pdf_file_name: AtalayS.pdf
