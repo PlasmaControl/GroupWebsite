@@ -1,8 +1,9 @@
 publications:
-  - title: Accurate ECH Deposition With Real-time TORBEAM and ECH Mirror Feedback Control
+  - title: Accurate ECH Deposition With Real-time TORBEAM and
+      ECH Mirror Feedback Control
     type: Presentations
     category: Controls and Optimization
-    date: "2024-07-01"
+    date: '2024-07-01'
     pdf_file_name: 2024-07-Rothstein.pdf
     context: DIII-D SET Meeting
     authors:
@@ -15,28 +16,31 @@ publications:
   - title: Advanced Magnetic Divertor Control
     type: Papers
     category: Controls and Optimization
-    date: "2024-07-01"
+    date: '2024-07-01'
     pdf_file_name: 2024-07-Kolemen.pdf
     context: Nuclear Fusion
     authors:
       - E. Kolemen
 
-  - title: "Data-Driven Profile Prediction for DIII-D"
+  - title: Data-Driven Profile Prediction for DIII-D
     type: Papers
     category: Machine Learning
-    date: "2021-03-01"
-    pdf_file_name: "[1] Joseph Abbate, R Conlin, and E Kolemen “Data-driven profile prediction for DIII-D”.pdf"
+    date: '2021-03-01'
+    pdf_file_name: '[1] Joseph Abbate, R Conlin, and E Kolemen
+      “Data-driven profile prediction for DIII-D”.pdf'
     context: Nuclear Fusion
     authors:
       - J. Abbate
       - R. Conlin
       - E. Kolemen
 
-  - title: "A General Infrastructure for Data-Driven Control Design and Implementation in Tokamaks"
+  - title: A General Infrastructure for Data-Driven Control Design
+      and Implementation in Tokamaks
     type: Papers
     category: Controls and Optimization
-    date: "2022-10-01"
-    pdf_file_name: "[5] Joseph Abbate et al. “A general infrastructure for data-driven control design and implementation in tokamaks”.pdf"
+    date: '2022-10-01'
+    pdf_file_name: '[5] Joseph Abbate et al. “A general infrastructure
+      for data-driven control design and implementation in tokamaks”.pdf'
     context: Journal of Plasma Physics
     authors:
       - J. Abbate
@@ -45,11 +49,13 @@ publications:
       - K. Erickson
       - E. Kolemen
 
-  - title: "A Domestic Program for Liquid Metal Pfc Research in Fusion"
+  - title: A Domestic Program for Liquid Metal Pfc Research in
+      Fusion
     type: Papers
     category: Liquid Metals
-    date: "2020-10-01"
-    pdf_file_name: "[11] D Andruczyk et al. “A domestic program for liquid metal PFC research in fusion”.pdf"
+    date: '2020-10-01'
+    pdf_file_name: '[11] D Andruczyk et al. “A domestic program
+      for liquid metal PFC research in fusion”.pdf'
     context: Fusion Science and Technology
     authors:
       - D. Andruczyk
@@ -62,20 +68,24 @@ publications:
       - D. Youchison
       - S. Smolentsev
 
-  - title: "Plasma Boundary Shape Control and Real-Time Equilibrium Reconstruction on NSTX-U"
+  - title: Plasma Boundary Shape Control and Real-Time Equilibrium
+      Reconstruction on NSTX-U
     type: Papers
     category: Special Topics
-    date: "2018-01-01"
-    pdf_file_name: "[16] MD Boyer et al. “Plasma boundary shape control and real-time equilibrium reconstruction on NSTX-U”.pdf"
+    date: '2018-01-01'
+    pdf_file_name: '[16] MD Boyer et al. “Plasma boundary shape
+      control and real-time equilibrium reconstruction on NSTX-U”.pdf'
     context: Nuclear Fusion
     authors:
       - M. D. Boyer et al.
 
-  - title: "Upgrades and Performance of the Electron Cyclotron Heating System on DIII-D"
+  - title: Upgrades and Performance of the Electron Cyclotron
+      Heating System on DIII-D
     type: Papers
     category: Special Topics
-    date: "2013-06-01"
-    pdf_file_name: "[19] M Cengher et al. “Upgrades and performance of the electron cyclotron heating system on DIII-D”.pdf"
+    date: '2013-06-01'
+    pdf_file_name: '[19] M Cengher et al. “Upgrades and performance
+      of the electron cyclotron heating system on DIII-D”.pdf'
     context: IEEE Transactions on Plasma Science
     authors:
       - M. Cengher
@@ -88,11 +98,13 @@ publications:
       - S. Noraky
       - C. P. Moeller
 
-  - title: "Performance and Upgrades for the Electron Cyclotron Heating System on DIII-D"
+  - title: Performance and Upgrades for the Electron Cyclotron
+      Heating System on DIII-D
     type: Papers
     category: Special Topics
-    date: "2014-07-01"
-    pdf_file_name: "[20] Mirela Cengher et al. “Performance and upgrades for the electron cyclotron heating system on DIII-D”.pdf"
+    date: '2014-07-01'
+    pdf_file_name: '[20] Mirela Cengher et al. “Performance and
+      upgrades for the electron cyclotron heating system on DIII-D”.pdf'
     context: IEEE Transactions on Plasma Science
     authors:
       - M. Cengher
@@ -104,11 +116,13 @@ publications:
       - S. Noraky
       - C. P. Moeller
 
-  - title: "Full Shot Predictions for the DIII-D Tokamak via Deep Recurrent Networks"
+  - title: Full Shot Predictions for the DIII-D Tokamak via Deep
+      Recurrent Networks
     type: Papers
     category: Machine Learning
-    date: "2024-04-01"
-    pdf_file_name: "[24] Ian Char et al. “Full Shot Predictions for the DIII-D Tokamak via Deep Recurrent Networks”.pdf"
+    date: '2024-04-01'
+    pdf_file_name: '[24] Ian Char et al. “Full Shot Predictions
+      for the DIII-D Tokamak via Deep Recurrent Networks”.pdf'
     context: IEEE Transactions on Plasma Science
     authors:
       - I. Char
@@ -117,11 +131,12 @@ publications:
       - E. Kolemen
       - J. Schneider
 
-  - title: "Offline Contextual Bayesian Optimization"
+  - title: Offline Contextual Bayesian Optimization
     type: Papers
     category: Machine Learning
-    date: "2019-01-01"
-    pdf_file_name: "[25] Ian Char et al. “Offline contextual bayesian optimization”.pdf"
+    date: '2019-01-01'
+    pdf_file_name: '[25] Ian Char et al. “Offline contextual bayesian
+      optimization”.pdf'
     context: NeurIPS
     authors:
       - I. Char
@@ -133,12 +148,15 @@ publications:
       - E. Kolemen
       - J. Schneider
 
-  - title: "Offline Model-Based Reinforcement Learning for Tokamak Control"
+  - title: Offline Model-Based Reinforcement Learning for Tokamak
+      Control
     type: Papers
     category: Controls and Optimization
-    date: "2023-01-01"
-    pdf_file_name: "[26.1] Ian Char et al. “Offline Model-Based Reinforcement Learning for Tokamak Control”.pdf"
-    context: 5th Annual Conference on Learning for Dynamics and Control
+    date: '2023-01-01'
+    pdf_file_name: '[26.1] Ian Char et al. “Offline Model-Based
+      Reinforcement Learning for Tokamak Control”.pdf'
+    context: 5th Annual Conference on Learning for Dynamics and
+      Control
     authors:
       - I. Char
       - J. Abbate
@@ -152,11 +170,13 @@ publications:
       - E. Kolemen
       - J. Schneider
 
-  - title: "Offline Model-Based Reinforcement Learning for Tokamak Control"
+  - title: Offline Model-Based Reinforcement Learning for Tokamak
+      Control
     type: Papers
     category: Controls and Optimization
-    date: "2023-01-01"
-    pdf_file_name: "[26.2] Ian Char et al. “Offline Model-Based Reinforcement Learning for Tokamak Control”.pdf"
+    date: '2023-01-01'
+    pdf_file_name: '[26.2] Ian Char et al. “Offline Model-Based
+      Reinforcement Learning for Tokamak Control”.pdf'
     context: NeurIPS
     authors:
       - I. Char
@@ -171,11 +191,14 @@ publications:
       - E. Kolemen
       - J. Schneider
 
-  - title: "Rotation-Vibration Non-equilibrium Measurement Using Pure Rotational fs/ps Cars Coherence Beating"
+  - title: Rotation-Vibration Non-equilibrium Measurement Using
+      Pure Rotational fs/ps Cars Coherence Beating
     type: Papers
     category: Special Topics
-    date: "2021-12-01"
-    pdf_file_name: "[27] Timothy Chen et al. “Rotation-vibration non-equilibrium measurement using pure rotational fs-ps CARS coherence beating”.pdf"
+    date: '2021-12-01'
+    pdf_file_name: '[27] Timothy Chen et al. “Rotation-vibration
+      non-equilibrium measurement using pure rotational fs-ps
+      CARS coherence beating”.pdf'
     context: Proceedings of the AIAA SciTech Forum
     authors:
       - T. Y. Chen
@@ -184,11 +207,14 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Time-Resolved Electron Temperature and Species Measurements and Predictions of Plasma-Assisted Reforming of Methane"
+  - title: Time-Resolved Electron Temperature and Species Measurements
+      and Predictions of Plasma-Assisted Reforming of Methane
     type: Papers
     category: Special Topics
-    date: "2019-01-01"
-    pdf_file_name: "[29] Timothy Chen et al. “Time-resolved electron temperature and species measurements and predictions of plasma-assisted reforming of methane”.pdf"
+    date: '2019-01-01'
+    pdf_file_name: '[29] Timothy Chen et al. “Time-resolved electron
+      temperature and species measurements and predictions of
+      plasma-assisted reforming of methane”.pdf'
     context: AIAA SciTech Forum
     authors:
       - T. Y. Chen
@@ -199,11 +225,15 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Time-Resolved Measurements of Electric Field, Electron Temperature, and Electron Density in a Nanosecond-Pulsed Dielectric Barrier Discharge"
+  - title: Time-Resolved Measurements of Electric Field, Electron
+      Temperature, and Electron Density in a Nanosecond-Pulsed
+      Dielectric Barrier Discharge
     type: Papers
     category: Special Topics
-    date: "2020-01-01"
-    pdf_file_name: "[30] Timothy Chen et al. “Time-resolved measurements of electric field, electron temperature, and electron density in a nanosecond-pulsed dielectric barrier discharge”.pdf"
+    date: '2020-01-01'
+    pdf_file_name: '[30] Timothy Chen et al. “Time-resolved measurements
+      of electric field, electron temperature, and electron density
+      in a nanosecond-pulsed dielectric barrier discharge”.pdf'
     context: AIAA SciTech Forum
     authors:
       - T. Y. Chen
@@ -212,12 +242,15 @@ publications:
       - Y. Ju
       - E. Kolemen
 
-  - title: "1-D Imaging of Rotation-Vibration Non-equilibrium From Pure Rotational Ultrafast Coherent Anti-stokes Raman Scattering"
+  - title: 1-D Imaging of Rotation-Vibration Non-equilibrium From
+      Pure Rotational Ultrafast Coherent Anti-stokes Raman Scattering
     type: Papers
     category: Special Topics
-    date: "2020-07-01"
-    pdf_file_name: "[31] Timothy Y Chen et al. “1-D imaging of rotation-vibration non-equilibrium from pure rotational ultrafast coherent anti-Stokes Raman scattering”.pdf"
-    context: 
+    date: '2020-07-01'
+    pdf_file_name: '[31] Timothy Y Chen et al. “1-D imaging of
+      rotation-vibration non-equilibrium from pure rotational
+      ultrafast coherent anti-Stokes Raman scattering”.pdf'
+    context:
     authors:
       - T. Y. Chen
       - B. M. Goldberg
@@ -226,11 +259,15 @@ publications:
       - Y. Ju
       - C. J. Kliewer
 
-  - title: "Impact of CH4 Addition on the Electron Properties and Electric Field Dynamics in a AR Nanosecond-Pulsed Dielectric Barrier Discharge"
+  - title: Impact of CH4 Addition on the Electron Properties and
+      Electric Field Dynamics in a AR Nanosecond-Pulsed Dielectric
+      Barrier Discharge
     type: Papers
     category: Special Topics
-    date: "2023-01-01"
-    pdf_file_name: "[32] Timothy Y Chen et al. “Impact of CH4 addition on the electron properties and electric field dynamics in a Ar nanosecond-pulsed dielectric barrier discharge”.pdf"
+    date: '2023-01-01'
+    pdf_file_name: '[32] Timothy Y Chen et al. “Impact of CH4
+      addition on the electron properties and electric field dynamics
+      in a Ar nanosecond-pulsed dielectric barrier discharge”.pdf'
     context: Plasma Sources Science and Technology
     authors:
       - T. Y. Chen
@@ -242,11 +279,14 @@ publications:
       - Y. Ju
       - E. Kolemen
 
-  - title: "Simultaneous Single Shot Rotation-Vibration Non-equilibrium Hermometry Using Pure Rotational fs/ps Cars Coherence Beating"
+  - title: Simultaneous Single Shot Rotation-Vibration Non-equilibrium
+      Hermometry Using Pure Rotational fs/ps Cars Coherence Beating
     type: Papers
     category: Special Topics
-    date: "2022-09-01"
-    pdf_file_name: "[33] Timothy Y Chen et al. “Simultaneous single-shot rotation–vibration nonequilibrium thermometry using pure rotational fs-ps CARS coherence beating”.pdf"
+    date: '2022-09-01'
+    pdf_file_name: '[33] Timothy Y Chen et al. “Simultaneous single-shot
+      rotation–vibration nonequilibrium thermometry using pure
+      rotational fs-ps CARS coherence beating”.pdf'
     context: Optics Letters
     authors:
       - T. Y. Chen
@@ -256,11 +296,15 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Single Shot Burst Imaging of Electric Fields Measured by Split Excitation Electric Field Induced Second Harmonic Generation (SEE-FISH)"
+  - title: Single Shot Burst Imaging of Electric Fields Measured
+      by Split Excitation Electric Field Induced Second Harmonic
+      Generation (SEE-FISH)
     type: Papers
     category: Special Topics
-    date: "2021-01-01"
-    pdf_file_name: "[34] Timothy Y Chen et al. “Single shot burst imaging of electric fields measured by split excitation electric field induced second harmonic generation (SEE-FISH)”.pdf"
+    date: '2021-01-01'
+    pdf_file_name: '[34] Timothy Y Chen et al. “Single shot burst
+      imaging of electric fields measured by split excitation
+      electric field induced second harmonic generation (SEE-FISH)”.pdf'
     context: AIAA SciTech Forum
     authors:
       - T. Y. Chen
@@ -268,11 +312,15 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Spatially and Time-Resolved fs-ps Cars Measurements of Rotation-Vibration Non-equilibrium in a CH4-N2 Nanosecond-Pulsed Discharge"
+  - title: Spatially and Time-Resolved fs-ps Cars Measurements
+      of Rotation-Vibration Non-equilibrium in a CH4-N2 Nanosecond-Pulsed
+      Discharge
     type: Papers
     category: Special Topics
-    date: "2021-01-01"
-    pdf_file_name: "[35] Timothy Y Chen et al. “Spatially and time-resolved fs-ps CARS measurements of rotation-vibration non-equilibrium in a CH4-N2 nanosecondpulsed discharge”.pdf"
+    date: '2021-01-01'
+    pdf_file_name: '[35] Timothy Y Chen et al. “Spatially and
+      time-resolved fs-ps CARS measurements of rotation-vibration
+      non-equilibrium in a CH4-N2 nanosecondpulsed discharge”.pdf'
     context: AIAA SciTech Forum
     authors:
       - T. Y. Chen
@@ -281,11 +329,15 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Time-resolved in situ measurements and predictions of plasma-assisted methane reforming in a nanosecond-pulsed discharge"
+  - title: Time-resolved in situ measurements and predictions
+      of plasma-assisted methane reforming in a nanosecond-pulsed
+      discharge
     type: Papers
     category: Special Topics
-    date: "2020-09-01"
-    pdf_file_name: "[36] Timothy Y Chen et al. “Time-resolved in situ measurements and predictions of plasma-assisted methane reforming in a nanosecond-pulsed discharge”.pdf"
+    date: '2020-09-01'
+    pdf_file_name: '[36] Timothy Y Chen et al. “Time-resolved
+      in situ measurements and predictions of plasma-assisted
+      methane reforming in a nanosecond-pulsed discharge”.pdf'
     context: Proceedings of the Combustion Institute
     authors:
       - T. Y. Chen
@@ -295,11 +347,13 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Offline Contextual Bayesian Optimization for Nuclear Fusion"
+  - title: Offline Contextual Bayesian Optimization for Nuclear
+      Fusion
     type: Papers
     category: Controls and Optimization
-    date: "2020-01-01"
-    pdf_file_name: "[37] Youngseog Chung et al. “Offline contextual bayesian optimization for nuclear fusion”.pdf"
+    date: '2020-01-01'
+    pdf_file_name: '[37] Youngseog Chung et al. “Offline contextual
+      bayesian optimization for nuclear fusion”.pdf'
     context: NeurIPS
     authors:
       - Y. Chung
@@ -311,11 +365,14 @@ publications:
       - E. Kolemen
       - J. Schneider
 
-  - title: "Keras2c, a Library for Converting Keras Neural Networks to Real-Time Compatible C"
+  - title: Keras2c, a Library for Converting Keras Neural Networks
+      to Real-Time Compatible C
     type: Papers
     category: Machine Learning
-    date: "2021-01-01"
-    pdf_file_name: "[39] Rory Conlin et al. “Keras2c, A library for converting Keras neural networks to real-time compatible C”.pdf"
+    date: '2021-01-01'
+    pdf_file_name: '[39] Rory Conlin et al. “Keras2c, A library
+      for converting Keras neural networks to real-time compatible
+      C”.pdf'
     context: Engineering Applications of Artificial Intelligence
     authors:
       - R. Conlin
@@ -323,11 +380,14 @@ publications:
       - J. Abbate
       - E. Kolemen
 
-  - title: "Physics and Machine Learning Based Approaches to Stability Analysis and Control on DIII-D"
+  - title: Physics and Machine Learning Based Approaches to Stability
+      Analysis and Control on DIII-D
     type: Papers
     category: Machine Learning
-    date: "2020-11-01"
-    pdf_file_name: "[41] Rory Conlin et al. “Physics and Machine Learning Based Approaches to Stability Analysis and Control on DIII-D”.pdf"
+    date: '2020-11-01'
+    pdf_file_name: '[41] Rory Conlin et al. “Physics and Machine
+      Learning Based Approaches to Stability Analysis and Control
+      on DIII-D”.pdf'
     context: APS-DPP Meeting
     authors:
       - R. Conlin
@@ -338,11 +398,12 @@ publications:
       - A. Iqtidar
       - E. Kolemen
 
-  - title: "Stellarator Optimization with Constraints"
+  - title: Stellarator Optimization with Constraints
     type: Papers
     category: Controls and Optimization
-    date: "2024-03-01"
-    pdf_file_name: "[44] Rory Conlin et al. “Stellarator Optimization with Constraints”.pdf"
+    date: '2024-03-01'
+    pdf_file_name: '[44] Rory Conlin et al. “Stellarator Optimization
+      with Constraints”.pdf'
     context: Journal of Plasma Physics
     authors:
       - R. Conlin
@@ -351,11 +412,12 @@ publications:
       - D. Panici
       - E. Kolemen
 
-  - title: "The DESC Stellarator Code Suite Part 2: Perturbation"
+  - title: 'The DESC Stellarator Code Suite Part 2: Perturbation'
     type: Papers
     category: Controls and Optimization
-    date: "2023-04-01"
-    pdf_file_name: "[45] Rory Conlin et al. “The DESC stellarator code suite. Part 2. Perturbation and Continuation Methods“.pdf"
+    date: '2023-04-01'
+    pdf_file_name: '[45] Rory Conlin et al. “The DESC stellarator
+      code suite. Part 2. Perturbation and Continuation Methods“.pdf'
     context: Journal of Plasma Physics
     authors:
       - R. Conlin
@@ -363,31 +425,36 @@ publications:
       - D. Panici
       - E. Kolemen
 
-  - title: "DESC: An Efficient Stellarator Equilibrium Code"
+  - title: 'DESC: An Efficient Stellarator Equilibrium Code'
     type: Papers
     category: Controls and Optimization
-    date: "2020-11-01"
-    pdf_file_name: "[48] Daniel Dudt and Egemen Kolemen. “DESC, An Efficient Stellarator Equilibrium Code”.pdf"
+    date: '2020-11-01'
+    pdf_file_name: '[48] Daniel Dudt and Egemen Kolemen. “DESC,
+      An Efficient Stellarator Equilibrium Code”.pdf'
     context: APS DPP
     authors:
       - D. Dudt
       - E. Kolemen
 
-  - title: "Stellarator Equilibrium Construction Based on a Poincaré Sections Approach"
+  - title: Stellarator Equilibrium Construction Based on a Poincaré
+      Sections Approach
     type: Papers
     category: Controls and Optimization
-    date: "2020-11-01"
-    pdf_file_name: "[49] Daniel Dudt and Egemen Kolemen. “Stellarator Equilibrium Construction based on a Poincare Sections Approach”.pdf"
+    date: '2020-11-01'
+    pdf_file_name: '[49] Daniel Dudt and Egemen Kolemen. “Stellarator
+      Equilibrium Construction based on a Poincare Sections Approach”.pdf'
     context: APS DPP
     authors:
       - D. Dudt
       - E. Kolemen
 
-  - title: "Efficient Stellarator Optimization and Analysis with DESC"
+  - title: Efficient Stellarator Optimization and Analysis with
+      DESC
     type: Papers
     category: Controls and Optimization
-    date: "2022-10-01"
-    pdf_file_name: "[50] Daniel Dudt et al. “Efficient Stellarator Optimization and Analysis with DESC”.pdf"
+    date: '2022-10-01'
+    pdf_file_name: '[50] Daniel Dudt et al. “Efficient Stellarator
+      Optimization and Analysis with DESC”.pdf'
     context: APS DPP
     authors:
       - D. Dudt
@@ -397,11 +464,11 @@ publications:
       - K. Unalmis
       - E. Kolemen
 
-  - title: "Omnigenity Optimization"
+  - title: Omnigenity Optimization
     type: Papers
     category: Controls and Optimization
-    date: "2023-12-01"
-    pdf_file_name: "[51] Daniel Dudt et al. “Omnigenity Optimization”.pdf"
+    date: '2023-12-01'
+    pdf_file_name: '[51] Daniel Dudt et al. “Omnigenity Optimization”.pdf'
     context: Simons Retreat
     authors:
       - D. Dudt
@@ -411,11 +478,13 @@ publications:
       - R. Gaur
       - E. Kolemen
 
-  - title: "The Desc Stellarator Code Suite Part 3: Quasisymmetry Optimization"
+  - title: 'The Desc Stellarator Code Suite Part 3: Quasisymmetry
+      Optimization'
     type: Papers
     category: Controls and Optimization
-    date: "2023-03-01"
-    pdf_file_name: "[53] Daniel Dudt et al. “The DESC stellarator code suite part 3 Quasisymmetry optimization”.pdf"
+    date: '2023-03-01'
+    pdf_file_name: '[53] Daniel Dudt et al. “The DESC stellarator
+      code suite part 3 Quasisymmetry optimization”.pdf'
     context: Journal of Plasma Physics
     authors:
       - D. Dudt
@@ -423,11 +492,12 @@ publications:
       - D. Panici
       - E. Kolemen
 
-  - title: "Magnetic Fields with General Omnigenity"
+  - title: Magnetic Fields with General Omnigenity
     type: Papers
     category: Controls and Optimization
-    date: "2024-01-01"
-    pdf_file_name: "[54] Daniel W Dudt et al. “Magnetic Fields with General Omnigenity”.pdf"
+    date: '2024-01-01'
+    pdf_file_name: '[54] Daniel W Dudt et al. “Magnetic Fields
+      with General Omnigenity”.pdf'
     context: Journal of Plasma Physics
     authors:
       - D. W. Dudt
@@ -436,66 +506,85 @@ publications:
       - D. Panici
       - E. Kolemen
 
-  - title: "Investigation of Peeling-Ballooning Stability Prior to Transient Outbursts Accompanying Transitions out of H-Mode in DIII-D"
+  - title: Investigation of Peeling-Ballooning Stability Prior
+      to Transient Outbursts Accompanying Transitions out of H-Mode
+      in DIII-D
     type: Papers
     category: Special Topics
-    date: "2015-05-01"
-    pdf_file_name: "[58] D Eldon et al. “Investigation of peeling-ballooning stability prior to transient outbursts transitions out of H-mode in DIII-D”.pdf"
+    date: '2015-05-01'
+    pdf_file_name: '[58] D Eldon et al. “Investigation of peeling-ballooning
+      stability prior to transient outbursts transitions out of
+      H-mode in DIII-D”.pdf'
     context: Physics of Plasmas
     authors:
       - D. Eldon et al.
 
-  - title: "Advances in Radiated Power Control at DIII-D"
+  - title: Advances in Radiated Power Control at DIII-D
     type: Papers
     category: Special Topics
-    date: "2019-01-01"
-    pdf_file_name: "[59] David Eldon et al. “Advances in radiated power control at DIII-D”.pdf"
+    date: '2019-01-01'
+    pdf_file_name: '[59] David Eldon et al. “Advances in radiated
+      power control at DIII-D”.pdf'
     context: Nuclear Materials and Energy
     authors:
       - D. Eldon et al.
 
-  - title: "Controlling Marginally Detached Divertor Plasmas"
+  - title: Controlling Marginally Detached Divertor Plasmas
     type: Papers
     category: Special Topics
-    date: "2017-05-01"
-    pdf_file_name: "[60] David Eldon et al. “Controlling marginally detached divertor plasmas”.pdf"
+    date: '2017-05-01'
+    pdf_file_name: '[60] David Eldon et al. “Controlling marginally
+      detached divertor plasmas”.pdf'
     context: Nuclear Fusion
     authors:
       - D. Eldon et al.
 
-  - title: "Evolution of E×B Shear and Coherent Fluctuations Prior to Hl Transitions in DIII-D and Control Strategies for Hl Transitions"
+  - title: Evolution of E×B Shear and Coherent Fluctuations Prior
+      to Hl Transitions in DIII-D and Control Strategies for Hl
+      Transitions
     type: Papers
     category: Special Topics
-    date: "2015-11-01"
-    pdf_file_name: "[61] David Eldon et al. “Evolution of E× B shear and coherent fluctuations prior to HL transitions in DIII-D and control strategies for HL transitions”.pdf"
+    date: '2015-11-01'
+    pdf_file_name: '[61] David Eldon et al. “Evolution of E× B
+      shear and coherent fluctuations prior to HL transitions
+      in DIII-D and control strategies for HL transitions”.pdf'
     context: Physics of Plasmas
     authors:
       - D. Eldon et al.
 
-  - title: "Investigation of Peeling-Ballooning Stability Prior to Transient Outbursts Accompanying Transitions Out of H-Mode in DIII-D"
+  - title: Investigation of Peeling-Ballooning Stability Prior
+      to Transient Outbursts Accompanying Transitions Out of H-Mode
+      in DIII-D
     type: Papers
     category: Special Topics
-    date: "2015-05-01"
-    pdf_file_name: "[62] David Eldon et al. “Investigation of peeling-ballooning stability prior to transient outbursts accompanying transitions out of H-mode in DIII-D”.pdf"
+    date: '2015-05-01'
+    pdf_file_name: '[62] David Eldon et al. “Investigation of
+      peeling-ballooning stability prior to transient outbursts
+      accompanying transitions out of H-mode in DIII-D”.pdf'
     context: Physics of Plasmas
     authors:
       - D. Eldon et al.
 
-  - title: "DIII-D Research Advancing the Physics Basis for Optimizing the Tokamak Approach to Fusion Energy"
+  - title: DIII-D Research Advancing the Physics Basis for Optimizing
+      the Tokamak Approach to Fusion Energy
     type: Papers
     category: Special Topics
-    date: "2022-04-01"
-    pdf_file_name: "[64] Max E Fenstermacher et al. “DIII-D research advancing the physics basis for optimizing the tokamak approach to fusion energy”.pdf"
+    date: '2022-04-01'
+    pdf_file_name: '[64] Max E Fenstermacher et al. “DIII-D research
+      advancing the physics basis for optimizing the tokamak approach
+      to fusion energy”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - M. E. Fenstermacher
       - et al.
 
-  - title: "High Internal Inductance for Steady-State Operation in Iter and a Reactor"
+  - title: High Internal Inductance for Steady-State Operation
+      in Iter and a Reactor
     type: Papers
     category: Special Topics
-    date: "2015-06-01"
-    pdf_file_name: "[65] John R Ferron et al. “High internal inductance for steady-state operation in ITER and a reactor”.pdf"
+    date: '2015-06-01'
+    pdf_file_name: '[65] John R Ferron et al. “High internal inductance
+      for steady-state operation in ITER and a reactor”.pdf'
     context: Nuclear Fusion
     authors:
       - J. R. Ferron
@@ -507,11 +596,13 @@ publications:
       - W. M. Solomon
       - F. Turco
 
-  - title: "Modeling of Lithium Granule Injection in NSTX Using M3D-C1"
+  - title: Modeling of Lithium Granule Injection in NSTX Using
+      M3D-C1
     type: Papers
     category: Special Topics
-    date: "2017-04-01"
-    pdf_file_name: "[67] A Fil et al. “Modeling of lithium granule injection in NSTX using M3DC1”.pdf"
+    date: '2017-04-01'
+    pdf_file_name: '[67] A Fil et al. “Modeling of lithium granule
+      injection in NSTX using M3DC1”.pdf'
     context: Nuclear Materials and Energy
     authors:
       - A. Fil
@@ -523,44 +614,53 @@ publications:
       - R. Lunsford
       - R. Maingi
 
-  - title: "Study of Liquid Metal Surface Wave Damping in the Presence of Magnetic Fields and Electrical Currents"
+  - title: Study of Liquid Metal Surface Wave Damping in the Presence
+      of Magnetic Fields and Electrical Currents
     type: Papers
     category: Liquid Metals
-    date: "2019-02-01"
-    pdf_file_name: "[69] AE Fisher, Mike G Hvasta, and Egemen Kolemen. “Study of liquid metal surface wave damping in the presence of magnetic fields and electrical currents”.pdf"
+    date: '2019-02-01'
+    pdf_file_name: '[69] AE Fisher, Mike G Hvasta, and Egemen
+      Kolemen. “Study of liquid metal surface wave damping in
+      the presence of magnetic fields and electrical currents”.pdf'
     context: Nuclear Materials and Energy
     authors:
       - A. E. Fisher
       - M. G. Hvasta
       - E. Kolemen
 
-  - title: "Experimental Demonstration of Hydraulic Jump Control in Liquid Metal Channel Flow Using Lorentz Force"
+  - title: Experimental Demonstration of Hydraulic Jump Control
+      in Liquid Metal Channel Flow Using Lorentz Force
     type: Papers
     category: Liquid Metals
-    date: "2018-06-01"
-    pdf_file_name: "[70] AE Fisher, Egemen Kolemen, and MG Hvasta. “Experimental demonstration of hydraulic jump control in liquid metal channel flow using Lorentz force”.pdf"
+    date: '2018-06-01'
+    pdf_file_name: '[70] AE Fisher, Egemen Kolemen, and MG Hvasta.
+      “Experimental demonstration of hydraulic jump control in
+      liquid metal channel flow using Lorentz force”.pdf'
     context: Physics of Fluids
     authors:
       - A. E. Fisher
       - E. Kolemen
       - M. G. Hvasta
 
-  - title: "Liquid Metal “Divertorlets” Concept for Fusion Reactors"
+  - title: Liquid Metal “Divertorlets” Concept for Fusion Reactors
     type: Papers
     category: Liquid Metals
-    date: "2020-12-01"
-    pdf_file_name: "[71] AE Fisher, Z Sun, and E Kolemen. “Liquid metal “divertorlets” concept for fusion reactors”.pdf"
+    date: '2020-12-01'
+    pdf_file_name: '[71] AE Fisher, Z Sun, and E Kolemen. “Liquid
+      metal “divertorlets” concept for fusion reactors”.pdf'
     context: Nuclear Materials and Energy
     authors:
       - A. E. Fisher
       - Z. Sun
       - E. Kolemen
 
-  - title: "Machine Learning Control for Disruption and Tearing Mode Avoidance"
+  - title: Machine Learning Control for Disruption and Tearing
+      Mode Avoidance
     type: Papers
     category: Machine Learning
-    date: "2020-02-01"
-    pdf_file_name: "[72] Yichen Fu et al. “Machine learning control for disruption and tearing mode avoidance”.pdf"
+    date: '2020-02-01'
+    pdf_file_name: '[72] Yichen Fu et al. “Machine learning control
+      for disruption and tearing mode avoidance”.pdf'
     context: Physics of Plasmas
     authors:
       - Y. Fu
@@ -574,11 +674,15 @@ publications:
       - O. Izacard
       - E. Kolemen
 
-  - title: "Alfvén Eigenmode Detection Using Long-Short Term Memory Networks and CO2 Interferometer Data on the DIII-D National Fusion Facility"
+  - title: Alfvén Eigenmode Detection Using Long-Short Term Memory
+      Networks and CO2 Interferometer Data on the DIII-D National
+      Fusion Facility
     type: Papers
     category: Machine Learning
-    date: "2023-07-01"
-    pdf_file_name: "[76] Alvin V Garcia et al. “Alfven eigenmode detection using Long-Short Term Memory Networks and CO 2 Interferometer data on the DIII-D National Fusion Facility”.pdf"
+    date: '2023-07-01'
+    pdf_file_name: '[76] Alvin V Garcia et al. “Alfven eigenmode
+      detection using Long-Short Term Memory Networks and CO 2
+      Interferometer data on the DIII-D National Fusion Facility”.pdf'
     context: International Joint Conference on Neural Networks
     authors:
       - A. V. Garcia
@@ -589,11 +693,14 @@ publications:
       - W. W. Heidbrink
       - E. Kolemen
 
-  - title: "Comparison of Machine Learning Systems Trained to Detect Alfvén Eigenmodes Using the CO2 Interferometer on DIII-D"
+  - title: Comparison of Machine Learning Systems Trained to Detect
+      Alfvén Eigenmodes Using the CO2 Interferometer on DIII-D
     type: Papers
     category: Machine Learning
-    date: "2023-10-01"
-    pdf_file_name: "[77] Alvin V Garcia et al. “Comparison of machine learning systems trained to detect Alfven eigenmodes using the CO2 interferometer on DIII-D”.pdf"
+    date: '2023-10-01'
+    pdf_file_name: '[77] Alvin V Garcia et al. “Comparison of
+      machine learning systems trained to detect Alfven eigenmodes
+      using the CO2 interferometer on DIII-D”.pdf'
     context: Nuclear Fusion
     authors:
       - A. V. Garcia
@@ -604,91 +711,114 @@ publications:
       - W. W. Heidbrink
       - E. Kolemen
 
-  - title: "Overview of Results From the National Spherical Torus Experiment (NSTX)"
+  - title: Overview of Results From the National Spherical Torus
+      Experiment (NSTX)
     type: Papers
     category: Special Topics
-    date: "2009-09-01"
-    pdf_file_name: "[78] DA Gates et al. “Overview of results from the national spherical torus experiment (NSTX)”.pdf"
+    date: '2009-09-01'
+    pdf_file_name: '[78] DA Gates et al. “Overview of results
+      from the national spherical torus experiment (NSTX)”.pdf'
     context: Nuclear Fusion
     authors:
       - D. A. Gates
       - et al.
 
-  - title: "Implementation of βN Control in the National Spherical Torus Experiment"
+  - title: Implementation of βN Control in the National Spherical
+      Torus Experiment
     type: Papers
     category: Controls and Optimization
-    date: "2010-12-01"
-    pdf_file_name: "[84] SP Gerhardt et al. “Implementation of βN control in the National Spherical Torus experiment”.pdf"
+    date: '2010-12-01'
+    pdf_file_name: '[84] SP Gerhardt et al. “Implementation of
+      βN control in the National Spherical Torus experiment”.pdf'
     context: Fusion Science and Technology
     authors:
       - S. P. Gerhardt et al.
 
-  - title: "Progress in the Development of Advanced Spherical Torus Operating Scenarios in NSTX"
+  - title: Progress in the Development of Advanced Spherical Torus
+      Operating Scenarios in NSTX
     type: Papers
     category: Special Topics
-    date: "2010-10-01"
-    pdf_file_name: "[86] SP Gerhardt et al. “Progress in the Development of Advanced Spherical Torus Operating Scenarios in NSTX”.pdf"
+    date: '2010-10-01'
+    pdf_file_name: '[86] SP Gerhardt et al. “Progress in the Development
+      of Advanced Spherical Torus Operating Scenarios in NSTX”.pdf'
     context: 23rd IAEA Fusion Energy Conference
     authors:
       - S. P. Gerhardt et al.
 
-  - title: "Recent Progress Towards an Advanced Spherical Torus Operating Point in NSTX"
+  - title: Recent Progress Towards an Advanced Spherical Torus
+      Operating Point in NSTX
     type: Papers
     category: Special Topics
-    date: "2011-06-01"
-    pdf_file_name: "[87] SP Gerhardt et al. “Recent progress towards an advanced spherical torus operating point in NSTX”.pdf"
+    date: '2011-06-01'
+    pdf_file_name: '[87] SP Gerhardt et al. “Recent progress towards
+      an advanced spherical torus operating point in NSTX”.pdf'
     context: Nuclear Fusion
     authors:
       - S. P. Gerhardt et al.
 
-  - title: "Fast Numerical Solution of the Plasma Response Matrix for Real-time Ideal MHD Control"
+  - title: Fast Numerical Solution of the Plasma Response Matrix
+      for Real-time Ideal MHD Control
     type: Papers
     category: Controls and Optimization
-    date: "2017-03-01"
-    pdf_file_name: "[92] Alexander Glasser, Egemen Kolemen, and Alan H Glasser. “Fast Numerical Solution of the Plasma Response Matrix for Real-time Ideal MHD Control”.pdf"
+    date: '2017-03-01'
+    pdf_file_name: '[92] Alexander Glasser, Egemen Kolemen, and
+      Alan H Glasser. “Fast Numerical Solution of the Plasma Response
+      Matrix for Real-time Ideal MHD Control”.pdf'
     context: Physics of Plasmas
     authors:
       - A. Glasser
       - E. Kolemen
       - A. H. Glasser
 
-  - title: "A Robust Solution for the Resistive MHDToroidal ∆ Matrix in Near Real-Time"
+  - title: A Robust Solution for the Resistive MHDToroidal ∆ Matrix
+      in Near Real-Time
     type: Papers
     category: Controls and Optimization
-    date: "2018-08-01"
-    pdf_file_name: "[93] Alexander S Glasser and Egemen Kolemen. “A robust solution for the resistive MHD toroidal ∆ matrix in near real-time”.pdf"
+    date: '2018-08-01'
+    pdf_file_name: '[93] Alexander S Glasser and Egemen Kolemen.
+      “A robust solution for the resistive MHD toroidal ∆ matrix
+      in near real-time”.pdf'
     context: Physics of Plasmas
     authors:
       - A. S. Glasser
       - E. Kolemen
 
-  - title: "A Riccati Solution for the Ideal MHD Plasma Response With Applications to Real-Time Stability Control"
+  - title: A Riccati Solution for the Ideal MHD Plasma Response
+      With Applications to Real-Time Stability Control
     type: Papers
     category: Controls and Optimization
-    date: "2018-07-01"
-    pdf_file_name: "[94] Alexander S Glasser, Egemen Kolemen, and AH Glasser. “A Riccati solution for the ideal MHD plasma response with applications to real-time stability control”.pdf"
-    context: Physics of Plasmas
-    authors:
-      - A. S. Glasser
-      - E. Kolemen
-      - A. H. Glasser
-
-  - title: "An Ideal MHD δW Stability Analysis That Bypasses the Newcomb Equation"
-    type: Papers
-    category: Controls and Optimization
-    date: "2020-02-01"
-    pdf_file_name: "[95] Alexander S Glasser et al. “An ideal MHD δW stability analysis that bypasses the Newcomb equation”.pdf"
+    date: '2018-07-01'
+    pdf_file_name: '[94] Alexander S Glasser, Egemen Kolemen,
+      and AH Glasser. “A Riccati solution for the ideal MHD plasma
+      response with applications to real-time stability control”.pdf'
     context: Physics of Plasmas
     authors:
       - A. S. Glasser
       - E. Kolemen
       - A. H. Glasser
 
-  - title: "Modeling and Control of Plasma Rotation for NSTX Using Neoclassical Toroidal Viscosity (NTV) and Neutral Beam Injection (NBI)"
+  - title: An Ideal MHD δW Stability Analysis That Bypasses the
+      Newcomb Equation
     type: Papers
     category: Controls and Optimization
-    date: "2015-01-01"
-    pdf_file_name: "[96] Imene Goumiri et al. “Modeling and control of plasma rotation for NSTX using Neoclassical Toroidal Viscosity (NTV) and Neutral Beam Injection (NBI)”.pdf"
+    date: '2020-02-01'
+    pdf_file_name: '[95] Alexander S Glasser et al. “An ideal
+      MHD δW stability analysis that bypasses the Newcomb equation”.pdf'
+    context: Physics of Plasmas
+    authors:
+      - A. S. Glasser
+      - E. Kolemen
+      - A. H. Glasser
+
+  - title: Modeling and Control of Plasma Rotation for NSTX Using
+      Neoclassical Toroidal Viscosity (NTV) and Neutral Beam Injection
+      (NBI)
+    type: Papers
+    category: Controls and Optimization
+    date: '2015-01-01'
+    pdf_file_name: '[96] Imene Goumiri et al. “Modeling and control
+      of plasma rotation for NSTX using Neoclassical Toroidal
+      Viscosity (NTV) and Neutral Beam Injection (NBI)”.pdf'
     context: APS DPP
     authors:
       - I. R. Goumiri
@@ -699,11 +829,14 @@ publications:
       - E. Kolemen
       - K. Taira
 
-  - title: "Modeling and Control of Plasma Rotation for NSTX Using Neoclassical Toroidal Viscosity and Neutral Beam Injection"
+  - title: Modeling and Control of Plasma Rotation for NSTX Using
+      Neoclassical Toroidal Viscosity and Neutral Beam Injection
     type: Papers
     category: Controls and Optimization
-    date: "2016-02-01"
-    pdf_file_name: "[97] IR Goumiri et al. “Modeling and control of plasma rotation for NSTX using neoclassical toroidal viscosity and neutral beam injection”.pdf"
+    date: '2016-02-01'
+    pdf_file_name: '[97] IR Goumiri et al. “Modeling and control
+      of plasma rotation for NSTX using neoclassical toroidal
+      viscosity and neutral beam injection”.pdf'
     context: Nuclear Fusion
     authors:
       - I. R. Goumiri
@@ -716,11 +849,15 @@ publications:
       - E. Kolemen
       - K. Taira
 
-  - title: "Simultaneous Feedback Control of Plasma Rotation and Stored Energy on NSTX-U Using Neoclassical Toroidal Viscosity and Neutral Beam Injection"
+  - title: Simultaneous Feedback Control of Plasma Rotation and
+      Stored Energy on NSTX-U Using Neoclassical Toroidal Viscosity
+      and Neutral Beam Injection
     type: Papers
     category: Controls and Optimization
-    date: "2017-02-01"
-    pdf_file_name: "[98] IR Goumiri et al. “Simultaneous feedback control of plasma rotation and stored energy on NSTX-U using neoclassical toroidal viscosity and neutral beam injection”.pdf"
+    date: '2017-02-01'
+    pdf_file_name: '[98] IR Goumiri et al. “Simultaneous feedback
+      control of plasma rotation and stored energy on NSTX-U using
+      neoclassical toroidal viscosity and neutral beam injection”.pdf'
     context: Physics of Plasmas
     authors:
       - I. R. Goumiri
@@ -732,76 +869,94 @@ publications:
       - E. Kolemen
       - J. E. Menard
 
-  - title: "Developing and Validating Advanced Divertor Solutions on DIII-D for Next-Step Fusion Devices"
+  - title: Developing and Validating Advanced Divertor Solutions
+      on DIII-D for Next-Step Fusion Devices
     type: Papers
     category: Special Topics
-    date: "2016-09-01"
-    pdf_file_name: "[100] HY Guo et al. “Developing and validating advanced divertor solutions on DIII-D for next-step fusion devices”.pdf"
+    date: '2016-09-01'
+    pdf_file_name: '[100] HY Guo et al. “Developing and validating
+      advanced divertor solutions on DIII-D for next-step fusion
+      devices”.pdf'
     context: Nuclear Fusion
     authors:
       - H. Y. Guo et al.
 
-  - title: "Hamilton–Jacobi Modelling of Stellar Dynamics"
+  - title: Hamilton–Jacobi Modelling of Stellar Dynamics
     type: Papers
     category: Special Topics
-    date: "2005-06-01"
-    pdf_file_name: "[101] Pini Gurfil, N Jeremy Kasdin, and Egemen Kolemen. “Hamilton–Jacobi modelling of stellar dynamics”.pdf"
+    date: '2005-06-01'
+    pdf_file_name: '[101] Pini Gurfil, N Jeremy Kasdin, and Egemen
+      Kolemen. “Hamilton–Jacobi modelling of stellar dynamics”.pdf'
     context: Advances in Space Research
     authors:
       - P. Gurfil
       - N. J. Kasdin
       - E. Kolemen
 
-  - title: "NSTX-U Theory, Modeling and Analysis Results"
+  - title: NSTX-U Theory, Modeling and Analysis Results
     type: Papers
     category: Special Topics
-    date: "2022-03-01"
-    pdf_file_name: "[102] Walter Guttenfelder et al. “NSTX-U theory, modeling and analysis results”.pdf"
+    date: '2022-03-01'
+    pdf_file_name: '[102] Walter Guttenfelder et al. “NSTX-U theory,
+      modeling and analysis results”.pdf'
     context: Nuclear Fusion
     authors:
       - W. Guttenfelder et al.
 
-  - title: "Progress and Improvement of KSTAR Plasma Control Using Model-Based Control Simulators"
+  - title: Progress and Improvement of KSTAR Plasma Control Using
+      Model-Based Control Simulators
     type: Papers
     category: Controls and Optimization
-    date: "2014-01-01"
-    pdf_file_name: "[104] Sang-hee Hahn et al. “Progress and improvement of KSTAR plasma control using model-based control simulators”.pdf"
+    date: '2014-01-01'
+    pdf_file_name: '[104] Sang-hee Hahn et al. “Progress and improvement
+      of KSTAR plasma control using model-based control simulators”.pdf'
     context: Fusion Engineering and Design
     authors:
       - S. H. Hahn et al.
 
-  - title: "Gyrokinetic Analysis of Inter-Edge Localized Mode Transport Mechanisms in a DIII-D Pedestal"
+  - title: Gyrokinetic Analysis of Inter-Edge Localized Mode Transport
+      Mechanisms in a DIII-D Pedestal
     type: Papers
     category: Special Topics
-    date: "2022-11-01"
-    pdf_file_name: "[107] Michael R Halfmoon et al. “Gyrokinetic analysis of inter-edge localized mode transport mechanisms in a DIII-D pedestal”.pdf"
+    date: '2022-11-01'
+    pdf_file_name: '[107] Michael R Halfmoon et al. “Gyrokinetic
+      analysis of inter-edge localized mode transport mechanisms
+      in a DIII-D pedestal”.pdf'
     context: Physics of Plasmas
     authors:
       - M. R. Halfmoon et al.
 
-  - title: "Initial Operation of a Real-Time Thomson Scattering Evaluation System on the Large Helical Device"
+  - title: Initial Operation of a Real-Time Thomson Scattering
+      Evaluation System on the Large Helical Device
     type: Papers
     category: Controls and Optimization
-    date: "2021-06-01"
-    pdf_file_name: "[108] KC Hammond et al. “Initial operation of a real-time Thomson scattering evaluation system on the Large Helical Device”.pdf"
+    date: '2021-06-01'
+    pdf_file_name: '[108] KC Hammond et al. “Initial operation
+      of a real-time Thomson scattering evaluation system on the
+      Large Helical Device”.pdf'
     context: Review of Scientific Instruments
     authors:
       - K. C. Hammond et al.
 
-  - title: "Control of Plasma Stored Energy for Burn Control Using DIII-D In-Vessel Coils"
+  - title: Control of Plasma Stored Energy for Burn Control Using
+      DIII-D In-Vessel Coils
     type: Papers
     category: Special Topics
-    date: "2015-04-01"
-    pdf_file_name: "[109] Richard J Hawryluk et al. “Control of plasma stored energy for burn control using DIII-D in-vessel coils”.pdf"
+    date: '2015-04-01'
+    pdf_file_name: '[109] Richard J Hawryluk et al. “Control of
+      plasma stored energy for burn control using DIII-D in-vessel
+      coils”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - R. J. Hawryluk et al.
 
-  - title: "Fast and Pervasive Heat Transport Induced by Multiple Locked Modes in DIII-D"
+  - title: Fast and Pervasive Heat Transport Induced by Multiple
+      Locked Modes in DIII-D
     type: Papers
     category: Special Topics
-    date: "2018-11-01"
-    pdf_file_name: "[111] Qiming Hu et al. “Fast and pervasive heat transport induced by multiple locked modes in DIII-D”.pdf"
+    date: '2018-11-01'
+    pdf_file_name: '[111] Qiming Hu et al. “Fast and pervasive
+      heat transport induced by multiple locked modes in DIII-D”.pdf'
     context: Nuclear Fusion
     authors:
       - Q. Hu
@@ -812,11 +967,13 @@ publications:
       - R. Nazikian
       - Z. H. Jiang
 
-  - title: "Nonlinear Modeling of the Effect of Multiple Locked Modes on Heat Transport"
+  - title: Nonlinear Modeling of the Effect of Multiple Locked
+      Modes on Heat Transport
     type: Papers
     category: Special Topics
-    date: "2018-01-01"
-    pdf_file_name: "[112] QM Hu et al. “Nonlinear modeling of the effect of multiple locked modes on heat transport”.pdf"
+    date: '2018-01-01'
+    pdf_file_name: '[112] QM Hu et al. “Nonlinear modeling of
+      the effect of multiple locked modes on heat transport”.pdf'
     context: 45th EPS Conference on Plasma Physics
     authors:
       - Q. M. Hu
@@ -826,67 +983,82 @@ publications:
       - E. Kolemen
       - R. Nazikian
 
-  - title: "Active Real-Time Control of Alfvén Eigenmodes by Neutral Beam and Electron Cyclotron Heating in the DIII-D Tokamak"
+  - title: Active Real-Time Control of Alfvén Eigenmodes by Neutral
+      Beam and Electron Cyclotron Heating in the DIII-D Tokamak
     type: Papers
     category: Special Topics
-    date: "2018-09-01"
-    pdf_file_name: "[113] Wenhui Hu et al. “Active real-time control of Alfven eigenmodes by neutral beam and electron cyclotron heating in the DIII-D tokamak”.pdf"
+    date: '2018-09-01'
+    pdf_file_name: '[113] Wenhui Hu et al. “Active real-time control
+      of Alfven eigenmodes by neutral beam and electron cyclotron
+      heating in the DIII-D tokamak”.pdf'
     context: Nuclear Fusion
     authors:
       - W. Hu et al.
 
-  - title: "Experimental Vertical Stability Studies for ITER Performance and Design Guidance"
+  - title: Experimental Vertical Stability Studies for ITER Performance
+      and Design Guidance
     type: Papers
     category: Special Topics
-    date: "2009-09-01"
-    pdf_file_name: "[114] DA Humphreys et al. “Experimental vertical stability studies for ITER performance and design guidance”.pdf"
+    date: '2009-09-01'
+    pdf_file_name: '[114] DA Humphreys et al. “Experimental vertical
+      stability studies for ITER performance and design guidance”.pdf'
     context: Nuclear Fusion
     authors:
       - D. A. Humphreys et al.
 
-  - title: "Advancing Fusion with Machine Learning Research Needs Workshop"
+  - title: Advancing Fusion with Machine Learning Research Needs
+      Workshop
     type: Papers
     category: Machine Learning
-    date: "2019-05-01"
-    pdf_file_name: "[116] David Humphreys et al. ”Advancing Fusion with Machine Learning Research Needs Workshop”.pdf"
+    date: '2019-05-01'
+    pdf_file_name: '[116] David Humphreys et al. ”Advancing Fusion
+      with Machine Learning Research Needs Workshop”.pdf'
     context: Office of Science, U.S. Department of Energy
     authors:
       - D. Humphreys et al.
 
-  - title: "Advancing Fusion With Machine Learning Research Needs Workshop Report"
+  - title: Advancing Fusion With Machine Learning Research Needs
+      Workshop Report
     type: Papers
     category: Machine Learning
-    date: "2020-09-01"
-    pdf_file_name: "[117] David Humphreys et al. “Advancing fusion with machine learning research needs workshop report”.pdf"
+    date: '2020-09-01'
+    pdf_file_name: '[117] David Humphreys et al. “Advancing fusion
+      with machine learning research needs workshop report”.pdf'
     context: Journal of Fusion Energy
     authors:
       - D. Humphreys et al.
 
-  - title: "Novel Aspects of Plasma Control in ITER"
+  - title: Novel Aspects of Plasma Control in ITER
     type: Papers
     category: Special Topics
-    date: "2015-02-01"
-    pdf_file_name: "[118] David Humphreys et al. “Novel aspects of plasma control in ITER”.pdf"
+    date: '2015-02-01'
+    pdf_file_name: '[118] David Humphreys et al. “Novel aspects
+      of plasma control in ITER”.pdf'
     context: Physics of Plasmas
     authors:
       - D. Humphreys et al.
 
-  - title: "Application of IR Imaging for Free-Surface Velocity Measurement in Liquid-Metal Systems"
+  - title: Application of IR Imaging for Free-Surface Velocity
+      Measurement in Liquid-Metal Systems
     type: Papers
     category: Liquid Metals
-    date: "2017-01-01"
-    pdf_file_name: "[119] MG Hvasta, Egemen Kolemen, and A Fisher. “Application of IR imaging for free-surface velocity measurement in liquid-metal systems”.pdf"
+    date: '2017-01-01'
+    pdf_file_name: '[119] MG Hvasta, Egemen Kolemen, and A Fisher.
+      “Application of IR imaging for free-surface velocity measurement
+      in liquid-metal systems”.pdf'
     context: Review of Scientific Instruments
     authors:
       - M. G. Hvasta
       - E. Kolemen
       - A. Fisher
 
-  - title: "Calibrationless Rotating Lorentz-Force Flowmeters for Low Flow Rate Applications"
+  - title: Calibrationless Rotating Lorentz-Force Flowmeters for
+      Low Flow Rate Applications
     type: Papers
     category: Liquid Metals
-    date: "2018-05-01"
-    pdf_file_name: "[120] MG Hvasta et al. “Calibrationless rotating Lorentz-force flowmeters for low flow rate applications”.pdf"
+    date: '2018-05-01'
+    pdf_file_name: '[120] MG Hvasta et al. “Calibrationless rotating
+      Lorentz-force flowmeters for low flow rate applications”.pdf'
     context: Measurement Science and Technology
     authors:
       - M. G. Hvasta
@@ -894,11 +1066,13 @@ publications:
       - A. E. Fisher
       - E. Kolemen
 
-  - title: "Experimental Calibration Procedures for Rotating Lorentz-Force Flowmeters"
+  - title: Experimental Calibration Procedures for Rotating Lorentz-Force
+      Flowmeters
     type: Papers
     category: Liquid Metals
-    date: "2017-07-01"
-    pdf_file_name: "[121] MG Hvasta et al. “Experimental calibration procedures for rotating Lorentz-force flowmeters”.pdf"
+    date: '2017-07-01'
+    pdf_file_name: '[121] MG Hvasta et al. “Experimental calibration
+      procedures for rotating Lorentz-force flowmeters”.pdf'
     context: Measurement Science and Technology
     authors:
       - M. G. Hvasta
@@ -906,11 +1080,11 @@ publications:
       - E. Kolemen
       - A. E. Fisher
 
-  - title: "Liquid Metal Diagnostics"
+  - title: Liquid Metal Diagnostics
     type: Papers
     category: Liquid Metals
-    date: "2019-08-01"
-    pdf_file_name: "[122] MG Hvasta et al. “Liquid Metal Diagnostics”.pdf"
+    date: '2019-08-01'
+    pdf_file_name: '[122] MG Hvasta et al. “Liquid Metal Diagnostics”.pdf'
     context: Fusion Science and Technology
     authors:
       - M. G. Hvasta
@@ -919,11 +1093,14 @@ publications:
       - D. Dudt
       - E. Kolemen
 
-  - title: "Demonstrating Electromagnetic Control of Free-Surface, Liquid-Metal Flows Relevant to Fusion Reactors"
+  - title: Demonstrating Electromagnetic Control of Free-Surface,
+      Liquid-Metal Flows Relevant to Fusion Reactors
     type: Papers
     category: Liquid Metals
-    date: "2017-11-01"
-    pdf_file_name: "[123] Michael George Hvasta et al. “Demonstrating electromagnetic control of free-surface, liquid-metal flows relevant to fusion reactors”.pdf"
+    date: '2017-11-01'
+    pdf_file_name: '[123] Michael George Hvasta et al. “Demonstrating
+      electromagnetic control of free-surface, liquid-metal flows
+      relevant to fusion reactors”.pdf'
     context: Nuclear Fusion
     authors:
       - M. G. Hvasta
@@ -931,21 +1108,26 @@ publications:
       - A. E. Fisher
       - H. Ji
 
-  - title: "Designing, Constructing, and Using Plasma Control System Algorithms on DIII-D"
+  - title: Designing, Constructing, and Using Plasma Control System
+      Algorithms on DIII-D
     type: Papers
     category: Controls and Optimization
-    date: "2014-03-01"
-    pdf_file_name: "[124] Alan Hyatt et al. “Designing, constructing, and using plasma control system algorithms on DIII-D”.pdf"
+    date: '2014-03-01'
+    pdf_file_name: '[124] Alan Hyatt et al. “Designing, constructing,
+      and using plasma control system algorithms on DIII-D”.pdf'
     context: IEEE Transactions on Plasma Science
     authors:
       - A. Hyatt et al.
 
-  - title: "Physics-based Control-oriented Modeling of the Current Profile Evolution in NSTX-Upgrade"
+  - title: Physics-based Control-oriented Modeling of the Current
+      Profile Evolution in NSTX-Upgrade
     type: Papers
     category: Controls and Optimization
-    date: "2013-11-01"
-    pdf_file_name: "[125] Zeki Ilhan et al. “Physics-based Control-oriented Modeling of the Current Profile Evolution in NSTX-Upgrade”.pdf"
-    context: 55th Annual Meeting of the APS Division of Plasma Physics
+    date: '2013-11-01'
+    pdf_file_name: '[125] Zeki Ilhan et al. “Physics-based Control-oriented
+      Modeling of the Current Profile Evolution in NSTX-Upgrade”.pdf'
+    context: 55th Annual Meeting of the APS Division of Plasma
+      Physics
     authors:
       - Z. Ilhan
       - J. Barton
@@ -956,11 +1138,13 @@ publications:
       - E. Kolemen
       - J. Menard
 
-  - title: "First-principles-driven Model-based Optimal Control of the Current Profile in NSTX-U"
+  - title: First-principles-driven Model-based Optimal Control
+      of the Current Profile in NSTX-U
     type: Papers
     category: Controls and Optimization
-    date: "2015-09-01"
-    pdf_file_name: "[126] Zeki Okan Ilhan et al. “First-principles-driven model-based optimal control of the current profile in NSTX-U”.pdf"
+    date: '2015-09-01'
+    pdf_file_name: '[126] Zeki Okan Ilhan et al. “First-principles-driven
+      model-based optimal control of the current profile in NSTX-U”.pdf'
     context: 2015 IEEE Conference on Control Applications (CCA)
     authors:
       - Z. O. Ilhan
@@ -971,21 +1155,28 @@ publications:
       - S. Gerhardt
       - J. Menard
 
-  - title: "Alfven Eigenmode Classification Based on ECE Diagnostics at DIII-D Using Deep Recurrent Neural Networks"
+  - title: Alfven Eigenmode Classification Based on ECE Diagnostics
+      at DIII-D Using Deep Recurrent Neural Networks
     type: Papers
     category: Machine Learning
-    date: "2021-12-01"
-    pdf_file_name: "[129] Azarakhsh Jalalvand et al. “Alfven eigenmode classification based on ECE diagnostics at DIII-D using deep recurrent neural networks”.pdf"
+    date: '2021-12-01'
+    pdf_file_name: '[129] Azarakhsh Jalalvand et al. “Alfven eigenmode
+      classification based on ECE diagnostics at DIII-D using
+      deep recurrent neural networks”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - A. Jalalvand et al.
 
-  - title: "Real-Time and Adaptive Reservoir Computing With Application to Profile Prediction in Fusion Plasma"
+  - title: Real-Time and Adaptive Reservoir Computing With Application
+      to Profile Prediction in Fusion Plasma
     type: Papers
     category: Machine Learning
-    date: "2022-06-01"
-    pdf_file_name: "[134] Azarakhsh Jalalvand et al. “Real-time and adaptive reservoir computing with application to profile prediction in fusion plasma”.pdf"
-    context: IEEE Transactions on Neural Networks and Learning Systems
+    date: '2022-06-01'
+    pdf_file_name: '[134] Azarakhsh Jalalvand et al. “Real-time
+      and adaptive reservoir computing with application to profile
+      prediction in fusion plasma”.pdf'
+    context: IEEE Transactions on Neural Networks and Learning
+      Systems
     authors:
       - A. Jalalvand
       - J. Abbate
@@ -993,86 +1184,111 @@ publications:
       - G. Verdoolaege
       - E. Kolemen
 
-  - title: "Nonlinear 3D M3D-C1 Simulations of Tokamak Plasmas Crossing a MHD Linear Stability Boundary"
+  - title: Nonlinear 3D M3D-C1 Simulations of Tokamak Plasmas
+      Crossing a MHD Linear Stability Boundary
     type: Papers
     category: Special Topics
-    date: "2016-01-01"
-    pdf_file_name: "[136] S Jardin et al. “Nonlinear 3D M3D-C1 simulations of tokamak plasmas crossing a MHD linear stability boundary”.pdf"
+    date: '2016-01-01'
+    pdf_file_name: '[136] S Jardin et al. “Nonlinear 3D M3D-C1
+      simulations of tokamak plasmas crossing a MHD linear stability
+      boundary”.pdf'
     context: Princeton Plasma Physics Laboratory
     authors:
       - S. Jardin et al.
 
-  - title: "Exploring Data-driven Models for Spatiotemporally Local Classification of Alfven Eigenmodes"
+  - title: Exploring Data-driven Models for Spatiotemporally Local
+      Classification of Alfven Eigenmodes
     type: Papers
     category: Machine Learning
-    date: "2022-08-01"
-    pdf_file_name: "[141] Alan A Kaptanoglu et al. “Exploring data-driven models for spatiotemporally local classification of Alfven eigenmodes”.pdf"
+    date: '2022-08-01'
+    pdf_file_name: '[141] Alan A Kaptanoglu et al. “Exploring
+      data-driven models for spatiotemporally local classification
+      of Alfven eigenmodes”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - A. A. Kaptanoglu et al.
 
-  - title: "Canonical Modelling of Relative Spacecraft Motion via Epicyclic Orbital Elements"
+  - title: Canonical Modelling of Relative Spacecraft Motion via
+      Epicyclic Orbital Elements
     type: Papers
     category: Special Topics
-    date: "2004-11-01"
-    pdf_file_name: "[142] N Jeremy Kasdin, Pini Gurfil, and Egemen Kolemen. “Canonical modelling of relative spacecraft motion via epicyclic orbital elements”.pdf"
+    date: '2004-11-01'
+    pdf_file_name: '[142] N Jeremy Kasdin, Pini Gurfil, and Egemen
+      Kolemen. “Canonical modelling of relative spacecraft motion
+      via epicyclic orbital elements”.pdf'
     context: Celestial Mechanics and Dynamical Astronomy
     authors:
       - N. J. Kasdin
       - P. Gurfil
       - E. Kolemen
 
-  - title: "Bounded, Periodic Relative Motion Using Canonical Epicyclic Orbital Elements"
+  - title: Bounded, Periodic Relative Motion Using Canonical Epicyclic
+      Orbital Elements
     type: Papers
     category: Special Topics
-    date: "2005-03-01"
-    pdf_file_name: "[143] N Jeremy Kasdin and Egemen Kolemen. “Bounded, periodic relative motion using canonical epicyclic orbital elements”.pdf"
+    date: '2005-03-01'
+    pdf_file_name: '[143] N Jeremy Kasdin and Egemen Kolemen.
+      “Bounded, periodic relative motion using canonical epicyclic
+      orbital elements”.pdf'
     context: AAS/AIAA Astrodynamics Conference
     authors:
       - N. J. Kasdin
       - E. Kolemen
 
-  - title: "An Overview of Recent Physics Results from NSTX"
+  - title: An Overview of Recent Physics Results from NSTX
     type: Papers
     category: Special Topics
-    date: "2015-03-01"
-    pdf_file_name: "[144] SM Kaye et al. “An overview of recent physics results from NSTX”.pdf"
+    date: '2015-03-01'
+    pdf_file_name: '[144] SM Kaye et al. “An overview of recent
+      physics results from NSTX”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - S. M. Kaye et al.
 
-  - title: "NSTX/NSTX-U Theory, Modeling and Analysis Results"
+  - title: NSTX/NSTX-U Theory, Modeling and Analysis Results
     type: Papers
     category: Special Topics
-    date: "2019-06-01"
-    pdf_file_name: "[145] Stanley M Kaye et al. “NSTX NSTX-U theory, modeling and analysis results”.pdf"
+    date: '2019-06-01'
+    pdf_file_name: '[145] Stanley M Kaye et al. “NSTX NSTX-U theory,
+      modeling and analysis results”.pdf'
     context: Nuclear Fusion
     authors:
       - S. M. Kaye et al.
 
-  - title: "Critical Exploration of Liquid Metal Plasma-Facing Components in a Fusion Nuclear Science Facility"
+  - title: Critical Exploration of Liquid Metal Plasma-Facing
+      Components in a Fusion Nuclear Science Facility
     type: Papers
     category: Liquid Metals
-    date: "2019-04-01"
-    pdf_file_name: "[146] CE Kessel et al. “Critical exploration of liquid metal plasma-facing components in a fusion nuclear science facility”.pdf"
+    date: '2019-04-01'
+    pdf_file_name: '[146] CE Kessel et al. “Critical exploration
+      of liquid metal plasma-facing components in a fusion nuclear
+      science facility”.pdf'
     context: Fusion Science and Technology
     authors:
       - C. E. Kessel et al.
 
-  - title: "Corrigendum: Integrated RMP-based ELM-crash-control Process for Plasma Performance Enhancement During ELM Crash Suppression in KSTAR"
+  - title: 'Corrigendum: Integrated RMP-based ELM-crash-control
+      Process for Plasma Performance Enhancement During ELM Crash
+      Suppression in KSTAR'
     type: Papers
     category: Controls and Optimization
-    date: "2023-11-01"
-    pdf_file_name: "[148] Minwoo Kim et al. “Corrigendum; Integrated RMP-based ELM-crash-control process for plasma performance enhancement during ELM crash suppression in KSTAR”.pdf"
+    date: '2023-11-01'
+    pdf_file_name: '[148] Minwoo Kim et al. “Corrigendum; Integrated
+      RMP-based ELM-crash-control process for plasma performance
+      enhancement during ELM crash suppression in KSTAR”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - M. Kim et al.
 
-  - title: "Integrated RMP-based ELM-crash-control Process for Plasma Performance Enhancement During ELM Crash Suppression in KSTAR"
+  - title: Integrated RMP-based ELM-crash-control Process for
+      Plasma Performance Enhancement During ELM Crash Suppression
+      in KSTAR
     type: Papers
     category: Controls and Optimization
-    date: "2023-07-01"
-    pdf_file_name: "[149] Minwoo Kim et al. “Integrated RMP-based ELM-crash-control process for plasma performance enhancement during ELM crash suppression in KSTAR”.pdf"
+    date: '2023-07-01'
+    pdf_file_name: '[149] Minwoo Kim et al. “Integrated RMP-based
+      ELM-crash-control process for plasma performance enhancement
+      during ELM crash suppression in KSTAR”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - M. Kim
@@ -1089,11 +1305,12 @@ publications:
       - G. Y. Park
       - E. Kolemen
 
-  - title: "Optimization of Nonlinear Turbulence in Stellarators"
+  - title: Optimization of Nonlinear Turbulence in Stellarators
     type: Papers
     category: Controls and Optimization
-    date: "2024-02-01"
-    pdf_file_name: "[151] Patrick Kim et al. “Optimization of Nonlinear Turbulence in Stellarators”.pdf"
+    date: '2024-02-01'
+    pdf_file_name: '[151] Patrick Kim et al. “Optimization of
+      Nonlinear Turbulence in Stellarators”.pdf'
     context: Journal of Plasma Physics
     authors:
       - P. Kim
@@ -1108,38 +1325,51 @@ publications:
       - N. R. Mandell
       - D. Panici
 
-  - title: "Optimization of 3D Controlled ELM-Free State With Recovered Global Confinement for KSTAR With n=1 Resonant Magnetic Field Perturbation"
+  - title: Optimization of 3D Controlled ELM-Free State With Recovered
+      Global Confinement for KSTAR With n=1 Resonant Magnetic
+      Field Perturbation
     type: Papers
     category: Controls and Optimization
-    date: "2022-01-01"
-    pdf_file_name: "[152] SangKyeun Kim et al. “Optimization of 3D controlled ELM-free state with recovered global confinement for KSTAR with n= 1 resonant magnetic field perturbation”.pdf"
+    date: '2022-01-01'
+    pdf_file_name: '[152] SangKyeun Kim et al. “Optimization of
+      3D controlled ELM-free state with recovered global confinement
+      for KSTAR with n= 1 resonant magnetic field perturbation”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - S. K. Kim et al.
 
-  - title: "Optimization of 3D Controlled ELM-Free State With Recovered Global Confinement for Tokamak Fusion Plasmas"
+  - title: Optimization of 3D Controlled ELM-Free State With Recovered
+      Global Confinement for Tokamak Fusion Plasmas
     type: Papers
     category: Controls and Optimization
-    date: "2021-07-01"
-    pdf_file_name: "[153] SangKyeun Kim et al. “Optimization of 3D controlled ELM-free state with recovered global confinement for tokamak fusion plasmas”.pdf"
+    date: '2021-07-01'
+    pdf_file_name: '[153] SangKyeun Kim et al. “Optimization of
+      3D controlled ELM-free state with recovered global confinement
+      for tokamak fusion plasmas”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - S. K. Kim et al.
 
-  - title: "Optimizing Edge Confinement and Stability via Adaptive ELM Control Using RMPs"
+  - title: Optimizing Edge Confinement and Stability via Adaptive
+      ELM Control Using RMPs
     type: Papers
     category: Controls and Optimization
-    date: "2021-11-01"
-    pdf_file_name: "[154] SangKyeun Kim et al. “Optimizing edge confinement and stability via adaptive ELM control using RMPs”.pdf"
+    date: '2021-11-01'
+    pdf_file_name: '[154] SangKyeun Kim et al. “Optimizing edge
+      confinement and stability via adaptive ELM control using
+      RMPs”.pdf'
     context: APS-DPP 2021
     authors:
       - S. K. Kim et al.
 
-  - title: "Effect of n=1 RMP-Driven Turbulence on Ion Pedestal and Its Role in Adaptive ELM Control in KSTAR"
+  - title: Effect of n=1 RMP-Driven Turbulence on Ion Pedestal
+      and Its Role in Adaptive ELM Control in KSTAR
     type: Papers
     category: Controls and Optimization
-    date: "2021-11-01"
-    pdf_file_name: "[156] SK Kim et al. “Effect of n= 1 RMP-driven turbulence on ion pedestal and its role in adaptive ELM control in KSTAR”.pdf"
+    date: '2021-11-01'
+    pdf_file_name: '[156] SK Kim et al. “Effect of n= 1 RMP-driven
+      turbulence on ion pedestal and its role in adaptive ELM
+      control in KSTAR”.pdf'
     context: 47th EPS Conference on Plasma Physics
     authors:
       - S. K. Kim
@@ -1154,29 +1384,39 @@ publications:
       - J. Kim
       - E. Kolemen
 
-  - title: "Nonlinear MHD Modeling of n=1 RMP-Induced Pedestal Transport and Mode Coupling Effects on ELMSuppression in KSTAR"
+  - title: Nonlinear MHD Modeling of n=1 RMP-Induced Pedestal
+      Transport and Mode Coupling Effects on ELMSuppression in
+      KSTAR
     type: Papers
     category: Controls and Optimization
-    date: "2022-09-01"
-    pdf_file_name: "[157] SK Kim et al. “Nonlinear MHD modeling of n= 1 RMP-induced pedestal transport and mode coupling effects on ELM suppression in KSTAR”.pdf"
+    date: '2022-09-01'
+    pdf_file_name: '[157] SK Kim et al. “Nonlinear MHD modeling
+      of n= 1 RMP-induced pedestal transport and mode coupling
+      effects on ELM suppression in KSTAR”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - S. K. Kim et al.
 
-  - title: "Transition in Particle Transport Under Resonant Magnetic Perturbations in a Tokamak"
+  - title: Transition in Particle Transport Under Resonant Magnetic
+      Perturbations in a Tokamak
     type: Papers
     category: Controls and Optimization
-    date: "2023-09-01"
-    pdf_file_name: "[158] SK Kim et al. “Transition in particle transport under resonant magnetic perturbations in a tokamak”.pdf"
+    date: '2023-09-01'
+    pdf_file_name: '[158] SK Kim et al. “Transition in particle
+      transport under resonant magnetic perturbations in a tokamak”.pdf'
     context: International Atomic Energy Agency Nuclear Fusion
     authors:
       - S. K. Kim et al.
 
-  - title: "Spatially and Temporally Resolved fs/ps Cars Measurements of Rotation-Vibration Non-equilibrium in a CH4-N2 Nanosecond-Pulsed Discharge"
+  - title: Spatially and Temporally Resolved fs/ps Cars Measurements
+      of Rotation-Vibration Non-equilibrium in a CH4-N2 Nanosecond-Pulsed
+      Discharge
     type: Papers
     category: Special Topics
-    date: "2021-01-01"
-    pdf_file_name: "[159] Christopher Jesse Kliewer et al. “Spatially and temporally resolved fs-ps CARS measurements of rotation-vibration non-equilibrium in a CH4-N2 nanosecond-pulsed discharge”.pdf"
+    date: '2021-01-01'
+    pdf_file_name: '[159] Christopher Jesse Kliewer et al. “Spatially
+      and temporally resolved fs-ps CARS measurements of rotation-vibration
+      non-equilibrium in a CH4-N2 nanosecond-pulsed discharge”.pdf'
     context: AIAA SciTech Forum
     authors:
       - T. Y. Chen
@@ -1185,11 +1425,14 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Time and Frequency-Domain fs/ps Cars Measurements and Modelling of the CH4 V1 Vibrational Q-Branch"
+  - title: Time and Frequency-Domain fs/ps Cars Measurements and
+      Modelling of the CH4 V1 Vibrational Q-Branch
     type: Papers
     category: Special Topics
-    date: "2021-01-01"
-    pdf_file_name: "[160] Christopher Jesse Kliewer et al. “Time and frequency-domain fs-ps CARS measurements and modelling of the CH4 v1 vibrational Q-branch”.pdf"
+    date: '2021-01-01'
+    pdf_file_name: '[160] Christopher Jesse Kliewer et al. “Time
+      and frequency-domain fs-ps CARS measurements and modelling
+      of the CH4 v1 vibrational Q-branch”.pdf'
     context: AIAA SciTech Forum
     authors:
       - T. Y. Chen
@@ -1198,56 +1441,71 @@ publications:
       - Y. Ju
       - C. J. Kliewer
 
-  - title: "Fast Liquid Metal Program for Fusion Reactor Divertor"
+  - title: Fast Liquid Metal Program for Fusion Reactor Divertor
     type: Papers
     category: Liquid Metals
-    date: "2017-06-01"
-    pdf_file_name: "[163] E Kolemen. “Fast Liquid Metal Program for Fusion Reactor Divertor”.pdf"
+    date: '2017-06-01'
+    pdf_file_name: '[163] E Kolemen. “Fast Liquid Metal Program
+      for Fusion Reactor Divertor”.pdf'
     context: White Paper
     authors:
       - E. Kolemen
 
-  - title: "Real-Time Stability Analysis to Achieve Transient Free Operations with Feedback Control"
+  - title: Real-Time Stability Analysis to Achieve Transient Free
+      Operations with Feedback Control
     type: Papers
     category: Special Topics
-    date: "2017-05-01"
-    pdf_file_name: "[164] E Kolemen. “Real-Time Stability Analysis to Achieve Transient Free Operations with Feedback Control”.pdf"
-    context: Fusion Energy Sciences Advisory Committee (FESAC) Report
+    date: '2017-05-01'
+    pdf_file_name: '[164] E Kolemen. “Real-Time Stability Analysis
+      to Achieve Transient Free Operations with Feedback Control”.pdf'
+    context: Fusion Energy Sciences Advisory Committee (FESAC)
+      Report
     authors:
       - E. Kolemen
 
-  - title: "Adaptive Real-Time Pedestal Control for DIII-D and Prospects for ITER"
+  - title: Adaptive Real-Time Pedestal Control for DIII-D and
+      Prospects for ITER
     type: Papers
     category: Controls and Optimization
-    date: "2020-03-01"
-    pdf_file_name: "[165] E Kolemen et al. “Adaptive Real-Time Pedestal Control for DIII-D and Prospects for ITER”.pdf"
+    date: '2020-03-01'
+    pdf_file_name: '[165] E Kolemen et al. “Adaptive Real-Time
+      Pedestal Control for DIII-D and Prospects for ITER”.pdf'
     context: IAEA Fusion Energy Conference
     authors:
       - E. Kolemen et al.
 
-  - title: "Burning Plasma Relevant Control Development: Advanced Magnetic Divertor Configurations, Divertor Detachment and Burn Control"
+  - title: 'Burning Plasma Relevant Control Development: Advanced
+      Magnetic Divertor Configurations, Divertor Detachment and
+      Burn Control'
     type: Papers
     category: Controls and Optimization
-    date: "2014-09-01"
-    pdf_file_name: "[167] E Kolemen et al. “Burning plasma relevant control development; advanced magnetic divertor configurations, divertor detachment and burn control“.pdf"
-    context: Fusion Energy Sciences Advisory Committee (FESAC) Report
+    date: '2014-09-01'
+    pdf_file_name: '[167] E Kolemen et al. “Burning plasma relevant
+      control development; advanced magnetic divertor configurations,
+      divertor detachment and burn control“.pdf'
+    context: Fusion Energy Sciences Advisory Committee (FESAC)
+      Report
     authors:
       - E. Kolemen et al.
 
-  - title: "Heat Flux Management via Advanced Magnetic Divertor Configurations and Divertor Detachment"
+  - title: Heat Flux Management via Advanced Magnetic Divertor
+      Configurations and Divertor Detachment
     type: Papers
     category: Special Topics
-    date: "2014-12-01"
-    pdf_file_name: "[171] E Kolemen et al. “Heat flux management via advanced magnetic divertor configurations and divertor detachment”.pdf"
+    date: '2014-12-01'
+    pdf_file_name: '[171] E Kolemen et al. “Heat flux management
+      via advanced magnetic divertor configurations and divertor
+      detachment”.pdf'
     context: Journal of Nuclear Materials
     authors:
       - E. Kolemen et al.
 
-  - title: "Plasma Modeling Results, Control Improvement for NSTX"
+  - title: Plasma Modeling Results, Control Improvement for NSTX
     type: Papers
     category: Controls and Optimization
-    date: "2010-09-01"
-    pdf_file_name: "[173] E Kolemen et al. “Plasma Modeling Results, Control Improvement for NSTX”.pdf"
+    date: '2010-09-01'
+    pdf_file_name: '[173] E Kolemen et al. “Plasma Modeling Results,
+      Control Improvement for NSTX”.pdf'
     context: 23rd IAEA Fusion Energy Conference
     authors:
       - E. Kolemen
@@ -1261,173 +1519,221 @@ publications:
       - C. Rowley
       - V. Soukhanovskii
 
-  - title: "Advanced Magnetic Divertor Control"
+  - title: Advanced Magnetic Divertor Control
     type: Papers
     category: Controls and Optimization
-    date: "2024-07-01"
-    pdf_file_name: "[175] Egemen Kolemen. “Advanced Magnetic Divertor Control”.pdf"
+    date: '2024-07-01'
+    pdf_file_name: '[175] Egemen Kolemen. “Advanced Magnetic Divertor
+      Control”.pdf'
     context: Nuclear Fusion
     authors:
       - E. Kolemen
 
-  - title: "Physics-Based Real-time Analysis and Control to Achieve Transient-Free Operations for the ITER Era"
+  - title: Physics-Based Real-time Analysis and Control to Achieve
+      Transient-Free Operations for the ITER Era
     type: Papers
     category: Controls and Optimization
-    date: "2024-07-01"
-    pdf_file_name: "[177] Egemen Kolemen “Final Report for the Early Career Award Titled; Physics Based Real-time Analysis and Control to Achieve Transient-Free Operations for the ITER Era”.pdf"
+    date: '2024-07-01'
+    pdf_file_name: '[177] Egemen Kolemen “Final Report for the
+      Early Career Award Titled; Physics Based Real-time Analysis
+      and Control to Achieve Transient-Free Operations for the
+      ITER Era”.pdf'
     context: Nuclear Fusion
     authors:
       - E. Kolemen
 
-  - title: "Optimal Trajectory Control of an Occulter-Based Planet-Finding Telescope"
+  - title: Optimal Trajectory Control of an Occulter-Based Planet-Finding
+      Telescope
     type: Papers
     category: Special Topics
-    date: "2007-02-01"
-    pdf_file_name: "[184] Egemen Kolemen and N Jeremy Kasdin. “Optimal trajectory control of an occulter-based planet-finding telescope”.pdf"
-    context: Proceedings of the New Trends in Astrodynamics and Applications
+    date: '2007-02-01'
+    pdf_file_name: '[184] Egemen Kolemen and N Jeremy Kasdin.
+      “Optimal trajectory control of an occulter-based planet-finding
+      telescope”.pdf'
+    context: Proceedings of the New Trends in Astrodynamics and
+      Applications
     authors:
       - E. Kolemen
       - N. J. Kasdin
 
-  - title: "Optimization of an Occulter-based Extrasolar-planet-imaging Mission"
+  - title: Optimization of an Occulter-based Extrasolar-planet-imaging
+      Mission
     type: Papers
     category: Special Topics
-    date: "2012-02-01"
-    pdf_file_name: "[185] Egemen Kolemen and N Jeremy Kasdin. “Optimization of an occulterbased extrasolar-planet-imaging mission”.pdf"
+    date: '2012-02-01'
+    pdf_file_name: '[185] Egemen Kolemen and N Jeremy Kasdin.
+      “Optimization of an occulterbased extrasolar-planet-imaging
+      mission”.pdf'
     context: Journal of Guidance, Control, and Dynamics
     authors:
       - E. Kolemen
       - N. J. Kasdin
 
-  - title: "Relative Spacecraft Motion: A Hamiltonian Approach to Eccentricity Perturbations"
+  - title: 'Relative Spacecraft Motion: A Hamiltonian Approach
+      to Eccentricity Perturbations'
     type: Papers
     category: Special Topics
-    date: "2004-01-01"
-    pdf_file_name: "[186] Egemen Kolemen and N Jeremy Kasdin. “Relative spacecraft motion; A hamiltonian approach to eccentricity perturbations”.pdf"
+    date: '2004-01-01'
+    pdf_file_name: '[186] Egemen Kolemen and N Jeremy Kasdin.
+      “Relative spacecraft motion; A hamiltonian approach to eccentricity
+      perturbations”.pdf'
     context: AAS 04-294
     authors:
       - E. Kolemen
       - N. J. Kasdin
 
-  - title: "Hamilton-Jacobi Modelling of Relative Motion for Formation Flying"
+  - title: Hamilton-Jacobi Modelling of Relative Motion for Formation
+      Flying
     type: Papers
     category: Special Topics
-    date: "2005-08-01"
-    pdf_file_name: "[187] Egemen Kolemen, N Jeremy Kasdin, and Pini Gurfil. “Hamilton-Jacobi Modelling of Relative Motion for Formation Flying”.pdf"
+    date: '2005-08-01'
+    pdf_file_name: '[187] Egemen Kolemen, N Jeremy Kasdin, and
+      Pini Gurfil. “Hamilton-Jacobi Modelling of Relative Motion
+      for Formation Flying”.pdf'
     context: New Trends in Astrodynamics and Applications
     authors:
       - E. Kolemen
       - N. J. Kasdin
       - P. Gurfil
 
-  - title: "Multiple Poincaré Sections Method for Finding the Quasiperiodic Orbits of the Restricted Three-Body Problem"
+  - title: Multiple Poincaré Sections Method for Finding the Quasiperiodic
+      Orbits of the Restricted Three-Body Problem
     type: Papers
     category: Special Topics
-    date: "2011-09-01"
-    pdf_file_name: "[188] Egemen Kolemen, N Jeremy Kasdin, and Pini Gurfil. “Multiple Poincar´e sections method for finding the quasiperiodic orbits of the restricted three body problem”.pdf"
+    date: '2011-09-01'
+    pdf_file_name: '[188] Egemen Kolemen, N Jeremy Kasdin, and
+      Pini Gurfil. “Multiple Poincar´e sections method for finding
+      the quasiperiodic orbits of the restricted three body problem”.pdf'
     context: Celestial Mechanics and Dynamical Astronomy
     authors:
       - E. Kolemen
       - N. J. Kasdin
       - P. Gurfil
 
-  - title: "Quasi-Periodic Orbits of the Restricted Three-Body Problem Made Easy"
+  - title: Quasi-Periodic Orbits of the Restricted Three-Body
+      Problem Made Easy
     type: Papers
     category: Special Topics
-    date: "2011-07-01"
-    pdf_file_name: "[189] Egemen Kolemen, N Jeremy Kasdin, and Pini Gurfil. “Quasi-Periodic Orbits of the Restricted Three-Body Problem Made Easy”.pdf"
-    context: Proceedings of the 62nd International Astronautical Congress
+    date: '2011-07-01'
+    pdf_file_name: '[189] Egemen Kolemen, N Jeremy Kasdin, and
+      Pini Gurfil. “Quasi-Periodic Orbits of the Restricted Three-Body
+      Problem Made Easy”.pdf'
+    context: Proceedings of the 62nd International Astronautical
+      Congress
     authors:
       - E. Kolemen
       - N. J. Kasdin
       - P. Gurfil
 
-  - title: "Avoiding Fusion Plasma Tearing Instability with Deep Reinforcement Learning"
+  - title: Avoiding Fusion Plasma Tearing Instability with Deep
+      Reinforcement Learning
     type: Papers
     category: Machine Learning
-    date: "2024-02-01"
-    pdf_file_name: "[191] Egemen Kolemen et al. “Avoiding tokamak tearing instability with artificial intelligence”.pdf"
+    date: '2024-02-01'
+    pdf_file_name: '[191] Egemen Kolemen et al. “Avoiding tokamak
+      tearing instability with artificial intelligence”.pdf'
     context: Nature
     authors:
       - E. Kolemen et al.
 
-  - title: "Design of the Flowing Liquid Torus (FLIT)"
+  - title: Design of the Flowing Liquid Torus (FLIT)
     type: Papers
     category: Liquid Metals
-    date: "2019-04-01"
-    pdf_file_name: "[193] Egemen Kolemen et al. “Design of the flowing liquid torus (flit)”.pdf"
+    date: '2019-04-01'
+    pdf_file_name: '[193] Egemen Kolemen et al. “Design of the
+      flowing liquid torus (flit)”.pdf'
     context: Nuclear Materials and Energy
     authors:
       - E. Kolemen et al.
 
-  - title: "FLIT: Flowing Liquid Metal Torus"
+  - title: 'FLIT: Flowing Liquid Metal Torus'
     type: Papers
     category: Liquid Metals
-    date: "2017-11-01"
-    pdf_file_name: "[194] Egemen Kolemen et al. “FLIT; Flowing LIquid metal Torus”.pdf"
+    date: '2017-11-01'
+    pdf_file_name: '[194] Egemen Kolemen et al. “FLIT; Flowing
+      LIquid metal Torus”.pdf'
     context: IAEA Divertor Workshop
     authors:
       - E. Kolemen et al.
 
-  - title: "Initial Development of the DIII–D Snowflake Divertor Control"
+  - title: Initial Development of the DIII–D Snowflake Divertor
+      Control
     type: Papers
     category: Controls and Optimization
-    date: "2018-04-01"
-    pdf_file_name: "[195] Egemen Kolemen et al. “Initial development of the DIII–D snowflake divertor control”.pdf"
+    date: '2018-04-01'
+    pdf_file_name: '[195] Egemen Kolemen et al. “Initial development
+      of the DIII–D snowflake divertor control”.pdf'
     context: Nuclear Fusion
     authors:
       - E. Kolemen et al.
 
-  - title: "Plasma Modelling Results and Shape Control Improvements for NSTX"
+  - title: Plasma Modelling Results and Shape Control Improvements
+      for NSTX
     type: Papers
     category: Controls and Optimization
-    date: "2011-11-01"
-    pdf_file_name: "[199] Egemen Kolemen et al. “Plasma modelling results and shape control improvements for NSTX”.pdf"
+    date: '2011-11-01'
+    pdf_file_name: '[199] Egemen Kolemen et al. “Plasma modelling
+      results and shape control improvements for NSTX”.pdf'
     context: Nuclear Fusion
     authors:
       - E. Kolemen et al.
 
-  - title: "Real-time Mirror Steering for Improved Closed Loop Neoclassical Tearing Mode Suppression by Electron Cyclotron Current Drive in DIII-D"
+  - title: Real-time Mirror Steering for Improved Closed Loop
+      Neoclassical Tearing Mode Suppression by Electron Cyclotron
+      Current Drive in DIII-D
     type: Papers
     category: Controls and Optimization
-    date: "2013-03-01"
-    pdf_file_name: "[201] Egemen Kolemen et al. “Real-time mirror steering for improved closed loop neoclassical tearing mode suppression by electron cyclotron current drive in DIII-D”.pdf"
+    date: '2013-03-01'
+    pdf_file_name: '[201] Egemen Kolemen et al. “Real-time mirror
+      steering for improved closed loop neoclassical tearing mode
+      suppression by electron cyclotron current drive in DIII-D”.pdf'
     context: Fusion Engineering and Design
     authors:
       - E. Kolemen et al.
 
-  - title: "State-of-the-Art Neoclassical Tearing Mode Control in DIII-D Using Real-Time Steerable Electron Cyclotron Current Drive Launchers"
+  - title: State-of-the-Art Neoclassical Tearing Mode Control
+      in DIII-D Using Real-Time Steerable Electron Cyclotron Current
+      Drive Launchers
     type: Papers
     category: Controls and Optimization
-    date: "2014-05-01"
-    pdf_file_name: "[204] Egemen Kolemen et al. “State-of-the-art neoclassical tearing mode control in DIII-D using real-time steerable electron cyclotron current drive launchers”.pdf"
+    date: '2014-05-01'
+    pdf_file_name: '[204] Egemen Kolemen et al. “State-of-the-art
+      neoclassical tearing mode control in DIII-D using real-time
+      steerable electron cyclotron current drive launchers”.pdf'
     context: Nuclear Fusion
     authors:
       - E. Kolemen et al.
 
-  - title: "Strike Point Control for the National Spherical Torus Experiment (NSTX)"
+  - title: Strike Point Control for the National Spherical Torus
+      Experiment (NSTX)
     type: Papers
     category: Controls and Optimization
-    date: "2010-09-01"
-    pdf_file_name: "[205] Egemen Kolemen et al. “Strike point control for the national spherical torus experiment (NSTX)”.pdf"
+    date: '2010-09-01'
+    pdf_file_name: '[205] Egemen Kolemen et al. “Strike point
+      control for the national spherical torus experiment (NSTX)”.pdf'
     context: Nuclear Fusion
     authors:
       - E. Kolemen et al.
 
-  - title: "Transient-Free Operations With Physics-Based Real-time Analysis and Control"
+  - title: Transient-Free Operations With Physics-Based Real-time
+      Analysis and Control
     type: Papers
     category: Controls and Optimization
-    date: "2016-11-01"
-    pdf_file_name: "[206] Egemen Kolemen et al. “Transient-Free Operations With Physics-Based Real-time Analysis and Control”.pdf"
+    date: '2016-11-01'
+    pdf_file_name: '[206] Egemen Kolemen et al. “Transient-Free
+      Operations With Physics-Based Real-time Analysis and Control”.pdf'
     context: APS Division of Plasma Physics Meeting
     authors:
       - E. Kolemen et al.
 
-  - title: "Study on Thermal Mixing of Liquid-Metal Free-Surface Flow by Obstacles Installed at the Bottom of a Channel"
+  - title: Study on Thermal Mixing of Liquid-Metal Free-Surface
+      Flow by Obstacles Installed at the Bottom of a Channel
     type: Papers
     category: Liquid Metals
-    date: "2016-01-01"
-    pdf_file_name: "[207] Koji Kusumi et al. “Study on thermal mixing of liquid–metal free-surface flow by obstacles installed at the bottom of a channel”.pdf"
+    date: '2016-01-01'
+    pdf_file_name: '[207] Koji Kusumi et al. “Study on thermal
+      mixing of liquid–metal free-surface flow by obstacles installed
+      at the bottom of a channel”.pdf'
     context: Fusion Engineering and Design
     authors:
       - K. Kusumi
@@ -1439,11 +1745,13 @@ publications:
       - H. Ji
       - E. Gilson
 
-  - title: "Study on Thermal Mixing of MHD Liquid Metal Free-Surface Film Flow"
+  - title: Study on Thermal Mixing of MHD Liquid Metal Free-Surface
+      Film Flow
     type: Papers
     category: Liquid Metals
-    date: "2017-06-01"
-    pdf_file_name: "[208] Koji Kusumi et al. “Study on thermal mixing of MHD liquid metal free-surface film flow”.pdf"
+    date: '2017-06-01'
+    pdf_file_name: '[208] Koji Kusumi et al. “Study on thermal
+      mixing of MHD liquid metal free-surface film flow”.pdf'
     context: Fusion Science and Technology
     authors:
       - K. Kusumi
@@ -1454,11 +1762,14 @@ publications:
       - H. Ji
       - E. P. Gilson
 
-  - title: "Thermal Mixing Enhancement of Liquid Metal MHD Free-Surface Flow by Optimizing Vortex Generator Arrays"
+  - title: Thermal Mixing Enhancement of Liquid Metal MHD Free-Surface
+      Flow by Optimizing Vortex Generator Arrays
     type: Papers
     category: Liquid Metals
-    date: "2018-02-01"
-    pdf_file_name: "[209] Koji Kusumi et al. “Thermal mixing enhancement of liquid metal MHD free-surface flow by optimizing vortex generator arrays”.pdf"
+    date: '2018-02-01'
+    pdf_file_name: '[209] Koji Kusumi et al. “Thermal mixing enhancement
+      of liquid metal MHD free-surface flow by optimizing vortex
+      generator arrays”.pdf'
     context: Fusion Engineering and Design
     authors:
       - K. Kusumi
@@ -1469,29 +1780,35 @@ publications:
       - E. Kolemen
       - H. Ji
 
-  - title: "An Overview of KSTAR Results"
+  - title: An Overview of KSTAR Results
     type: Papers
     category: Special Topics
-    date: "2013-09-01"
-    pdf_file_name: "[210] Jong-Gu Kwak et al. “An overview of KSTAR results”.pdf"
+    date: '2013-09-01'
+    pdf_file_name: '[210] Jong-Gu Kwak et al. “An overview of
+      KSTAR results”.pdf'
     context: Nuclear Fusion
     authors:
       - J.-G. Kwak et al.
 
-  - title: "The Universality of Inter-ELM Pedestal Fluctuations in AUG and DIII-D"
+  - title: The Universality of Inter-ELM Pedestal Fluctuations
+      in AUG and DIII-D
     type: Papers
     category: Special Topics
-    date: "2018-10-01"
-    pdf_file_name: "[215] FM LAGGNER et al. “THE UNIVERSALITY OF INTER-ELM PEDESTAL FLUCTUATIONS IN AUG AND DIII-D”.pdf"
+    date: '2018-10-01'
+    pdf_file_name: '[215] FM LAGGNER et al. “THE UNIVERSALITY
+      OF INTER-ELM PEDESTAL FLUCTUATIONS IN AUG AND DIII-D”.pdf'
     context: 27th IAEA Fusion Energy Conference
     authors:
       - F. M. Laggner et al.
 
-  - title: "A Scalable Real-Time Framework for Thomson Scattering Analysis: Application to NSTX-U"
+  - title: 'A Scalable Real-Time Framework for Thomson Scattering
+      Analysis: Application to NSTX-U'
     type: Papers
     category: Controls and Optimization
-    date: "2019-04-01"
-    pdf_file_name: "[216] FM Laggner et al. “A scalable real-time framework for Thomson scattering analysis; Application to NSTX-U”.pdf"
+    date: '2019-04-01'
+    pdf_file_name: '[216] FM Laggner et al. “A scalable real-time
+      framework for Thomson scattering analysis; Application to
+      NSTX-U”.pdf'
     context: Review of Scientific Instruments
     authors:
       - F. M. Laggner
@@ -1501,11 +1818,14 @@ publications:
       - G. Tchilinguirian
       - E. Kolemen
 
-  - title: "Inter-ELM Pedestal Localized Fluctuations in Tokamaks: Summary of Multi-Machine Observations"
+  - title: 'Inter-ELM Pedestal Localized Fluctuations in Tokamaks:
+      Summary of Multi-Machine Observations'
     type: Papers
     category: Special Topics
-    date: "2019-04-01"
-    pdf_file_name: "[217] FM Laggner et al. “Inter-ELM pedestal localized fluctuations in tokamaks; Summary of multi-machine observations”.pdf"
+    date: '2019-04-01'
+    pdf_file_name: '[217] FM Laggner et al. “Inter-ELM pedestal
+      localized fluctuations in tokamaks; Summary of multi-machine
+      observations”.pdf'
     context: Nuclear Materials and Energy
     authors:
       - F. M. Laggner
@@ -1513,29 +1833,37 @@ publications:
       - M. Cavedon
       - E. Kolemen
 
-  - title: "Real-time Pedestal Optimization and ELM Control with 3D Fields and Gas Flows on DIII-D"
+  - title: Real-time Pedestal Optimization and ELM Control with
+      3D Fields and Gas Flows on DIII-D
     type: Papers
     category: Controls and Optimization
-    date: "2020-05-01"
-    pdf_file_name: "[218] FM Laggner et al. “Real-time pedestal optimization and ELM control with 3D fields and gas flows on DIII-D”.pdf"
+    date: '2020-05-01'
+    pdf_file_name: '[218] FM Laggner et al. “Real-time pedestal
+      optimization and ELM control with 3D fields and gas flows
+      on DIII-D”.pdf'
     context: Nuclear Fusion
     authors:
       - F. M. Laggner et al.
 
-  - title: "The Universality of Inter-ELM Pedestal Fluctuations in AUG and DIII-D Impacting the Edge Profile Structure by Clamping of the Gradients"
+  - title: The Universality of Inter-ELM Pedestal Fluctuations
+      in AUG and DIII-D Impacting the Edge Profile Structure by
+      Clamping of the Gradients
     type: Papers
     category: Special Topics
-    date: "2018-05-01"
-    pdf_file_name: "[219] FM Laggner et al. “The Universality of inter-ELM Pedestal Fluctuations in AUG and DIII-D Impacting the Edge Profile Structure by Clamping of the Gradients”.pdf"
+    date: '2018-05-01'
+    pdf_file_name: '[219] FM Laggner et al. “The Universality
+      of inter-ELM Pedestal Fluctuations in AUG and DIII-D Impacting
+      the Edge Profile Structure by Clamping of the Gradients”.pdf'
     context: IAEA-CN-258
     authors:
       - F. M. Laggner et al.
 
-  - title: "Enhancements for the DIII-D ECH System"
+  - title: Enhancements for the DIII-D ECH System
     type: Papers
     category: Special Topics
-    date: "2013-06-01"
-    pdf_file_name: "[220] J Lohr et al. “Enhancements for the DIII-D ECH system”.pdf"
+    date: '2013-06-01'
+    pdf_file_name: '[220] J Lohr et al. “Enhancements for the
+      DIII-D ECH system”.pdf'
     context: IEEE Transactions on Plasma Science
     authors:
       - J. Lohr
@@ -1548,29 +1876,37 @@ publications:
       - R. Prater
       - R. A. Ellis
 
-  - title: "Performance History and Upgrades for the DIII-D Gyrotron Complex"
+  - title: Performance History and Upgrades for the DIII-D Gyrotron
+      Complex
     type: Papers
     category: Special Topics
-    date: "2015-07-01"
-    pdf_file_name: "[222] J Lohr et al. “Performance history and upgrades for the DIII-D gyrotron complex”.pdf"
+    date: '2015-07-01'
+    pdf_file_name: '[222] J Lohr et al. “Performance history and
+      upgrades for the DIII-D gyrotron complex”.pdf'
     context: EPJ Web of Conferences
     authors:
       - J. Lohr et al.
 
-  - title: "Performance, Diagnostics, Controls and Plans for the Gyrotron System on the DIII-D Tokamak"
+  - title: Performance, Diagnostics, Controls and Plans for the
+      Gyrotron System on the DIII-D Tokamak
     type: Papers
     category: Special Topics
-    date: "2012-04-01"
-    pdf_file_name: "[223] J Lohr et al. “Performance, diagnostics, controls and plans for the gyrotron system on the DIII-D tokamak”.pdf"
+    date: '2012-04-01'
+    pdf_file_name: '[223] J Lohr et al. “Performance, diagnostics,
+      controls and plans for the gyrotron system on the DIII-D
+      tokamak”.pdf'
     context: EPJ Web of Conferences
     authors:
       - J. Lohr et al.
 
-  - title: "Status and Progress of the Domestic Liquid Metal Plasma-Facing Component Design Program"
+  - title: Status and Progress of the Domestic Liquid Metal Plasma-Facing
+      Component Design Program
     type: Papers
     category: Liquid Metals
-    date: "2020-11-01"
-    pdf_file_name: "[225] R Maingi et al. “Status and Progress of the Domestic Liquid Metal Plasma-Facing Component Design Program”.pdf"
+    date: '2020-11-01'
+    pdf_file_name: '[225] R Maingi et al. “Status and Progress
+      of the Domestic Liquid Metal Plasma-Facing Component Design
+      Program”.pdf'
     context: Magnetic Fusion Science Meeting
     authors:
       - R. Maingi
@@ -1585,21 +1921,28 @@ publications:
       - D. Andruczyk
       - D. Curreli
 
-  - title: "Progress in a US-based Liquid Metal Plasma-Facing Component Design Activity for a Fusion Nuclear Science Facility"
+  - title: Progress in a US-based Liquid Metal Plasma-Facing Component
+      Design Activity for a Fusion Nuclear Science Facility
     type: Papers
     category: Liquid Metals
-    date: "2021-06-01"
-    pdf_file_name: "[226] Rajesh Maingi et al. “Progress in a US-based liquid metal plasma-facing component design activity for a fusion nuclear science facility”.pdf"
-    context: Proceedings of the 2021 European Conference on Controlled Fusion and Plasma Physics
+    date: '2021-06-01'
+    pdf_file_name: '[226] Rajesh Maingi et al. “Progress in a
+      US-based liquid metal plasma-facing component design activity
+      for a fusion nuclear science facility”.pdf'
+    context: Proceedings of the 2021 European Conference on Controlled
+      Fusion and Plasma Physics
     authors:
       - R. Maingi et al.
 
-  - title: "Mitigation of Scrape-Off Layer Power Flow with Lithium Plasma-Facing Surfaces"
+  - title: Mitigation of Scrape-Off Layer Power Flow with Lithium
+      Plasma-Facing Surfaces
     type: Papers
     category: Liquid Metals
-    date: "2021-06-01"
-    pdf_file_name: "[227] R Majeski et al. “Mitigation of scrape-off layer power flow with lithium plasma-facing surfaces”.pdf"
-    context: Proceedings of the 2021 European Conference on Controlled Fusion and Plasma Physics
+    date: '2021-06-01'
+    pdf_file_name: '[227] R Majeski et al. “Mitigation of scrape-off
+      layer power flow with lithium plasma-facing surfaces”.pdf'
+    context: Proceedings of the 2021 European Conference on Controlled
+      Fusion and Plasma Physics
     authors:
       - R. Majeski
       - E. Kolemen
@@ -1609,20 +1952,25 @@ publications:
       - M. V. Umansky
       - B. Garcia-Diaz
 
-  - title: "The Role of Drifts and Radiating Species in EX-D Detached Divertor Operation at DIII-D"
+  - title: The Role of Drifts and Radiating Species in EX-D Detached
+      Divertor Operation at DIII-D
     type: Papers
     category: Special Topics
-    date: "2016-10-01"
-    pdf_file_name: "[229] AG McLean et al. “The Role of Drifts and Radiating Species in EX-D Detached Divertor Operation at DIII-D”.pdf"
+    date: '2016-10-01'
+    pdf_file_name: '[229] AG McLean et al. “The Role of Drifts
+      and Radiating Species in EX-D Detached Divertor Operation
+      at DIII-D”.pdf'
     context: 26th IAEA Fusion Energy Conference
     authors:
       - A. G. McLean et al.
 
-  - title: "Automated Experimental Design of Safe Rampdowns via Probabilistic Machine Learning"
+  - title: Automated Experimental Design of Safe Rampdowns via
+      Probabilistic Machine Learning
     type: Papers
     category: Machine Learning
-    date: "2024-02-01"
-    pdf_file_name: "[230] Viraj Mehta et al. “Automated experimental design of safe rampdowns via probabilistic machine learning”.pdf"
+    date: '2024-02-01'
+    pdf_file_name: '[230] Viraj Mehta et al. “Automated experimental
+      design of safe rampdowns via probabilistic machine learning”.pdf'
     context: Nuclear Fusion
     authors:
       - V. Mehta
@@ -1634,12 +1982,14 @@ publications:
       - E. Kolemen
       - J. Schneider
 
-  - title: "Neural Dynamical Systems"
+  - title: Neural Dynamical Systems
     type: Papers
     category: Special Topics
-    date: "2020-04-01"
-    pdf_file_name: "[232] Viraj Mehta et al. “Neural dynamical systems”.pdf"
-    context: ICLR 2020 Integration of Deep Neural Models and Differential Equations Workshop
+    date: '2020-04-01'
+    pdf_file_name: '[232] Viraj Mehta et al. “Neural dynamical
+      systems”.pdf'
+    context: ICLR 2020 Integration of Deep Neural Models and Differential
+      Equations Workshop
     authors:
       - V. Mehta
       - I. Char
@@ -1650,11 +2000,14 @@ publications:
       - M. D. Boyer
       - E. Kolemen
 
-  - title: "Neural Dynamical Systems: Balancing Structure and Flexibility in Physical Prediction"
+  - title: 'Neural Dynamical Systems: Balancing Structure and
+      Flexibility in Physical Prediction'
     type: Papers
     category: Machine Learning
-    date: "2021-12-01"
-    pdf_file_name: "[233] Viraj Mehta et al. “Neural dynamical systems; Balancing structure and flexibility in physical prediction”.pdf"
+    date: '2021-12-01'
+    pdf_file_name: '[233] Viraj Mehta et al. “Neural dynamical
+      systems; Balancing structure and flexibility in physical
+      prediction”.pdf'
     context: 60th IEEE Conference on Decision and Control (CDC)
     authors:
       - V. Mehta
@@ -1666,11 +2019,12 @@ publications:
       - E. Kolemen
       - J. Schneider
 
-  - title: "Towards LLMs as Operational Copilots for Fusion Reactors"
+  - title: Towards LLMs as Operational Copilots for Fusion Reactors
     type: Papers
     category: Machine Learning
-    date: "2023-07-01"
-    pdf_file_name: "[234] Viraj Mehta et al. “Towards LLMs as Operational Copilots for Fusion Reactors”.pdf"
+    date: '2023-07-01'
+    pdf_file_name: '[234] Viraj Mehta et al. “Towards LLMs as
+      Operational Copilots for Fusion Reactors”.pdf'
     context: NeurIPS 2023 AI for Science Workshop
     authors:
       - V. Mehta
@@ -1683,30 +2037,35 @@ publications:
       - C. Rea
       - D. T. Garnier
 
-  - title: "Overview of NSTX Upgrade Initial Results and Modelling Highlights"
+  - title: Overview of NSTX Upgrade Initial Results and Modelling
+      Highlights
     type: Papers
     category: Special Topics
-    date: "2017-06-01"
-    pdf_file_name: "[235] JE Menard et al. “Overview of NSTX Upgrade initial results and modelling highlights”.pdf"
+    date: '2017-06-01'
+    pdf_file_name: '[235] JE Menard et al. “Overview of NSTX Upgrade
+      initial results and modelling highlights”.pdf'
     context: Nuclear Fusion
     authors:
       - J. E. Menard et al.
 
-  - title: "Overview of the Physics and Engineering Design of NSTX Upgrade"
+  - title: Overview of the Physics and Engineering Design of NSTX
+      Upgrade
     type: Papers
     category: Special Topics
-    date: "2012-07-01"
-    pdf_file_name: "[236] JE Menard et al. “Overview of the physics and engineering design of NSTX upgrade”.pdf"
+    date: '2012-07-01'
+    pdf_file_name: '[236] JE Menard et al. “Overview of the physics
+      and engineering design of NSTX upgrade”.pdf'
     context: Nuclear Fusion
     authors:
       - J. E. Menard et al.
 
-  - title: "Liquid Metal Flow Controls at Liquid Metal Experiment"
+  - title: Liquid Metal Flow Controls at Liquid Metal Experiment
     type: Papers
     category: Liquid Metals
-    date: "2022-03-01"
-    pdf_file_name: "[240] M Modestov et al. “Liquid metal flow controls at liquid metal experiment”.pdf"
-    context: 
+    date: '2022-03-01'
+    pdf_file_name: '[240] M Modestov et al. “Liquid metal flow
+      controls at liquid metal experiment”.pdf'
+    context:
     authors:
       - M. Modestov
       - E. Kolemen
@@ -1716,11 +2075,14 @@ publications:
       - T. Kunugi
       - R. Majeski
 
-  - title: "Electromagnetic Control of Heat Transport within a Rectangular Channel Filled with Flowing Liquid Metal"
+  - title: Electromagnetic Control of Heat Transport within a
+      Rectangular Channel Filled with Flowing Liquid Metal
     type: Papers
     category: Liquid Metals
-    date: "2017-11-01"
-    pdf_file_name: "[241] Mikhail Modestov et al. “Electromagnetic control of heat transport within a rectangular channel filled with flowing liquid metal”.pdf"
+    date: '2017-11-01'
+    pdf_file_name: '[241] Mikhail Modestov et al. “Electromagnetic
+      control of heat transport within a rectangular channel filled
+      with flowing liquid metal”.pdf'
     context: Nuclear Fusion
     authors:
       - M. Modestov
@@ -1728,11 +2090,13 @@ publications:
       - A. E. Fisher
       - M. G. Hvasta
 
-  - title: "Improvements in the Fast Vertical Control Systems in KSTAR, EAST, NSTX and NSTX-U"
+  - title: Improvements in the Fast Vertical Control Systems in
+      KSTAR, EAST, NSTX and NSTX-U
     type: Papers
     category: Controls and Optimization
-    date: "2017-03-01"
-    pdf_file_name: "[242] D Mueller et al. “Improvements in the fast vertical control systems in KSTAR, EAST, NSTX and NSTX-U”.pdf"
+    date: '2017-03-01'
+    pdf_file_name: '[242] D Mueller et al. “Improvements in the
+      fast vertical control systems in KSTAR, EAST, NSTX and NSTX-U”.pdf'
     context: Plasma Overall Performance and Control
     authors:
       - D. Mueller
@@ -1745,12 +2109,15 @@ publications:
       - S. W. Yoon
       - B. J. Xiao
 
-  - title: "Pedestal Fueling Variation in a Closed Divertor Configuration at DIII-D"
+  - title: Pedestal Fueling Variation in a Closed Divertor Configuration
+      at DIII-D
     type: Papers
     category: Special Topics
-    date: "2018-11-01"
-    pdf_file_name: "[247] Andrew Nelson et al. “Pedestal fueling variation in a closed divertor configuration at DIII-D”.pdf"
-    context: 60th Annual Meeting of the APS Division of Plasma Physics
+    date: '2018-11-01'
+    pdf_file_name: '[247] Andrew Nelson et al. “Pedestal fueling
+      variation in a closed divertor configuration at DIII-D”.pdf'
+    context: 60th Annual Meeting of the APS Division of Plasma
+      Physics
     authors:
       - A. O. Nelson
       - E. Kolemen
@@ -1763,11 +2130,14 @@ publications:
       - D. Shiraki
       - A. C. Sontag
 
-  - title: "Setting the H-mode Pedestal Structure: Variations of Particle Source Location Using Gas Puff and Pellet Fueling"
+  - title: 'Setting the H-mode Pedestal Structure: Variations
+      of Particle Source Location Using Gas Puff and Pellet Fueling'
     type: Papers
     category: Special Topics
-    date: "2020-02-01"
-    pdf_file_name: "[249] Andrew Oakleigh Nelson et al. “Setting the H-mode pedestal structure; variations of particle source location using gas puff and pellet fueling”.pdf"
+    date: '2020-02-01'
+    pdf_file_name: '[249] Andrew Oakleigh Nelson et al. “Setting
+      the H-mode pedestal structure; variations of particle source
+      location using gas puff and pellet fueling”.pdf'
     context: Nuclear Fusion
     authors:
       - A. O. Nelson
@@ -1782,11 +2152,14 @@ publications:
       - A. C. Sontag
       - E. Kolemen
 
-  - title: "Time-Dependent Experimental Identification of Inter-ELM Microtearing Modes in the Tokamak Edge on DIII-D"
+  - title: Time-Dependent Experimental Identification of Inter-ELM
+      Microtearing Modes in the Tokamak Edge on DIII-D
     type: Papers
     category: Special Topics
-    date: "2021-10-01"
-    pdf_file_name: "[250] Andrew Oakleigh Nelson et al. “Time-dependent experimental identification of inter-ELM microtearing modes in the tokamak edge on DIII-D”.pdf"
+    date: '2021-10-01'
+    pdf_file_name: '[250] Andrew Oakleigh Nelson et al. “Time-dependent
+      experimental identification of inter-ELM microtearing modes
+      in the tokamak edge on DIII-D”.pdf'
     context: Nuclear Fusion
     authors:
       - A. O. Nelson
@@ -1797,33 +2170,44 @@ publications:
       - R. Shousha
       - E. Kolemen
 
-  - title: "ECE-Based q-Profile Measurement and Concept for Equilibrium Reconstruction"
+  - title: ECE-Based q-Profile Measurement and Concept for Equilibrium
+      Reconstruction
     type: Papers
     category: Special Topics
-    date: "2019-09-01"
-    pdf_file_name: "[251] AO Nelson, ME Austin, and E Kolemen. “ECE based q-profile measurement and concept for equilibrium reconstruction”.pdf"
+    date: '2019-09-01'
+    pdf_file_name: '[251] AO Nelson, ME Austin, and E Kolemen.
+      “ECE based q-profile measurement and concept for equilibrium
+      reconstruction”.pdf'
     context: Review of Scientific Instruments
     authors:
       - A. O. Nelson
       - M. E. Austin
       - E. Kolemen
 
-  - title: "Electron Cyclotron Emission Based q-Profile Measurement and Concept for Equilibrium Reconstruction"
+  - title: Electron Cyclotron Emission Based q-Profile Measurement
+      and Concept for Equilibrium Reconstruction
     type: Papers
     category: Special Topics
-    date: "2019-06-01"
-    pdf_file_name: "[252] AO Nelson, ME Austin, and Egemen Kolemen. “Electron cyclotron emission based q-profile measurement and concept for equilibrium reconstruction”.pdf"
+    date: '2019-06-01'
+    pdf_file_name: '[252] AO Nelson, ME Austin, and Egemen Kolemen.
+      “Electron cyclotron emission based q-profile measurement
+      and concept for equilibrium reconstruction”.pdf'
     context: Plasma Physics and Controlled Fusion
     authors:
       - A. O. Nelson
       - M. E. Austin
       - E. Kolemen
 
-  - title: "Experimental Evidence of Electron-Cyclotron Current Drive-Based Neoclassical Tearing Mode Suppression Threshold Reduction During Mode Locking on DIII-D"
+  - title: Experimental Evidence of Electron-Cyclotron Current
+      Drive-Based Neoclassical Tearing Mode Suppression Threshold
+      Reduction During Mode Locking on DIII-D
     type: Papers
     category: Special Topics
-    date: "2020-07-01"
-    pdf_file_name: "[253] AO Nelson et al. “Experimental evidence of electron-cyclotron current drive-based neoclassical tearing mode suppression threshold reduction during mode locking on DIII-D”.pdf"
+    date: '2020-07-01'
+    pdf_file_name: '[253] AO Nelson et al. “Experimental evidence
+      of electron-cyclotron current drive-based neoclassical tearing
+      mode suppression threshold reduction during mode locking
+      on DIII-D”.pdf'
     context: Plasma Physics and Controlled Fusion
     authors:
       - A. O. Nelson
@@ -1832,12 +2216,13 @@ publications:
       - E. J. Strait
       - E. Kolemen
 
-  - title: "Interpretative SOL Modeling Throughout Multiple ELM"
+  - title: Interpretative SOL Modeling Throughout Multiple ELM
     type: Papers
     category: Special Topics
-    date: "2020-12-01"
-    pdf_file_name: "[254] AO Nelson et al. “Interpretative SOL modeling throughout multiple ELM cycles in DIII-D”.pdf"
-    context: 
+    date: '2020-12-01'
+    pdf_file_name: '[254] AO Nelson et al. “Interpretative SOL
+      modeling throughout multiple ELM cycles in DIII-D”.pdf'
+    context:
     authors:
       - A. O. Nelson
       - Z. A. Xing
@@ -1845,11 +2230,13 @@ publications:
       - F. M. Laggner
       - E. Kolemen
 
-  - title: "Perturbative Determination of Plasma Microinstabilities in Tokamaks"
+  - title: Perturbative Determination of Plasma Microinstabilities
+      in Tokamaks
     type: Papers
     category: Special Topics
-    date: "2021-02-01"
-    pdf_file_name: "[255] AO Nelson et al. “Perturbative Determination of Plasma Microinstabilities in Tokamaks”.pdf"
+    date: '2021-02-01'
+    pdf_file_name: '[255] AO Nelson et al. “Perturbative Determination
+      of Plasma Microinstabilities in Tokamaks”.pdf'
     context: Physics of Plasmas
     authors:
       - A. O. Nelson
@@ -1859,11 +2246,15 @@ publications:
       - D. R. Smith
       - E. Kolemen
 
-  - title: "Simultaneous Detection of Neoclassical Tearing Mode and Electron Cyclotron Current Drive Locations Using Electron Cyclotron Emission in DIII-D"
+  - title: Simultaneous Detection of Neoclassical Tearing Mode
+      and Electron Cyclotron Current Drive Locations Using Electron
+      Cyclotron Emission in DIII-D
     type: Papers
     category: Special Topics
-    date: "2019-02-01"
-    pdf_file_name: "[256] AO Nelson et al. “Simultaneous detection of neoclassical tearing mode and electron cyclotron current drive locations using electron cyclotron emission in DIII-D”.pdf"
+    date: '2019-02-01'
+    pdf_file_name: '[256] AO Nelson et al. “Simultaneous detection
+      of neoclassical tearing mode and electron cyclotron current
+      drive locations using electron cyclotron emission in DIII-D”.pdf'
     context: Fusion Engineering and Design
     authors:
       - A. O. Nelson
@@ -1872,11 +2263,14 @@ publications:
       - A. S. Welander
       - E. Kolemen
 
-  - title: "Array Magnetics Modal Analysis for the DIII-D Tokamak Based on Localized Time-Series Modelling"
+  - title: Array Magnetics Modal Analysis for the DIII-D Tokamak
+      Based on Localized Time-Series Modelling
     type: Papers
     category: Special Topics
-    date: "2014-07-01"
-    pdf_file_name: "[258] K Erik J Olofsson et al. “Array magnetics modal analysis for the DIII-D tokamak based on localized time-series modelling”.pdf"
+    date: '2014-07-01'
+    pdf_file_name: '[258] K Erik J Olofsson et al. “Array magnetics
+      modal analysis for the DIII-D tokamak based on localized
+      time-series modelling”.pdf'
     context: Plasma Physics and Controlled Fusion
     authors:
       - K. E. J. Olofsson
@@ -1890,11 +2284,13 @@ publications:
       - A. S. Welander
       - E. Kolemen
 
-  - title: "Investigating ELM Pacing by Vertical Oscillations on DIII-D"
+  - title: Investigating ELM Pacing by Vertical Oscillations on
+      DIII-D
     type: Papers
     category: Special Topics
-    date: "2021-11-01"
-    pdf_file_name: "[262] Dario Panici et al. “Investigating ELM Pacing by Vertical Oscillations on DIII-D”.pdf"
+    date: '2021-11-01'
+    pdf_file_name: '[262] Dario Panici et al. “Investigating ELM
+      Pacing by Vertical Oscillations on DIII-D”.pdf'
     context: APS Division of Plasma Physics Meeting
     authors:
       - D. Panici
@@ -1902,11 +2298,13 @@ publications:
       - F. Laggner
       - E. Kolemen
 
-  - title: "The DESC Stellarator Code Suite. Part 1. Quick and Accurate Equilibria Computations"
+  - title: The DESC Stellarator Code Suite. Part 1. Quick and
+      Accurate Equilibria Computations
     type: Papers
     category: Special Topics
-    date: "2023-03-01"
-    pdf_file_name: "[265] Dario Panici et al. “The DESC stellarator code suite. Part 1. Quick and accurate equilibria computations”.pdf"
+    date: '2023-03-01'
+    pdf_file_name: '[265] Dario Panici et al. “The DESC stellarator
+      code suite. Part 1. Quick and accurate equilibria computations”.pdf'
     context: Journal of Plasma Physics
     authors:
       - D. Panici
@@ -1915,11 +2313,13 @@ publications:
       - K. Unalmis
       - E. Kolemen
 
-  - title: "Developing Physics Basis to Optimize 3D-Edge Long-Pulse Tokamak Scenarios"
+  - title: Developing Physics Basis to Optimize 3D-Edge Long-Pulse
+      Tokamak Scenarios
     type: Papers
     category: Controls and Optimization
-    date: "2020-10-01"
-    pdf_file_name: "[266] JK Park et al. “Developing physics basis to optimize 3D-edge long-pulse tokamak scenarios”.pdf"
+    date: '2020-10-01'
+    pdf_file_name: '[266] JK Park et al. “Developing physics basis
+      to optimize 3D-edge long-pulse tokamak scenarios”.pdf'
     context: 4th Asia-Pacific Conference on Plasma Physics
     authors:
       - J.-K. Park
@@ -1933,12 +2333,15 @@ publications:
       - T. E. Evans
       - O. Schmitz
 
-  - title: "Self-Consistent Optimization of Neoclassical Toroidal Torque with Anisotropic Perturbed Equilibrium in Tokamaks"
+  - title: Self-Consistent Optimization of Neoclassical Toroidal
+      Torque with Anisotropic Perturbed Equilibrium in Tokamaks
     type: Papers
     category: Controls and Optimization
-    date: "2020-10-01"
-    pdf_file_name: "[267] JK Park et al. “Self-consistent optimization of neoclassical toroidal torque with anisotropic perturbed equilibrium in tokamaks”.pdf"
-    context: 
+    date: '2020-10-01'
+    pdf_file_name: '[267] JK Park et al. “Self-consistent optimization
+      of neoclassical toroidal torque with anisotropic perturbed
+      equilibrium in tokamaks”.pdf'
+    context:
     authors:
       - J.-K. Park
       - N. C. Logan
@@ -1949,12 +2352,14 @@ publications:
       - E. Kolemen
       - Y. In
 
-  - title: "Latest Advancements in DIII-D Plasma Control Software and Hardware"
+  - title: Latest Advancements in DIII-D Plasma Control Software
+      and Hardware
     type: Papers
     category: Controls and Optimization
-    date: "2013-04-01"
-    pdf_file_name: "[268] BG Penaflor et al. “Latest advancements in DIII-D Plasma Control software and hardware”.pdf"
-    context: 
+    date: '2013-04-01'
+    pdf_file_name: '[268] BG Penaflor et al. “Latest advancements
+      in DIII-D Plasma Control software and hardware”.pdf'
+    context:
     authors:
       - B. G. Penaflor
       - J. R. Ferron
@@ -1966,66 +2371,83 @@ publications:
       - A. S. Welander
       - M. J. Lanctot
 
-  - title: "Applying the Radiating Divertor Approach to Innovative Tokamak Divertor Concepts"
+  - title: Applying the Radiating Divertor Approach to Innovative
+      Tokamak Divertor Concepts
     type: Papers
     category: Special Topics
-    date: "2014-09-01"
-    pdf_file_name: "[269] TW PETRIE et al. “APPLYING THE RADIATING DIVERTOR APPROACH TO INNOVATIVE TOKAMAK DIVERTOR CONCEPTS”.pdf"
-    context: 
+    date: '2014-09-01'
+    pdf_file_name: '[269] TW PETRIE et al. “APPLYING THE RADIATING
+      DIVERTOR APPROACH TO INNOVATIVE TOKAMAK DIVERTOR CONCEPTS”.pdf'
+    context:
     authors:
       - T. W. Petrie et al.
 
-  - title: "Application of the Radiating Divertor Approach to Innovative Tokamak Divertor Concepts"
+  - title: Application of the Radiating Divertor Approach to Innovative
+      Tokamak Divertor Concepts
     type: Papers
     category: Special Topics
-    date: "2014-11-01"
-    pdf_file_name: "[271] TW Petrie et al. “Application of the radiating divertor approach to innovative tokamak divertor concepts”.pdf"
-    context: 
+    date: '2014-11-01'
+    pdf_file_name: '[271] TW Petrie et al. “Application of the
+      radiating divertor approach to innovative tokamak divertor
+      concepts”.pdf'
+    context:
     authors:
       - T. W. Petrie et al.
 
-  - title: "Applying the Radiating Divertor Approach to Innovative Tokamak Divertor Concepts"
+  - title: Applying the Radiating Divertor Approach to Innovative
+      Tokamak Divertor Concepts
     type: Papers
     category: Special Topics
-    date: "2014-09-01"
-    pdf_file_name: "[272] TW Petrie et al. “Applying the Radiating Divertor Approach to EX-P2- 26 Innovative Tokamak Divertor Concepts”.pdf"
-    context: 
+    date: '2014-09-01'
+    pdf_file_name: '[272] TW Petrie et al. “Applying the Radiating
+      Divertor Approach to EX-P2- 26 Innovative Tokamak Divertor
+      Concepts”.pdf'
+    context:
     authors:
       - T. W. Petrie et al.
 
-  - title: "Impact of Central ECCD on Steady-State Hybrid Scenario in DIII-D"
+  - title: Impact of Central ECCD on Steady-State Hybrid Scenario
+      in DIII-D
     type: Papers
     category: Special Topics
-    date: "2015-11-01"
-    pdf_file_name: "[273] CC Petty et al. “Impact of central ECCD on steady-state hybrid scenario in DIII-D”.pdf"
-    context: 
+    date: '2015-11-01'
+    pdf_file_name: '[273] CC Petty et al. “Impact of central ECCD
+      on steady-state hybrid scenario in DIII-D”.pdf'
+    context:
     authors:
       - C. C. Petty et al.
 
-  - title: "Advances in the Steady-State Hybrid Regime in DIII-D—A Fully Non-Inductive, ELM-Suppressed Scenario for ITER"
+  - title: Advances in the Steady-State Hybrid Regime in DIII-D—A
+      Fully Non-Inductive, ELM-Suppressed Scenario for ITER
     type: Papers
     category: Special Topics
-    date: "2017-08-01"
-    pdf_file_name: "[274] Craig C Petty et al. “Advances in the steady-state hybrid regime in DIII-D—a fully non-inductive, ELM-suppressed scenario for ITER”.pdf"
-    context: 
+    date: '2017-08-01'
+    pdf_file_name: '[274] Craig C Petty et al. “Advances in the
+      steady-state hybrid regime in DIII-D—a fully non-inductive,
+      ELM-suppressed scenario for ITER”.pdf'
+    context:
     authors:
       - C. C. Petty et al.
 
-  - title: "Overview of Physics Results from NSTX"
+  - title: Overview of Physics Results from NSTX
     type: Papers
     category: Special Topics
-    date: "2011-08-01"
-    pdf_file_name: "[275] R Raman et al. “Overview of physics results from NSTX”.pdf"
-    context: 
+    date: '2011-08-01'
+    pdf_file_name: '[275] R Raman et al. “Overview of physics
+      results from NSTX”.pdf'
+    context:
     authors:
       - R. Raman et al.
 
-  - title: "Time and Space Resolved Diagnostics for Plasma Thermal-Chemical Instability of Fuel Oxidation in Nanosecond Plasma Discharges"
+  - title: Time and Space Resolved Diagnostics for Plasma Thermal-Chemical
+      Instability of Fuel Oxidation in Nanosecond Plasma Discharges
     type: Papers
     category: Special Topics
-    date: "2020-10-01"
-    pdf_file_name: "[280] Aric C Rousso et al. “Time and space resolved diagnostics for plasma thermal-chemical instability of fuel oxidation in nanosecond plasma discharges”.pdf"
-    context: 
+    date: '2020-10-01'
+    pdf_file_name: '[280] Aric C Rousso et al. “Time and space
+      resolved diagnostics for plasma thermal-chemical instability
+      of fuel oxidation in nanosecond plasma discharges”.pdf'
+    context:
     authors:
       - A. C. Rousso
       - B. M. Goldberg
@@ -2036,12 +2458,15 @@ publications:
       - E. Kolemen
       - Y. Ju
 
-  - title: "Development of Real-Time Software for Thomson Scattering Analysis at NSTX-U"
+  - title: Development of Real-Time Software for Thomson Scattering
+      Analysis at NSTX-U
     type: Papers
     category: Special Topics
-    date: "2019-08-01"
-    pdf_file_name: "[281] Roman Rozenblat et al. “Development of Real-Time Software for Thomson Scattering Analysis at NSTX-U”.pdf"
-    context: 
+    date: '2019-08-01'
+    pdf_file_name: '[281] Roman Rozenblat et al. “Development
+      of Real-Time Software for Thomson Scattering Analysis at
+      NSTX-U”.pdf'
+    context:
     authors:
       - R. Rozenblat
       - E. Kolemen
@@ -2051,21 +2476,28 @@ publications:
       - P. Sichta
       - G. Zimmer
 
-  - title: "Overview of Physics Results from the Conclusive Operation of the National Spherical Torus Experiment"
+  - title: Overview of Physics Results from the Conclusive Operation
+      of the National Spherical Torus Experiment
     type: Papers
     category: Special Topics
-    date: "2013-09-01"
-    pdf_file_name: "[283] SA Sabbagh et al. “Overview of physics results from the conclusive operation of the National Spherical Torus Experiment”.pdf"
-    context: 
+    date: '2013-09-01'
+    pdf_file_name: '[283] SA Sabbagh et al. “Overview of physics
+      results from the conclusive operation of the National Spherical
+      Torus Experiment”.pdf'
+    context:
     authors:
       - S. A. Sabbagh et al.
 
-  - title: "Experimental, Numerical and Analytical Evaluation of Thrust for Fast-Liquid-Metal-Flow Divertor Systems of Nuclear Fusion Devices"
+  - title: Experimental, Numerical and Analytical Evaluation of
+      Thrust for Fast-Liquid-Metal-Flow Divertor Systems of Nuclear
+      Fusion Devices
     type: Papers
     category: Liquid Metals
-    date: "2023-08-01"
-    pdf_file_name: "[284] F Saenz et al. “Experimental, numerical and analytical evaluation ofthrust for fast-liquid-metal-flow divertor systems of nuclear fusion devices”.pdf"
-    context: 
+    date: '2023-08-01'
+    pdf_file_name: '[284] F Saenz et al. “Experimental, numerical
+      and analytical evaluation ofthrust for fast-liquid-metal-flow
+      divertor systems of nuclear fusion devices”.pdf'
+    context:
     authors:
       - F. Saenz
       - A. E. Fisher
@@ -2082,12 +2514,15 @@ publications:
       - K. Hanada
       - E. Kolemen
 
-  - title: "Divertorlets Concept for Low-Recycling Fusion Reactor Divertor: Experimental, Analytical and Numerical Verification"
+  - title: 'Divertorlets Concept for Low-Recycling Fusion Reactor
+      Divertor: Experimental, Analytical and Numerical Verification'
     type: Papers
     category: Liquid Metals
-    date: "2022-06-01"
-    pdf_file_name: "[286] Francisco Saenz et al. “Divertorlets concept for low-recycling fusion reactor divertor; experimental, analytical and numerical verification”.pdf"
-    context: 
+    date: '2022-06-01'
+    pdf_file_name: '[286] Francisco Saenz et al. “Divertorlets
+      concept for low-recycling fusion reactor divertor; experimental,
+      analytical and numerical verification”.pdf'
+    context:
     authors:
       - F. Saenz
       - Z. Sun
@@ -2095,35 +2530,43 @@ publications:
       - B. Wynne
       - E. Kolemen
 
-  - title: "To Dee or Not to Dee: Costs and Benefits of Altering the Triangularity of a Steady-State DEMO-Like Reactor"
+  - title: 'To Dee or Not to Dee: Costs and Benefits of Altering
+      the Triangularity of a Steady-State DEMO-Like Reactor'
     type: Papers
     category: Special Topics
-    date: "2022-05-01"
-    pdf_file_name: "[291] Jacob A Schwartz, Andrew Oakleigh Nelson, and Egemen Kolemen. “To dee or not to dee; costs and benefits of altering the triangularity of a steady-state DEMO-like reactor”.pdf"
-    context: 
+    date: '2022-05-01'
+    pdf_file_name: '[291] Jacob A Schwartz, Andrew Oakleigh Nelson,
+      and Egemen Kolemen. “To dee or not to dee; costs and benefits
+      of altering the triangularity of a steady-state DEMO-like
+      reactor”.pdf'
+    context:
     authors:
       - J. A. Schwartz
       - A. O. Nelson
       - E. Kolemen
 
-  - title: "The Value of Fusion Energy to a Decarbonized United States Electric Grid"
+  - title: The Value of Fusion Energy to a Decarbonized United
+      States Electric Grid
     type: Papers
     category: Special Topics
-    date: "2023-04-01"
-    pdf_file_name: "[293] Jacob A Schwartz et al. “The value of fusion energy to a decarbonized United States electric grid”.pdf"
-    context: 
+    date: '2023-04-01'
+    pdf_file_name: '[293] Jacob A Schwartz et al. “The value of
+      fusion energy to a decarbonized United States electric grid”.pdf'
+    context:
     authors:
       - J. A. Schwartz
       - W. Ricks
       - E. Kolemen
       - J. D. Jenkins
 
-  - title: "Avoiding Fusion Plasma Tearing Instability with Deep Reinforcement Learning"
+  - title: Avoiding Fusion Plasma Tearing Instability with Deep
+      Reinforcement Learning
     type: Papers
     category: Machine Learning
-    date: "2024-02-01"
-    pdf_file_name: "[294] Jaemin Seo et al. “Avoiding fusion plasma tearing instability with deep reinforcement learning”.pdf"
-    context: 
+    date: '2024-02-01'
+    pdf_file_name: '[294] Jaemin Seo et al. “Avoiding fusion plasma
+      tearing instability with deep reinforcement learning”.pdf'
+    context:
     authors:
       - J. Seo
       - S. Kim
@@ -2136,12 +2579,14 @@ publications:
       - R. Shousha
       - E. Kolemen
 
-  - title: "Multimodal Prediction of Tearing Instabilities in a Tokamak"
+  - title: Multimodal Prediction of Tearing Instabilities in a
+      Tokamak
     type: Papers
     category: Machine Learning
-    date: "2023-04-01"
-    pdf_file_name: "[295] Jaemin Seo et al. “Multimodal prediction of tearing instabilities in a tokamak”.pdf"
-    context: 
+    date: '2023-04-01'
+    pdf_file_name: '[295] Jaemin Seo et al. “Multimodal prediction
+      of tearing instabilities in a tokamak”.pdf'
+    context:
     authors:
       - J. Seo
       - R. Conlin
@@ -2151,12 +2596,15 @@ publications:
       - A. Jalalvand
       - E. Kolemen
 
-  - title: "Multivariable Model-Based Shape Control for the National Spherical Torus Experiment (NSTX)"
+  - title: Multivariable Model-Based Shape Control for the National
+      Spherical Torus Experiment (NSTX)
     type: Papers
     category: Controls and Optimization
-    date: "2011-04-01"
-    pdf_file_name: "[296] Wenyu Shi et al. “Multivariable Model-based Shape Control for the National Spherical Torus Experiment (NSTX)”.pdf"
-    context: 
+    date: '2011-04-01'
+    pdf_file_name: '[296] Wenyu Shi et al. “Multivariable Model-based
+      Shape Control for the National Spherical Torus Experiment
+      (NSTX)”.pdf'
+    context:
     authors:
       - W. Shi
       - M. Alsarheed
@@ -2166,12 +2614,16 @@ publications:
       - D. A. Humphreys
       - D. A. Gates
 
-  - title: "Design and Experimental Demonstration of Feedback Adaptive RMP ELM Controller Toward Complete Long Pulse ELM Suppression on KSTAR"
+  - title: Design and Experimental Demonstration of Feedback Adaptive
+      RMP ELM Controller Toward Complete Long Pulse ELM Suppression
+      on KSTAR
     type: Papers
     category: Controls and Optimization
-    date: "2022-03-01"
-    pdf_file_name: "[298] Ricardo Shousha et al. “Design and experimental demonstration of feedback adaptive RMP ELM controller toward complete long pulse ELM suppression on KSTAR”.pdf"
-    context: 
+    date: '2022-03-01'
+    pdf_file_name: '[298] Ricardo Shousha et al. “Design and experimental
+      demonstration of feedback adaptive RMP ELM controller toward
+      complete long pulse ELM suppression on KSTAR”.pdf'
+    context:
     authors:
       - R. Shousha
       - S. K. Kim
@@ -2187,12 +2639,14 @@ publications:
       - D. Seo
       - E. Kolemen
 
-  - title: "Machine Learning-Based Real-Time Kinetic Profile Reconstruction in DIII-D"
+  - title: Machine Learning-Based Real-Time Kinetic Profile Reconstruction
+      in DIII-D
     type: Papers
     category: Machine Learning
-    date: "2023-12-01"
-    pdf_file_name: "[303] Ricardo Shousha et al. “Machine learning-based real-time kinetic profile reconstruction in DIII-D”.pdf"
-    context: 
+    date: '2023-12-01'
+    pdf_file_name: '[303] Ricardo Shousha et al. “Machine learning-based
+      real-time kinetic profile reconstruction in DIII-D”.pdf'
+    context:
     authors:
       - R. Shousha
       - J. Seo
@@ -2202,185 +2656,230 @@ publications:
       - J. Abbate
       - E. Kolemen
 
-  - title: "High Fusion Performance in Super H-Mode Experiments on Alcator C-Mod and DIII-D"
+  - title: High Fusion Performance in Super H-Mode Experiments
+      on Alcator C-Mod and DIII-D
     type: Papers
     category: Special Topics
-    date: "2019-06-01"
-    pdf_file_name: "[309] PB Snyder et al. “High fusion performance in Super H-mode experiments on Alcator C-Mod and DIII-D”.pdf"
-    context: 
+    date: '2019-06-01'
+    pdf_file_name: '[309] PB Snyder et al. “High fusion performance
+      in Super H-mode experiments on Alcator C-Mod and DIII-D”.pdf'
+    context:
     authors:
       - P. B. Snyder et al.
 
-  - title: "Progress in Snowflake Divertor Research in DIII-D, NSTX, and NSTX-U"
+  - title: Progress in Snowflake Divertor Research in DIII-D,
+      NSTX, and NSTX-U
     type: Papers
     category: Special Topics
-    date: "2016-10-01"
-    pdf_file_name: "[310] VA Soukhanovskii.“Progress in snowflake divertor research in DIII-D, NSTX and NSTX-U“.pdf"
-    context: 
+    date: '2016-10-01'
+    pdf_file_name: '[310] VA Soukhanovskii.“Progress in snowflake
+      divertor research in DIII-D, NSTX and NSTX-U“.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Snowflake Divertor Configuration Effects on Pedestal Stability and Edge Localized Modes in NSTX and DIII-D Tokamaks"
+  - title: Snowflake Divertor Configuration Effects on Pedestal
+      Stability and Edge Localized Modes in NSTX and DIII-D Tokamaks
     type: Papers
     category: Special Topics
-    date: "2016-09-01"
-    pdf_file_name: "[311] VA Soukhanovskii.“Snowflake Divertor Configuration Effects on Pedestal Stabilityand Edge Localized Modes in NSTX and DIII-D tokamaks“.pdf"
-    context: 
+    date: '2016-09-01'
+    pdf_file_name: '[311] VA Soukhanovskii.“Snowflake Divertor
+      Configuration Effects on Pedestal Stabilityand Edge Localized
+      Modes in NSTX and DIII-D tokamaks“.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Snowflake Divertor Configuration Studies in DIII-D Tokamak"
+  - title: Snowflake Divertor Configuration Studies in DIII-D
+      Tokamak
     type: Papers
     category: Special Topics
-    date: "2014-10-01"
-    pdf_file_name: "[312] VA Soukhanovskii.“Snowflake Divertor Configuration Studies in DIII-D Tokamak“.pdf"
-    context: 
+    date: '2014-10-01'
+    pdf_file_name: '[312] VA Soukhanovskii.“Snowflake Divertor
+      Configuration Studies in DIII-D Tokamak“.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Snowflake Divertor Studies in DIII-D and NSTX Aimed at the Power Exhaust Solution for the Tokamak"
+  - title: Snowflake Divertor Studies in DIII-D and NSTX Aimed
+      at the Power Exhaust Solution for the Tokamak
     type: Papers
     category: Special Topics
-    date: "2013-07-01"
-    pdf_file_name: "[313] VA Soukhanovskii.“Snowflake Divertor Studies in DIII-D and NSTX Aimed at the Power Exhaust Solution for the Tokamak“.pdf"
-    context: 
+    date: '2013-07-01'
+    pdf_file_name: '[313] VA Soukhanovskii.“Snowflake Divertor
+      Studies in DIII-D and NSTX Aimed at the Power Exhaust Solution
+      for the Tokamak“.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "“Snowflake” Divertor Configuration in NSTX"
+  - title: “Snowflake” Divertor Configuration in NSTX
     type: Papers
     category: Special Topics
-    date: "2010-08-01"
-    pdf_file_name: "[314] VA Soukhanovskii et al. ““Snowflake” divertor configuration in NSTX”.pdf"
-    context: 
+    date: '2010-08-01'
+    pdf_file_name: '[314] VA Soukhanovskii et al. ““Snowflake”
+      divertor configuration in NSTX”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Synergy Between Lithium Plasma-Facing Component Coatings and the Snowflake Divertor Configuration in NSTX"
+  - title: Synergy Between Lithium Plasma-Facing Component Coatings
+      and the Snowflake Divertor Configuration in NSTX
     type: Papers
     category: Special Topics
-    date: "2010-10-01"
-    pdf_file_name: "[315] VA Soukhanovskii et al. “Synergy Between Lithium Plasma-Facing Component Coatings and the Snowflake Divertor Configuration in NSTX”.pdf"
-    context: 
+    date: '2010-10-01'
+    pdf_file_name: '[315] VA Soukhanovskii et al. “Synergy Between
+      Lithium Plasma-Facing Component Coatings and the Snowflake
+      Divertor Configuration in NSTX”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Advanced Divertor Configurations with Large Flux Expansion"
+  - title: Advanced Divertor Configurations with Large Flux Expansion
     type: Papers
     category: Special Topics
-    date: "2013-01-01"
-    pdf_file_name: "[316] VA Soukhanovskii et al. “Advanced divertor configurations with large flux expansion”.pdf"
-    context: 
+    date: '2013-01-01'
+    pdf_file_name: '[316] VA Soukhanovskii et al. “Advanced divertor
+      configurations with large flux expansion”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Developing Physics Basis for the Radiative Snowflake Divertor at DIII-D"
+  - title: Developing Physics Basis for the Radiative Snowflake
+      Divertor at DIII-D
     type: Papers
     category: Special Topics
-    date: "2014-09-01"
-    pdf_file_name: "[317] VA Soukhanovskii et al. “Developing physics basis for the radiative snowflake divertor at DIII-D“.pdf"
-    context: 
+    date: '2014-09-01'
+    pdf_file_name: '[317] VA Soukhanovskii et al. “Developing
+      physics basis for the radiative snowflake divertor at DIII-D“.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Developing Physics Basis for the Snowflake Divertor in the DIII-D Tokamak"
+  - title: Developing Physics Basis for the Snowflake Divertor
+      in the DIII-D Tokamak
     type: Papers
     category: Special Topics
-    date: "2018-02-01"
-    pdf_file_name: "[318] VA Soukhanovskii et al. “Developing physics basis for the snowflake divertor in the DIII-D tokamak”.pdf"
-    context: 
+    date: '2018-02-01'
+    pdf_file_name: '[318] VA Soukhanovskii et al. “Developing
+      physics basis for the snowflake divertor in the DIII-D tokamak”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Developing Snowflake Divertor Physics Basis in the DIII-D, NSTX and NSTX-U Tokamaks Aimed at the Divertor Power Exhaust Solution"
+  - title: Developing Snowflake Divertor Physics Basis in the
+      DIII-D, NSTX and NSTX-U Tokamaks Aimed at the Divertor Power
+      Exhaust Solution
     type: Papers
     category: Special Topics
-    date: "2015-06-01"
-    pdf_file_name: "[319] VA Soukhanovskii et al. “Developing snowflake divertor physics basis in the DIII-D, NSTX and NSTX-U tokamaks aimed at the divertor power exhaust solution”.pdf"
-    context: 
+    date: '2015-06-01'
+    pdf_file_name: '[319] VA Soukhanovskii et al. “Developing
+      snowflake divertor physics basis in the DIII-D, NSTX and
+      NSTX-U tokamaks aimed at the divertor power exhaust solution”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Divertor Heat Flux Mitigation with Impurity-Seeded Standard and Snowflake Divertors in NSTX"
+  - title: Divertor Heat Flux Mitigation with Impurity-Seeded
+      Standard and Snowflake Divertors in NSTX
     type: Papers
     category: Special Topics
-    date: "2012-10-01"
-    pdf_file_name: "[320] VA Soukhanovskii et al. “Divertor heat flux mitigation with impurity-seeded standard and snowflake divertors in NSTX”.pdf"
-    context: 
+    date: '2012-10-01'
+    pdf_file_name: '[320] VA Soukhanovskii et al. “Divertor heat
+      flux mitigation with impurity-seeded standard and snowflake
+      divertors in NSTX”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Plasma-Material Interface Development for Future Spherical Tokamak-Based Devices in NSTX"
+  - title: Plasma-Material Interface Development for Future Spherical
+      Tokamak-Based Devices in NSTX
     type: Papers
     category: Special Topics
-    date: "2011-09-01"
-    pdf_file_name: "[321] VA Soukhanovskii et al. “Plasma-Material Interface Development for Future Spherical Tokamak-based Devices in NSTX“.pdf"
-    context: 
+    date: '2011-09-01'
+    pdf_file_name: '[321] VA Soukhanovskii et al. “Plasma-Material
+      Interface Development for Future Spherical Tokamak-based
+      Devices in NSTX“.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Radiative Snowflake Divertor Studies in DIII-D"
+  - title: Radiative Snowflake Divertor Studies in DIII-D
     type: Papers
     category: Special Topics
-    date: "2014-12-01"
-    pdf_file_name: "[322] VA Soukhanovskii et al. “Radiative snowflake divertor studies in DIIID”.pdf"
-    context: 
+    date: '2014-12-01'
+    pdf_file_name: '[322] VA Soukhanovskii et al. “Radiative snowflake
+      divertor studies in DIIID”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Snowflake Divertor Configuration Studies in National Spherical Torus Experiment"
+  - title: Snowflake Divertor Configuration Studies in National
+      Spherical Torus Experiment
     type: Papers
     category: Special Topics
-    date: "2012-08-01"
-    pdf_file_name: "[323] VA Soukhanovskii et al. “Snowflake divertor configuration studies in national spherical torus experiment”.pdf"
-    context: 
+    date: '2012-08-01'
+    pdf_file_name: '[323] VA Soukhanovskii et al. “Snowflake divertor
+      configuration studies in national spherical torus experiment”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Synergy Between Lithium Plasma-Facing Component Coatings and the Snowflake Divertor Configuration in NSTX"
+  - title: Synergy Between Lithium Plasma-Facing Component Coatings
+      and the Snowflake Divertor Configuration in NSTX
     type: Papers
     category: Special Topics
-    date: "2010-09-01"
-    pdf_file_name: "[324] VA Soukhanovskii et al. “Synergy Between Lithium Plasma-Facing Component Coatings and the Snowflake Divertor Configuration in NSTX“.pdf"
-    context: 
+    date: '2010-09-01'
+    pdf_file_name: '[324] VA Soukhanovskii et al. “Synergy Between
+      Lithium Plasma-Facing Component Coatings and the Snowflake
+      Divertor Configuration in NSTX“.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii et al.
 
-  - title: "Taming the Plasma–Material Interface with the ‘Snowflake’ Divertor in NSTX"
+  - title: Taming the Plasma–Material Interface with the ‘Snowflake’
+      Divertor in NSTX
     type: Papers
     category: Special Topics
-    date: "2015-04-01"
-    pdf_file_name: "[325] VA Soukhanovskii et al. “Taming the plasma–material interface with the ‘snowflake’divertor in NSTX”.pdf"
-    context: 
+    date: '2015-04-01'
+    pdf_file_name: '[325] VA Soukhanovskii et al. “Taming the
+      plasma–material interface with the ‘snowflake’divertor in
+      NSTX”.pdf'
+    context:
     authors:
       - V. A. Soukhanovskii
       - D. D. Ryutov
       - X. Xu
 
-  - title: "Progress in Disruption Prevention for ITER"
+  - title: Progress in Disruption Prevention for ITER
     type: Papers
     category: Special Topics
-    date: "2018-10-01"
-    pdf_file_name: "[326] EJ STRAIT et al. “PROGRESS IN DISRUPTION PREVENTION OV-4- 5 FOR ITER”.pdf"
-    context: 
+    date: '2018-10-01'
+    pdf_file_name: '[326] EJ STRAIT et al. “PROGRESS IN DISRUPTION
+      PREVENTION OV-4- 5 FOR ITER”.pdf'
+    context:
     authors:
       - E. J. Strait et al.
 
-  - title: "Progress in Disruption Prevention for ITER"
+  - title: Progress in Disruption Prevention for ITER
     type: Papers
     category: Special Topics
-    date: "2019-06-01"
-    pdf_file_name: "[327] EJ Strait et al. “Progress in disruption prevention for ITER”.pdf"
-    context: 
+    date: '2019-06-01'
+    pdf_file_name: '[327] EJ Strait et al. “Progress in disruption
+      prevention for ITER”.pdf'
+    context:
     authors:
       - E. J. Strait et al.
 
-  - title: "Magnetohydrodynamics in Free Surface Liquid Metal Flow Relevant to Plasma-Facing Components"
+  - title: Magnetohydrodynamics in Free Surface Liquid Metal Flow
+      Relevant to Plasma-Facing Components
     type: Papers
     category: Liquid Metals
-    date: "2023-06-01"
-    pdf_file_name: "[329] Z Sun et al. “Magnetohydrodynamics in free surface liquid metal flow relevant to plasma-facing components”.pdf"
-    context: 
+    date: '2023-06-01'
+    pdf_file_name: '[329] Z Sun et al. “Magnetohydrodynamics in
+      free surface liquid metal flow relevant to plasma-facing
+      components”.pdf'
+    context:
     authors:
       - Z. Sun
       - J. Al Salami
@@ -2392,57 +2891,67 @@ publications:
       - C. H. Hu
       - E. Kolemen
 
-  - title: "Development of the NSTX-U Advanced Divertor Control"
+  - title: Development of the NSTX-U Advanced Divertor Control
     type: Papers
     category: Controls and Optimization
-    date: "2016-11-01"
-    pdf_file_name: "[332] Patrick Vail and Egemen Kolemen. “Development of the NSTX-U Advanced Divertor Control”.pdf"
-    context: 
+    date: '2016-11-01'
+    pdf_file_name: '[332] Patrick Vail and Egemen Kolemen. “Development
+      of the NSTX-U Advanced Divertor Control”.pdf'
+    context:
     authors:
       - P. Vail
       - E. Kolemen
 
-  - title: "Design and Simulation of the Snowflake Divertor Control for NSTX–U"
+  - title: Design and Simulation of the Snowflake Divertor Control
+      for NSTX–U
     type: Papers
     category: Controls and Optimization
-    date: "2019-01-01"
-    pdf_file_name: "[335] Patrick John Vail et al. “Design and simulation of the snowflake divertor control for NSTX–U”.pdf"
-    context: 
+    date: '2019-01-01'
+    pdf_file_name: '[335] Patrick John Vail et al. “Design and
+      simulation of the snowflake divertor control for NSTX–U”.pdf'
+    context:
     authors:
       - P. J. Vail
       - M. D. Boyer
       - A. S. Welander
       - E. Kolemen
 
-  - title: "Optimization of the Snowflake Divertor for Power and Particle Exhaust on NSTX–U"
+  - title: Optimization of the Snowflake Divertor for Power and
+      Particle Exhaust on NSTX–U
     type: Papers
     category: Controls and Optimization
-    date: "2019-03-01"
-    pdf_file_name: "[336] PJ Vail, O Izacard, and Egemen Kolemen. “Optimization of the snowflake divertor for power and particle exhaust on NSTX–U”.pdf"
-    context: 
+    date: '2019-03-01'
+    pdf_file_name: '[336] PJ Vail, O Izacard, and Egemen Kolemen.
+      “Optimization of the snowflake divertor for power and particle
+      exhaust on NSTX–U”.pdf'
+    context:
     authors:
       - P. J. Vail
       - O. Izacard
       - E. Kolemen
 
-  - title: "Control System Development for the Snowflake Divertor on NSTX–U"
+  - title: Control System Development for the Snowflake Divertor
+      on NSTX–U
     type: Papers
     category: Controls and Optimization
-    date: "2020-07-01"
-    pdf_file_name: "[337] PJ Vail et al. “Control system development for the snowflake divertor on NSTX–U”.pdf"
-    context: 
+    date: '2020-07-01'
+    pdf_file_name: '[337] PJ Vail et al. “Control system development
+      for the snowflake divertor on NSTX–U”.pdf'
+    context:
     authors:
       - P. J. Vail
       - E. Kolemen
       - M. D. Boyer
       - A. S. Welander
 
-  - title: "Impact of Central ECCD on Steady-State Hybrid Scenario in DIII-D"
+  - title: Impact of Central ECCD on Steady-State Hybrid Scenario
+      in DIII-D
     type: Papers
     category: Special Topics
-    date: "2015-10-01"
-    pdf_file_name: "[338] MA Van Zeeland et al. “Impact of central ECCD on steady-state hybrid scenario in DIII-D”.pdf"
-    context: 
+    date: '2015-10-01'
+    pdf_file_name: '[338] MA Van Zeeland et al. “Impact of central
+      ECCD on steady-state hybrid scenario in DIII-D”.pdf'
+    context:
     authors:
       - C. C. Petty
       - R. Nazikian
@@ -2455,33 +2964,37 @@ publications:
       - R. Prater
       - F. Turco
 
-  - title: "Linear Stability of Ring Systems"
+  - title: Linear Stability of Ring Systems
     type: Papers
     category: Special Topics
-    date: "2007-02-01"
-    pdf_file_name: "[339] Robert J Vanderbei and Egemen Kolemen. “Linear stability of ring systems”.pdf"
-    context: 
+    date: '2007-02-01'
+    pdf_file_name: '[339] Robert J Vanderbei and Egemen Kolemen.
+      “Linear stability of ring systems”.pdf'
+    context:
     authors:
       - R. J. Vanderbei
       - E. Kolemen
 
-  - title: "NSTX-U Feedforward Shape Control and Neural Net Dynamics Modeling"
+  - title: NSTX-U Feedforward Shape Control and Neural Net Dynamics
+      Modeling
     type: Papers
     category: Special Topics
-    date: "2021-11-01"
-    pdf_file_name: "[341] J Wai, MD Boyer, and E Kolemen. “NSTX-U feedforward shape control and neural net dynamics modeling”.pdf"
-    context: 
+    date: '2021-11-01'
+    pdf_file_name: '[341] J Wai, MD Boyer, and E Kolemen. “NSTX-U
+      feedforward shape control and neural net dynamics modeling”.pdf'
+    context:
     authors:
       - J. Wai
       - M. D. Boyer
       - E. Kolemen
 
-  - title: "Feedforward+Feedback Shape Control Design on NSTX-U"
+  - title: Feedforward+Feedback Shape Control Design on NSTX-U
     type: Papers
     category: Controls and Optimization
-    date: "2022-10-01"
-    pdf_file_name: "[342] J Wai et al. “Feedforward+ feedback shape control design on NSTXU”.pdf"
-    context: 
+    date: '2022-10-01'
+    pdf_file_name: '[342] J Wai et al. “Feedforward+ feedback
+      shape control design on NSTXU”.pdf'
+    context:
     authors:
       - J. Wai
       - M. D. Boyer
@@ -2489,44 +3002,50 @@ publications:
       - A. S. Welander
       - E. Kolemen
 
-  - title: "Neural Net Modeling of Equilibria in NSTX-U"
+  - title: Neural Net Modeling of Equilibria in NSTX-U
     type: Papers
     category: Controls and Optimization
-    date: "2022-07-01"
-    pdf_file_name: "[348] JT Wai, MD Boyer, and E Kolemen. “Neural net modeling of equilibria in NSTX-U”.pdf"
-    context: 
+    date: '2022-07-01'
+    pdf_file_name: '[348] JT Wai, MD Boyer, and E Kolemen. “Neural
+      net modeling of equilibria in NSTX-U”.pdf'
+    context:
     authors:
       - J. T. Wai
       - M. D. Boyer
       - E. Kolemen
 
-  - title: "GSPD: An Algorithm for Time-Dependent Tokamak Equilibria Design"
+  - title: 'GSPD: An Algorithm for Time-Dependent Tokamak Equilibria
+      Design'
     type: Papers
     category: Controls and Optimization
-    date: "2023-06-01"
-    pdf_file_name: "[349] JT Wai and E Kolemen. “GSPD; An algorithm for time-dependent tokamak equilibria design”.pdf"
-    context: 
+    date: '2023-06-01'
+    pdf_file_name: '[349] JT Wai and E Kolemen. “GSPD; An algorithm
+      for time-dependent tokamak equilibria design”.pdf'
+    context:
     authors:
       - J. T. Wai
       - E. Kolemen
 
-  - title: "Control Pathway for an Advanced Divertor on ITER"
+  - title: Control Pathway for an Advanced Divertor on ITER
     type: Papers
     category: Controls and Optimization
-    date: "2020-08-01"
-    pdf_file_name: "[350] JT Wai, PJ Vail, and E Kolemen. “Control pathway for an advanced divertor on ITER”.pdf"
-    context: 
+    date: '2020-08-01'
+    pdf_file_name: '[350] JT Wai, PJ Vail, and E Kolemen. “Control
+      pathway for an advanced divertor on ITER”.pdf'
+    context:
     authors:
       - J. T. Wai
       - P. J. Vail
       - E. Kolemen
 
-  - title: "System Modeling, Validation, and Design of Shape Controllers for NSTX"
+  - title: System Modeling, Validation, and Design of Shape Controllers
+      for NSTX
     type: Papers
     category: Special Topics
-    date: "2011-11-01"
-    pdf_file_name: "[352] ML Walker et al. “System modeling, validation, and design of shape controllers for NSTX”.pdf"
-    context: 
+    date: '2011-11-01'
+    pdf_file_name: '[352] ML Walker et al. “System modeling, validation,
+      and design of shape controllers for NSTX”.pdf'
+    context:
     authors:
       - M. L. Walker
       - D. A. Humphreys
@@ -2535,30 +3054,38 @@ publications:
       - A. S. Welander
       - E. Kolemen
 
-  - title: "Identification of Multiple Eigenmode Growth Rates in DIII-D and EAST Tokamak Plasmas"
+  - title: Identification of Multiple Eigenmode Growth Rates in
+      DIII-D and EAST Tokamak Plasmas
     type: Papers
     category: Special Topics
-    date: "2019-01-01"
-    pdf_file_name: "[353] ZR Wang et al. “Identification of multiple eigenmode growth rates in DIII-D and EAST tokamak plasmas”.pdf"
-    context: 
+    date: '2019-01-01'
+    pdf_file_name: '[353] ZR Wang et al. “Identification of multiple
+      eigenmode growth rates in DIII-D and EAST tokamak plasmas”.pdf'
+    context:
     authors:
       - Z. R. Wang et al.
 
-  - title: "Advanced Control of Neoclassical Tearing Modes in DIII-D with Real-Time Steering of the Electron Cyclotron Current Drive"
+  - title: Advanced Control of Neoclassical Tearing Modes in DIII-D
+      with Real-Time Steering of the Electron Cyclotron Current
+      Drive
     type: Papers
     category: Controls and Optimization
-    date: "2013-11-01"
-    pdf_file_name: "[355] AS Welander et al. “Advanced control of neoclassical tearing modes in DIII-D with real-time steering of the electron cyclotron current drive”.pdf"
-    context: 
+    date: '2013-11-01'
+    pdf_file_name: '[355] AS Welander et al. “Advanced control
+      of neoclassical tearing modes in DIII-D with real-time steering
+      of the electron cyclotron current drive”.pdf'
+    context:
     authors:
       - A. S. Welander et al.
 
-  - title: "Development of Robust and Multi-Mode Control of Tearing in DIII-D"
+  - title: Development of Robust and Multi-Mode Control of Tearing
+      in DIII-D
     type: Papers
     category: Controls and Optimization
-    date: "2015-06-01"
-    pdf_file_name: "[357] AS Welander et al. “Development of robust and multi-mode control of tearing in DIII-D”.pdf"
-    context: 
+    date: '2015-06-01'
+    pdf_file_name: '[357] AS Welander et al. “Development of robust
+      and multi-mode control of tearing in DIII-D”.pdf'
+    context:
     authors:
       - A. S. Welander
       - R. J. La Haye
@@ -2566,11 +3093,21 @@ publications:
       - E. Kolemen
       - F. Volpe
 
-  - title: "CAKE: Consistent Automatic Kinetic Equilibrium Reconstruction"
+  - title: 'CAKE: Consistent Automatic Kinetic Equilibrium Reconstruction'
     type: Papers
     category: Special Topics
-    date: "2020-12-01"
-    pdf_file_name: "[364] ZA Xing et al. “CAKE; consistent automatic kinetic equilibrium reconstruction”.pdf"
-    context: 
+    date: '2020-12-01'
+    pdf_file_name: '[364] ZA Xing et al. “CAKE; consistent automatic
+      kinetic equilibrium reconstruction”.pdf'
+    context:
     authors:
       - Z. A. Xing et al.
+  - title: Test
+    type: Papers
+    category: Special Topics
+    authors:
+      - Test A
+    date: '2024-08-29'
+    context: Test
+    pdf_file_name: '[294] Jaemin Seo et al. “Avoiding fusion plasma
+      tearing instability with deep reinforcement learning”.pdf'
