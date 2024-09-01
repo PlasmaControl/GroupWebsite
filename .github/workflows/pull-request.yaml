@@ -1,11 +1,8 @@
 name: Pull Request from Backend
 on:
   push:
-    branches-ignore:
-      - main
-
-permissions:
-  contents: write
+    branches:
+      - update*
 
 jobs:
   auto-pull-request:
@@ -17,8 +14,8 @@ jobs:
         with:
           title: Update from backend
           body: This is an automated pull request from the backend.
-          branch: ${{ github.ref }}
+          branch: ${{ github.ref_name }}
           assignees: sinaatalay, Klingler98
           base: main
-          git-token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.TOKEN }}
           
