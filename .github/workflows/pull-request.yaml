@@ -17,3 +17,8 @@ jobs:
         with:
           title: Update from backend
           body: This is an automated pull request from the backend.
+          branch: ${{ github.ref }}
+          assignees: sinaatalay, Klingler98
+          base: main
+          git-token: ${{ secrets.TOKEN }}
+          
