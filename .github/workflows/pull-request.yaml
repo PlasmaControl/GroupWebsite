@@ -2,7 +2,7 @@ name: Pull Request from Backend
 on:
   push:
     branches-ignore:
-      - master
+      - main
 
 permissions:
   contents: write
