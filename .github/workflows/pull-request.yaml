@@ -3,6 +3,10 @@ on:
   push:
     branches-ignore:
       - master
+
+permissions:
+  contents: write
+
 jobs:
   auto-pull-request:
     name: Open Pull Request
@@ -10,3 +14,6 @@ jobs:
     steps:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
+        with:
+          title: Update from backend
+          body: This is an automated pull request from the backend.
