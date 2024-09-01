@@ -1,4 +1,4 @@
-name: Pull Request on Branch Push
+name: Pull Request from Backend
 on:
   push:
     branches-ignore:
@@ -8,9 +8,5 @@ jobs:
     name: Open Pull Request
     runs-on: ubuntu-latest
     steps:
-      - name: pull-request-action
-        uses: vsoch/pull-request-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          BRANCH_PREFIX: "update"
-          PULL_REQUEST_BRANCH: "master"
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
