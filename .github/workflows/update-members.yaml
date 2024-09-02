@@ -1,0 +1,14 @@
+name: Pull Request from Backend
+on:
+  push:
+    branches:
+      - update/members/*
+
+jobs:
+  create-pull-request:
+    name: Create a pull request
+    uses: ./.github/workflows/pull-request.yaml
+    with:
+      branch-name: ${{ github.ref }}
+      title: "Update members"
+      body: "A request has been made to update the members list."

@@ -1,25 +1,37 @@
-name: Pull Request from Backend
+name: Create a pull request
+
+# GitHub events that triggers the workflow:
 on:
-  push:
-    branches:
-      - updatefrombackend*
+  workflow_call: # to make the workflow triggerable from other workflows
+    inputs:
+      branch-name:
+        required: true
+        description: The branch that contains commits for your pull request.
+        type: string
+      title:
+        required: true
+        description: The title of the pull request.
+        type: string
+      body:
+        required: true
+        description: The body of the pull request.
+        type: string
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   pull-requests: write
 
 jobs:
-  auto-pull-request:
-    name: Open Pull Request
+  create-pull-request:
+    name: Create a pull request
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
       - name: Create Pull Request
-        env:
-          TITLE: "Update from backend"
-          BODY: "This PR merges the change request from the backend into the main branch."
-          BRANCH_NAME: ${{ github.ref }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh pr create --base main --head "$BRANCH_NAME" --title "$TITLE" --body "$BODY"
+          gh pr create \
+            --base main \
+            --head ${{ github.event.inputs.branch-name }} \
+            --title "${{ github.event.inputs.title }}" \
+            --body "${{ github.event.inputs.body }}"
