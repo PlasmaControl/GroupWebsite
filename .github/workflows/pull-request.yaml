@@ -4,6 +4,12 @@ on:
     branches:
       - updatefrombackend*
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   auto-pull-request:
     name: Open Pull Request
@@ -17,5 +23,4 @@ jobs:
           assignees: sinaatalay, Klingler98
           title: Update from backend
           body: This is an automated pull request from the backend.
-          token: ${{ secrets.TOKEN }}
-          
+          base: main
