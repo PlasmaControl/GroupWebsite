@@ -3102,20 +3102,4 @@ publications:
     context:
     authors:
       - Z. A. Xing et al.
-  - title: Test
-    type: Papers
-    category: Special Topics
-    authors:
-      - Test A
-    date: '2024-08-29'
-    context: Test
-    pdf_file_name: '[294] Jaemin Seo et al. “Avoiding fusion plasma
-      tearing instability with deep reinforcement learning”.pdf'
-  - title: Test
-    type: Papers
-    category: Machine Learning
-    authors:
-      - Test Author
-    date: '2024-08-31'
-    context: Conference
-    pdf_file_name: AtalayS.pdf
+ 

@@ -239,6 +239,7 @@ graduate_students:
     google_scholar_url: https://scholar.google.com/citations?user=F8IyYrQAAAAJ&hl=en
     orcid_id: 0009-0000-4969-8604
     github_username: sinaatalay
+
   - name: Hiro Farre
     title: 1st Year Graduate Student
     description: Hiro is a 1st year PhD student at the Princeton
@@ -438,5 +439,3 @@ past_members:
     photo_file_name: Gerrit_Bruhaug.jpg
   - name: Dhruval Patel
     photo_file_name: Dhruval_Patel.jpg
-  - name: Testtttt
-  - name: AAAAcccc
