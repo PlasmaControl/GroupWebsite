@@ -2,7 +2,7 @@ name: Pull Request from Backend
 on:
   push:
     branches:
-      - update*
+      - updatefrombackend*
 
 jobs:
   auto-pull-request:
@@ -10,13 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
+          assignees: sinaatalay, Klingler98
           title: Update from backend
           body: This is an automated pull request from the backend.
-          branch: ${{ github.ref_name }}
-          assignees: sinaatalay, Klingler98
-          base: main
           token: ${{ secrets.TOKEN }}
           
