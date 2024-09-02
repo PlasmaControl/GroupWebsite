@@ -20,6 +20,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
+          token: ${ secrets.GITHUB_TOKEN }
           assignees: sinaatalay, Klingler98
           title: Update from backend
           body: This is an automated pull request from the backend.
