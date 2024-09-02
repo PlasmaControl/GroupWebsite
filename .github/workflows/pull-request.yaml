@@ -6,9 +6,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  pull-requests: write
 
 jobs:
   auto-pull-request:
@@ -18,10 +16,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${ secrets.TOKEN }
-          assignees: sinaatalay, Klingler98
-          title: Update from backend
-          body: This is an automated pull request from the backend.
-          branch: main
+        env:
+          TITLE: "Update from backend"
+          BODY: "This PR merges the change request from the backend into the main branch."
+          BRANCH_NAME: ${{ github.ref }}
+        run: |
+          gh pr create --base main --head "$BRANCH_NAME" --title "$TITLE" --body "$BODY"
