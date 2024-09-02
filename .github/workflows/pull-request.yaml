@@ -23,4 +23,4 @@ jobs:
           assignees: sinaatalay, Klingler98
           title: Update from backend
           body: This is an automated pull request from the backend.
-          base: main
+          branch: main
