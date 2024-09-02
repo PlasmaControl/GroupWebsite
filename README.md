@@ -24,7 +24,7 @@ Therefore, updating the content of the website is very easy.
 There are two ways of updating the website:
 
 -   Creating a pull request
--   Using the [backend app](https://sa9942.mycpanel.princeton.edu/) ([source code](https://github.com/PlasmaControl/GroupWebsiteBackend) of the backend app). It is only for updating the "Members" and "Publications" pages.
+-   Using the [backend app](https://sa9942.mycpanel.princeton.edu/). It is only for updating the "Members" and "Publications" pages.
 
 ## Creating a pull request
 
