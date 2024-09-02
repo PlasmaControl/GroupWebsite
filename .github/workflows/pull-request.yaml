@@ -32,6 +32,6 @@ jobs:
         run: |
           gh pr create \
             --base main \
-            --head ${{ github.event.inputs.branch-name }} \
-            --title "${{ github.event.inputs.title }}" \
-            --body "${{ github.event.inputs.body }}"
+            --head ${{ inputs.branch-name }} \
+            --title "${{ inputs.title }}" \
+            --body "${{ inputs.body }}"
