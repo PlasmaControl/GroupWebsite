@@ -223,22 +223,6 @@ graduate_students:
       simulations for stellarators.
     photo_file_name: Yigit_Gunsur_Elmacioglu.jpg
 
-  - name: Sina Atalay
-    title: 1st Year Graduate Student
-    description: Sina is an incoming PhD student in the Mechanical
-      and Aerospace Engineering department. He completed his bachelor's
-      degree in Mechanical Engineering at Bogazici University
-      in Istanbul. Following his undergraduate studies, he worked
-      at CERN as a technical student, focusing on modeling and
-      simulating the quench of superconducting coils. In his upcoming
-      work with the Plasma Control Group, he will concentrate
-      on stellarator optimization and superconductivity.
-    emails:
-      - sina.atalay@princeton.edu
-    photo_file_name: Sina_Atalay.jpg
-    google_scholar_url: https://scholar.google.com/citations?user=F8IyYrQAAAAJ&hl=en
-    orcid_id: 0009-0000-4969-8604
-    github_username: sinaatalay
   - name: Hiro Farre
     title: 1st Year Graduate Student
     description: Hiro is a 1st year PhD student at the Princeton
