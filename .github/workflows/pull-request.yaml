@@ -20,5 +20,6 @@ jobs:
           TITLE: "Update from backend"
           BODY: "This PR merges the change request from the backend into the main branch."
           BRANCH_NAME: ${{ github.ref }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr create --base main --head "$BRANCH_NAME" --title "$TITLE" --body "$BODY"
