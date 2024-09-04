@@ -15,9 +15,9 @@ The Plasma Control Group performs fundamental research to address the operation 
 
 ## Liquid Metal eXperiment Upgrade (LMX-U)
 
-![CAPTION](../images/liquid_metals_for_fusion_1.jpg)
+![](../images/liquid_metals_for_fusion_1.jpg)
 
-![CAPTION](../images/liquid_metals_for_fusion_2.jpg)
+![](../images/liquid_metals_for_fusion_2.jpg)
 
 LMX-U (Liquid Metal eXperiment Upgrade) is a liquid metal loop capable of free-surface liquid metal flow within a magnetic field. The working fluid of LMX-U is galinstan (GaInSn eutectic), a non-toxic and non-reactive liquid metal that stays liquid down to -19˚C. Galinstan is pumped from an outlet tank up to an adjustable inlet nozzle that controls the flow depth. The channel itself is situated within a C-shaped electromagnet capable of up to 0.33 T. At either end of the channel are electrodes that allow for the injection of external electrical current up to 140 A.
 
@@ -27,11 +27,11 @@ Interaction of the electrical current and magnetic field leads to a Lorentz forc
 
 While flowing Liquid Metal (LM) Plasma-Facing Components (PFCs) represent a potentially transformative technology to enable long-pulse operation with high-power exhaust for fusion reactors, Magnetohydrodynamic (MHD) drag in the conducting LM will reduce the flow speed. Experiments have been completed in the linear open-channel LMX-U device for validation of MHD drag calculations with either insulating or conducting walls, with codes similar to those used to design flowing LM PFCs for a Fusion Nuclear Science Facility. We observe that the average channel flow speed decreased with the use of conducting walls and the strength of the applied transverse magnetic field. The MHD drag from the retarding Lorentz force resulted in an increase of the LM depth in the channel that ‘piled up’ near the inlet, but not the outlet. As reproduced by OpenFOAM and ANSYS CFX calculations, the magnitude and characteristics of the pileup in the flow direction increased with the applied traverse magnetic field by up to 120%, as compared to the case without an applied magnetic field, corresponding to an average velocity reduction of ∼45%. Particle tracking measurements confirmed a predicted shear in the flow speed, with the surface velocity increasing by 300%, despite the 45% drop in the average bulk speed. The MHD effect makes the bulk flow laminarized but keeps surface waves aligned along the magnetic field lines due to the anisotropy of MHD drag. The 3D fringe field and high surface velocity generate ripples around the outlet region. It was also confirmed that the MHD drag strongly depends on the conductivity of the channel walls, magnetic field, and volumetric flow rate, in agreement with the simulations and a developed analytical model. These validated models are now available to begin to determine the conditions under which the ideal LM channel design of a constant flow speed and fluid depth could be attained.
 
-![CAPTION](../images/liquid_metals_for_fusion_3.png)
+![](../images/liquid_metals_for_fusion_3.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_4.png)
+![](../images/liquid_metals_for_fusion_4.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_5.png)
+![](../images/liquid_metals_for_fusion_5.png)
 
 
 ## Lorentz-force propulsion ($\bold{J} \times \bold{B}$)
@@ -40,28 +40,28 @@ Divertor systems of fusion devices are exposed to intense heat loads from plasma
 
 jxB-thrust was experimentally tested with free-surface-LM flows, a vertical magnetic field and an externally applied current. Experiments were reviewed with a theoretical model, showing agreement in the trends of theory and experiments. Full 3D-MHD-free-surface flow simulations were also performed with FreeMHD and confirmed the sensitivity to unstable flow behavior in LM systems when applying external currents. Furthermore, excessive power requirements are expected for the implementation of jxB-thrust at the reactor scale, making these systems inefficient for commercial devices. The simple operation of a LM-flow divertor with jxB-thrust, without any of the instabilities caused from reactor plasmas or parasitic currents, already presents intrinsic challenges.
 
-![CAPTION](../images/liquid_metals_for_fusion_5.png)
+![](../images/liquid_metals_for_fusion_5.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_6.png)
+![](../images/liquid_metals_for_fusion_6.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_7.png)
+![](../images/liquid_metals_for_fusion_7.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_8.png)
+![](../images/liquid_metals_for_fusion_8.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_9.jpg)
+![](../images/liquid_metals_for_fusion_9.jpg)
 
 ## Divertorlets concept for low-recycling slow-flow liquid-metal divertors of fusion reactors
 
 The “divertorlets” concept is a potential non-evaporative liquid metal solution for heat removal at low recycling regime. It combines advantages of slow and fast flow speed regimes, achieving reduced MHD drag with small risk of liquid metal piling and splashing. The Plasma Control Group builds prototypes to test the performance of divertorlets at different reactor-relevant conditions. Experiments and simulations performed are proving the concept to be a compelling solution for divertor applications.
 
 
-![CAPTION](../images/liquid_metals_for_fusion_10.jpg)
+![](../images/liquid_metals_for_fusion_10.jpg)
 
-![CAPTION](../images/liquid_metals_for_fusion_11.png)
+![](../images/liquid_metals_for_fusion_11.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_12.png)
+![](../images/liquid_metals_for_fusion_12.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_13.png)
+![](../images/liquid_metals_for_fusion_13.png)
 
 
 ## FreeMHD
@@ -78,10 +78,10 @@ FreeMHD GitHub Repository: [github.com/PlasmaControl/FreeMHD](https://github.com
 A liquid metal centrifuge is being developed for the extraction of deuterium and tritium from lithium inventory in a closed-loop liquid metal system. Dilute solutions of lithium tritide (LiT) and lithium deuteride (LiD) will form when the temperature of the mixture of deuterium and tritium in lithium is reduced. The large density differences of LiD and LiT compared to pure liquid lithium will be utilized for the separation into an enriched slurry, which can be later broken down through electron beam heating. The magnetic centrifuge system is being designed based on an electromagnetic liquid metal (EMLM) pumping method. The magnetohydrodynamic (MHD) effects of Lorentz forces are implemented for liquid metal circulation, with externally applied magnetic fields and current driving the flow. A centrifuge system is under design at PPPL and will be first tested with galinstan (67% Gallium, 20.5% Indium, and 12.5% Tin) separating crystal impurities. Simulations are performed to characterize performance of the galinstan centrifuge, and compared to experimental results. The next iteration will be a system for liquid lithium, running experiments at Illinois for lithium hydride (LiH) separation using the density differences between Li and LiH.
 
 
-![CAPTION](../images/liquid_metals_for_fusion_14.png)
+![](../images/liquid_metals_for_fusion_14.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_15.png)
+![](../images/liquid_metals_for_fusion_15.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_16.png)
+![](../images/liquid_metals_for_fusion_16.png)
 
-![CAPTION](../images/liquid_metals_for_fusion_17.png)
+![](../images/liquid_metals_for_fusion_17.png)

@@ -6,13 +6,13 @@ categories:
   - News
 ---
 
-# Our 2024 Breakthrough in Nuclear Fusion with Artificial Intelligence
+# Our 2024 breakthrough in nuclear fusion with artificial intelligence
 
 <div class="post-title-image" markdown="span">
 ![](images/our_2024_breakthrough_in_nuclear_fusion_with_artificial_intelligence.jpg)
 </div>
 
-Read about our research, led by **Egemen Kolemen** and conducted by researchers including **Jaemin Seo**, **SangKyeun Kim**, and **Azarakhsh Jalalvand**, affiliated with **Princeton University** and **Princeton Plasma Physics Lab (PPPL)**.
+Read about our research, led by Egemen Kolemen and conducted by researchers including Jaemin Seo, SangKyeun Kim, and Azarakhsh Jalalvand, affiliated with Princeton University and Princeton Plasma Physics Lab (PPPL).
 
 <!-- more -->
 
