@@ -273,6 +273,25 @@ graduate_students:
       particle confinement times with spectroscopy diagnostics.
     photo_file_name: Kian_Orr.jpg
 
+  - name: Josh Josephy-Zack
+    title: 1st Year Graduate Student
+    description: Josh is a first-year PhD student in Princeton's
+      Program in Plasma Physics. He holds a bachelor's degree
+      in Physics and Mathematics from Harvard, having previously
+      done research in computational astrophysics and pulsed power
+      science. With the Plasma Control group, he plans on investigating
+      machine learning applications for stabilizing plasma confinement
+      in tokamaks, particularly on DIII-D.
+    emails:
+      - jjosephyzack@princeton.edu
+      - jjosephy@pppl.gov
+      - joshuajosephyzack@gmail.com
+    photo_file_name: Josh_Josephy-Zack.png
+    cv_file_name: Josh_Josephy-Zack_CV.pdf
+    google_scholar_url: 
+      https://scholar.google.com/citations?view_op=list_works&hl=en&user=PFTodTMAAAAJ&gmla=AC6lMd_a1ZyHvgGTDzy2-BgHa8VpbAlPj0es_ArgVJL9O1skNILB3tUO3wMhiLbxsSyWSbmOc56DmjsE7EFnrovHkE7-bi2nKNQB4OHOd90
+    orcid_id: 0000-0002-7096-6471
+    github_username: jjz73
 undergraduate_students:
   - name: Kaya Unalmis
     title: Undergraduate Student
