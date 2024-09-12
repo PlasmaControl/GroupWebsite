@@ -186,7 +186,7 @@ class Member(BaseModel):
         """Return the URL of the CV file."""
         if self.cv_file_name is not None:
             return (
-                f'<a href="https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/members/cvs/{self.cv_file_name}?raw=true">CV</a>'
+                f'<a href="https://plasmacontrol.github.io/GroupWebsite/assets/data/members/cvs/{self.cv_file_name}">CV</a>'
             )
 
     @functools.cached_property
