@@ -1,4 +1,4 @@
-name: Pull Request from Backend
+name: Update Publications
 on:
   push:
     branches:
