@@ -197,20 +197,23 @@ graduate_students:
     photo_file_name: Jalal _Butt.jpg
 
   - name: Minseok Kim
-    title: 1st Year Graduate Student
-    description: Minseok is a 1st-year PhD student in the MAE
-      department. Before joining the Kolemen group, he completed
-      his bachelor's degree in Physics and Artificial intelligence
-      at Korea University and master's degree in Nuclear and Quantum
-      engineering at Korea Advanced Institute of Science and Technology
-      (KAIST). Minseok studied Bayesian statistics for KSTAR ion
-      temperature profile reconstruction and machine learning
-      application for fusion-grade hot plasma prediction during
-      his master's degree. His current research interest is to
-      detect edge localized mode (ELM) induced by sawtooth instability
-      at DIII-D tokamak using ECE diagnostics.
+    title: 2nd Year Graduate Student
+    description: Minseok Kim is a second-year graduate student
+      in Mechanical and Aerospace Engineering. He has studied
+      electron density profile reconstruction using line-averaged
+      density information measured by a Two-Colored Interferometer
+      (TCI) and the control of the profile. Another side project
+      he has worked on is establishing a DIII-D kinetic profile
+      database reconstructed by rtCAKENN (real-time kinetic equilibrium
+      reconstruction using a neural network). He got his Bachelor's
+      in Physics and Artificial Intelligence at Korea University
+      and a Master's in Nuclear and Quantum Engineering at KAIST
+      for Nuclear Fusion energy.
+    emails:
+      - mseokim@princeton.edu
     photo_file_name: Minseok_Kim.jpg
-
+    cv_file_name: Minseok_Kim_CV.pdf
+    orcid_id: https://orcid.org/0009-0002-1664-6618
   - name: Yigit Gunsur Elmacioglu
     title: 1st Year Graduate Student
     description: Yigit is an incoming PhD student in the Mechanical
