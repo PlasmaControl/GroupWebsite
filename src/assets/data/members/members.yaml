@@ -213,7 +213,8 @@ graduate_students:
       - mseokim@princeton.edu
     photo_file_name: Minseok_Kim.jpg
     cv_file_name: Minseok_Kim_CV.pdf
-    orcid_id: https://orcid.org/0009-0002-1664-6618
+    google_scholar_url: https://scholar.google.com/citations?hl=en&user=TffO2hcAAAAJ
+    orcid_id: 0009-0002-1664-6618
   - name: Yigit Gunsur Elmacioglu
     title: 1st Year Graduate Student
     description: Yigit is an incoming PhD student in the Mechanical
