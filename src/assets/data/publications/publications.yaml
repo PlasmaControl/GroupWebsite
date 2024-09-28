@@ -3102,4 +3102,14 @@ publications:
     context:
     authors:
       - Z. A. Xing et al.
- 
+  - title: Neoclassical Tearing Mode Control by Electron Cyclotron
+      Current Drive Using Dynamic Alignment to Access Higher Performance
+    type: Presentations
+    category: Controls and Optimization
+    authors:
+      - E. Kolemen, A. S. Welander, R. J. La Haye, N. W. Eidietis,
+        D. A. Humphreys, J. Lohr, V. Noraky, B. G. Penaflor, R.
+        Prater, F. Turco
+    date: '2013-01-06'
+    context: IEEE-RF
+    pdf_file_name: rf_sorrento_2013_ntm_kolemen_vs4.pdf
