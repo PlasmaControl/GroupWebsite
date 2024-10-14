@@ -12,7 +12,7 @@ def get_media_files(directory):
     media_files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
 
     # Sort files by their creation time (or modification time)
-    media_files.sort(key=lambda x: os.path.getctime(os.path.join(directory, x)), reverse=False)
+    media_files.sort(key=lambda x: os.path.getctime(os.path.join(directory, x)), reverse=True)
 
     # Generate Markdown with HTML-like syntax
     media_markdown = []
