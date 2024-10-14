@@ -70,9 +70,11 @@ nav:
           - FAROES and GenX: research/fusion_systems_costing_and_valuation/faroes_and_genx.md
   - Members: members.md
   - Publications: publications.md
+  - Media: media.md
 
 plugins:
   - search # mkdocs-material search plugin
+  - mkdocs-simple-hooks
 
   - blog:
       blog_dir: .
@@ -157,3 +159,5 @@ extra:
 
 hooks:
   - src/assets/hooks/archive_and_category_pages.py
+  - src/assets/hooks/mediasort.py
+
