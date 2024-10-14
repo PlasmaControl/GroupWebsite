@@ -185,9 +185,7 @@ class Member(BaseModel):
     def cv_html_url(self) -> Optional[str]:
         """Return the URL of the CV file."""
         if self.cv_file_name is not None:
-            return (
-                f'<a href="https://plasmacontrol.github.io/GroupWebsite/assets/data/members/cvs/{self.cv_file_name}">CV</a>'
-            )
+            return f'<a href="https://plasmacontrol.github.io/GroupWebsite/assets/data/members/cvs/{self.cv_file_name}">CV</a>'
 
     @functools.cached_property
     def github_html_url(self) -> Optional[str]:
@@ -412,3 +410,21 @@ def define_env(env):
         }
 
         return group_members
+
+    @env.macro
+    def gallery():
+        gallery_directory_path = (
+            pathlib.Path(__file__).parent.parent / "images" / "gallery"
+        )
+
+        # Make a list of all the image file names in the gallery directory
+        gallery_images = []
+        for image_file_path in gallery_directory_path.iterdir():
+            allowed_extensions = [".jpg", ".jpeg", ".png", ".gif"]
+            if (
+                image_file_path.is_file()
+                and image_file_path.suffix in allowed_extensions
+            ):
+                gallery_images.append(image_file_path.name)
+
+        return gallery_images

@@ -70,12 +70,11 @@ nav:
           - FAROES and GenX: research/fusion_systems_costing_and_valuation/faroes_and_genx.md
   - Members: members.md
   - Publications: publications.md
-  - Media: media.md
+  - Gallery: gallery.md
 
 plugins:
   - search # mkdocs-material search plugin
-  - mkdocs-simple-hooks
-
+  - glightbox
   - blog:
       blog_dir: .
       post_dir: "{blog}/posts"
@@ -107,7 +106,7 @@ plugins:
 
   - macros: # https://github.com/fralau/mkdocs-macros-plugin
       module_name: src/assets/data/data
-  
+
   # Redirect the old pages to the new ones:
   - redirects:
       redirect_maps:
@@ -159,5 +158,3 @@ extra:
 
 hooks:
   - src/assets/hooks/archive_and_category_pages.py
-  - src/assets/hooks/mediasort.py
-

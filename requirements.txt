@@ -6,3 +6,4 @@ mkdocs-macros-plugin==1.0.5
 pydantic[email]==2.7.4
 ruamel.yaml==0.18.6
 mkdocs-redirects==1.2.1
+mkdocs-glightbox==0.4.0
