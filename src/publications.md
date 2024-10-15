@@ -26,4 +26,3 @@ toc_depth: 1
     {% endfor %}
 
 {% endfor %}
-

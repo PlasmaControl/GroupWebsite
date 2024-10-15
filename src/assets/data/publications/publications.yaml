@@ -3102,4 +3102,2148 @@ publications:
     context:
     authors:
       - Z. A. Xing et al.
+
+  ## 10/15/24 Manual Addition Start -Logan ## 
  
+  - title: 'Investigating Methods of Surface Wave Reconstruction'
+    type: Presentations
+    category: Special Topics
+    date: '2017-01-01'
+    pdf_file_name: ''
+    context: 'PPPL SULI Program'
+    authors:
+      - D. Patel
+      - D. Patel
+      - A. Fisher
+      - E. Kolemen
+
+  - title: 'Development of a Non-Contact, Inductive Depth Sensor for Free-Surface, Liquid-Metal'
+    type: Presentations
+    category: Liquid Metals
+    date: '2017-01-01'
+    pdf_file_name: ''
+    context: 'PPPL SULI Program'
+    authors:
+      - G. Bruhaug
+      - E. Kolemen
+      - A. E. Fisher
+      - M. Hvasta
+
+  - title: 'Machine Learning Prediction of High-Current Disruptions with Low-Current Training Data'
+    type: Presentations
+    category: Machine Learning
+    date: '2017-01-01'
+    pdf_file_name: ''
+    context: 'PPPL SULI Program'
+    authors:
+      - N. Barbour
+      - K. Kleijwegt
+      - L. Lupin-Jimenez
+      - E. Kolemen
+
+  - title: 'Effects of Externally Applied Lorentz Force on Liquid Metal Flow'
+    type: Presentations
+    category: Liquid Metals
+    date: '2017-10-01'
+    pdf_file_name: ''
+    context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
+    authors:
+      - A. E. Fisher et al.
+
+  - title: 'The real time multi point Thomson scattering diagnostic at NSTX-U'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2017-10-01'
+    pdf_file_name: ''
+    context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
+    authors:
+      - F. M. Laggner et al.
+
+  - title: 'Plasma Stability Analysis Using Consistent Automatic Kinetic Equilibrium Reconstruction (CAKE)'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2017-10-01'
+    pdf_file_name: ''
+    context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
+    authors:
+      - M. A. Roelofs et al.
+
+  - title: 'Advanced Plasma Shape Control to Enable High-Performance Divertor Operation on NSTX-U'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2017-10-01'
+    pdf_file_name: ''
+    context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
+    authors:
+      - P. J. Vail et al.
+
+  - title: 'Plasma-Assisted Fuel Reforming of Methane Using Nonequilibrium Excitation'
+    type: Presentations
+    category: Special Topics
+    date: '2018-01-01'
+    pdf_file_name: ''
+    context: 'General Examination, Department of Mechanical and Aerospace Engineering, Princeton, NJ'
+    authors:
+      - T. Chen
+
+  - title: 'Predicting the Temporal Evolution of Tokamak Plasma Profiles with Deep Learning'
+    type: Presentations
+    category: Machine Learning
+    date: '2018-01-01'
+    pdf_file_name: ''
+    context: 'PPPL SULI Program'
+    authors:
+      - J. Butt
+      - E. Kolemen
+
+  - title: 'Disruption prediction using machine learning algorithms for DIII-D'
+    type: Presentations
+    category: Machine Learning
+    date: '2018-03-01'
+    pdf_file_name: ''
+    context: 'Machine Learning in Plasma Physics, Princeton Plasma Physics Laboratory, Princeton, NJ'
+    authors:
+      - Y. Fu et al.
+
+  - title: 'Calibrationless rotating Lorentz-force flowmeters for low flow rate applications'
+    type: Presentations
+    category: Liquid Metals
+    date: '2018-03-01'
+    pdf_file_name: ''
+    context: 'Princeton Innovation Forum, Princeton University, Princeton, NJ'
+    authors:
+      - M. G. Hvasta
+      - D. Dudt
+      - A. E. Fisher
+      - E. Kolemen
+
+  - title: 'Climate Engineering Science'
+    type: Presentations
+    category: Special Topics
+    date: '2018-05-01'
+    pdf_file_name: ''
+    context: 'Invited Speaker, Round table on Climate Engineering and Religion, Princeton, NJ'
+    authors:
+      - E. Kolemen
+
+  - title: 'Inter-ELM pedestal fluctuations and their parametric (in-)dependencies'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2018-06-01'
+    pdf_file_name: ''
+    context: '23rd International Conference on Plasma Surface Interactions in Controlled Fusion Devices, Princeton, NJ'
+    authors:
+      - F. M. Laggner
+      - E. Kolemen
+      - A. Diallo
+
+  - title: 'Effects of Externally Applied Lorentz Force on Liquid Metal Surface Stability'
+    type: Presentations
+    category: Liquid Metals
+    date: '2018-06-01'
+    pdf_file_name: ''
+    context: '23rd International Conference on Plasma Surface Interactions in Controlled Fusion Devices, Princeton, NJ'
+    authors:
+      - A. E. Fisher
+      - E. Kolemen
+      - M. G. Hvasta
+
+  - title: 'Divertor Heat Flux and Particle Control on NSTX-U via Optimization of Plasma Boundary and Divertor Shape'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2018-06-01'
+    pdf_file_name: ''
+    context: '23rd International Conference on Plasma Surface Interactions in Controlled Fusion Devices, Princeton, NJ'
+    authors:
+      - P. J. Vail
+      - E. Kolemen
+      - O. Izacard
+
+  - title: 'Data-based plasma stability analysis and control'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2018-11-01'
+    pdf_file_name: ''
+    context: 'Invited Speaker, MHD Workshop, Los Angeles, CA'
+    authors:
+      - E. Kolemen
+
+  - title: 'Path to Stable Tokamak Operation: Plasma stability analysis using physics-based and data-based approaches for real-time control'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2018-11-01'
+    pdf_file_name: ''
+    context: 'Invited Speaker, APS-DPP, Portland, OR'
+    authors:
+      - E. Kolemen
+
+  - title: 'Vertical Plasma Oscillations as a Tool to perturb the Pedestal in the DIII-D Tokamak'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2018-11-01'
+    pdf_file_name: ''
+    context: '60th Annual Meeting of the APS Division of Plasma Physics, Portland, OR'
+    authors:
+      - F. M. Laggner
+      - E. Kolemen
+      - A. Diallo
+      - R. J. Groebner
+      - K. Barada
+      - A. Nelson
+      - T. H. Osborne
+      - DIII-D team
+
+  - title: 'Free-surface liquid metal flow control for PFC applications'
+    type: Presentations
+    category: Liquid Metals
+    date: '2019-02-01'
+    pdf_file_name: ''
+    context: 'Oroshhi-2 Workshop, Toki, Japan'
+    authors:
+      - A. E. Fisher
+      - E. Kolemen
+
+  - title: 'Plasma Profile Prediction and Control in Tokamaks'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-06-01'
+    pdf_file_name: ''
+    context: 'Andlinger Center for Energy and the Environment E-ffiliates 2019 retreat, Princeton, NJ'
+    authors:
+      - J. Abbate
+      - R. Conlin
+      - K. Erickson
+      - E. Kolemen
+
+  - title: '3-D MHD Equilibria Construction Based on a Poincaré Sections Approach'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-09-01'
+    pdf_file_name: ''
+    context: 'ISHW 2019, Madison, WI'
+    authors:
+      - D. Dudt
+      - E. Kolemen
+
+  - title: 'Experimental Demonstration of Lorentz Force Propulsion on Free-Surface Liquid Metal Channel Flow'
+    type: Presentations
+    category: Liquid Metals
+    date: '2019-09-01'
+    pdf_file_name: ''
+    context: 'ISLA 2019, University of Illinois Urbana-Champaign, IL'
+    authors:
+      - A. E. Fisher
+      - T. Tanaka
+      - T. Kunugi
+      - J. Yagi
+      - K. Kusumi
+      - Y. Go
+      - G. Yamazaki
+      - E. Kolemen
+
+  - title: 'Control of Advanced Divertors — NSTXU, ITER, D3D'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: '24th Workshop on MHD Stability Control, New York City, NY'
+    authors:
+      - J. Wai
+      - P. J. Vail
+      - E. Kolemen
+
+  - title: 'ECE-based Tearing Mode Suppression and Equilibrium Reconstruction'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: '24th Workshop on MHD Stability Control, New York City, NY'
+    authors:
+      - A. O. Nelson
+      - R. J. La Haye
+      - M. E. Austin
+      - A. S. Welander
+      - E. Kolemen
+  
+  - title: 'Machine Learning Plasma Profile Prediction for Model-Predictive Control at DIII-D'
+    type: Presentations
+    category: Machine Learning
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: '24th Workshop on MHD Stability Control, New York City, NY'
+    authors:
+      - J. Abbate
+      - R. Conlin
+      - K. Erickson
+      - E. Kolemen
+
+  - title: 'Equilibria Stability Calculations from the Fixed Point of a Map'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: '24th Workshop on MHD Stability Control, New York City, NY'
+    authors:
+      - D. Dudt
+      - E. Kolemen
+
+  - title: 'Equilibria Stability Calculations from the Fixed Point of a Map'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: '24th Workshop on MHD Stability Control, New York City, NY'
+    authors:
+      - D. Dudt
+      - E. Kolemen
+
+  - title: 'A Dynamical Systems Interpretation of Ideal MHD Stability with Applications to Fast Robust Calculations and New Physical Insight'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: '24th Workshop on MHD Stability Control, New York City, NY'
+    authors:
+      - R. Conlin
+      - A. S. Glasser
+      - E. Kolemen
+    
+  - title: 'Characterization of pedestal modes through fast vertical oscillations at DIII-D'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: 'APS DPP, Fort Lauderdale, FL'
+    authors:
+      - A. O. Nelson
+      - F. M. Laggner
+      - A. Diallo
+      - E. Kolemen
+
+  - title: 'Machine learning plasma profile prediction for model-predictive control at DIII-D'
+    type: Presentations
+    category: Machine Learning
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: 'APS DPP, Fort Lauderdale, FL'
+    authors:
+      - J. Abbate
+      - R. Conlin
+      - K. Erickson
+      - E. Kolemen
+    
+  - title: 'Control of Advanced Divertors in NSTX-U and ITER'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: 'APS DPP, Fort Lauderdale, FL'
+    authors:
+      - J. Wai
+      - P. J. Vail
+      - E. Kolemen
+      - NSTX-U Team
+
+  - title: 'Model Predictive Control of Plasma Profiles at DIII-D'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: 'APS DPP, Fort Lauderdale, FL'
+    authors:
+      - R. Conlin
+      - J. Abbate
+      - K. Erickson
+      - E. Kolemen
+    
+  - title: 'Stellarator Equilibrium Construction Based on a Poincaré Sections Approach'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: 'APS DPP, Fort Lauderdale, FL'
+    authors:
+      - D. Dudt
+      - E. Kolemen
+    
+  - title: 'On the role of particle source location in settling the H-mode pedestal structure'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2019-10-01'
+    pdf_file_name: ''
+    context: 'HMWS 2019, Shanghai, China'
+    authors:
+      - A. O. Nelson
+      - F. M. Laggner
+      - O. Izacard
+      - A. C. Sontag
+      - R. Groebner
+      - D. Eldon
+      - B. Grierson
+      - M. W. Shafer
+      - A. Leonard
+      - D. Shiraki
+      - E. Kolemen
+      - DIII-D Team
+    
+  - title: 'Spatially-resolved time-evolution of rotation-vibration non-equilibrium and CH concentration measured by fs/ps CARS in a nanosecond-pulsed pin-to-pin discharge'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2020-10-01'
+    pdf_file_name: ''
+    context: 'APS-GEC (virtual)'
+    authors:
+      - T. Chen
+      - B. Goldberg
+      - C. Kliewer
+      - E. Kolemen
+      - Y. Ju
+  
+  - title: 'Machine Learning for Shot Classification on the DIII-D Tokamak'
+    type: Presentations
+    category: Machine Learning
+    date: '2020-10-01'
+    pdf_file_name: ''
+    context: 'PPPL SULI Program'
+    authors:
+      - M. Wolff
+      - J. Abbate
+      - R. Conlin
+      - E. Kolemen
+
+  - title: 'Hyper-dimensional time-series data analysis with reservoir computing networks to predict plasma profiles in tokamak'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2020-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (virtual)'
+    authors:
+      - A. Jalalvand
+      - J. Abbate
+      - R. Conlin
+      - E. Kolemen
+      - G. Verdoolaege
+
+  - title: 'Infrared Constrained Equilibria and Application to Snowflake Divertor Studies'
+    type: Presentations
+    category: Special Topics
+    date: '2020-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (virtual)'
+    authors:
+      - J. Wai
+      - P. J. Vail
+      - A. O. Nelson
+      - Z. A. Xing
+      - C. Lasnier
+      - E. Kolemen
+    
+  - title: 'Automating Interpretive Edge Transport Modeling on DIII-D with UEDGE'
+    type: Presentations
+    category: Special Topics
+    date: '2020-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (virtual)'
+    authors:
+      - Z. Xing
+      - A. O. Nelson
+      - O. Izacard
+      - M. E. Austin
+      - A. Marinoni
+      - A. Jarvinen
+      - M. Umansky
+      - E. Kolemen
+
+  - title: 'Experimental Characterization of Turbulent Modes in the DIII-D H-Mode Pedestal'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2020-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (virtual)'
+    authors:
+      - A. O. Nelson
+      - F. Laggner
+      - A. Diallo
+      - Z. Yan
+      - E. Kolemen
+
+  - title: 'Adaptive ELM Control and Real-Time Feedback MHD Spectroscopy at KSTAR'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2020-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (virtual)'
+    authors:
+      - E. Kolemen
+      - R. Shousha
+      - A. Nelson
+      - N. Logan
+      - J. Park
+
+  - title: 'Real-Time Equilibrium Reconstruction with Kinetic Constraints on DIII-D'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2020-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (virtual)'
+    authors:
+      - R. Shousha
+      - J. Ferron
+      - Z. Xing
+      - A. O. Nelson
+      - K. Erickson
+      - E. Kolemen
+
+  - title: 'On Effect of n=2 RMP to Edge Pedestal in KSTAR with Nonlinear MHD Simulation'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-03-01'
+    pdf_file_name: ''
+    context: 'IAEA-FEC (virtual)'
+    authors:
+      - S. K. Kim
+      - S. Pamela
+      - M. Becoulet
+      - G. Huijsmans
+      - O. Kown
+      - Y. In
+      - J. H. Lee
+      - M. Kim
+      - S. M. Yang
+      - J.-K. Park
+      - N. Logan
+      - Y.-S. Na
+      - E. Kolemen
+      - JOREK team
+  
+  - title: 'DESC: Fast and Flexible Stellarator Equilibrium Optimization'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-04-01'
+    pdf_file_name: ''
+    context: 'IPP MHD Topical Group'
+    authors:
+      - D. Dudt
+      - R. Conlin
+      - D. Panici
+      - E. Kolemen
+
+  - title: 'Experimental Identification of Inter-ELM Pedestal MTMs through Edge Current Perturbations'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-04-01'
+    pdf_file_name: ''
+    context: 'Plenary Talk at TTF'
+    authors:
+      - A. O. Nelson
+      - F. M. Laggner
+      - A. Diallo
+      - D. R. Smith
+      - R. Shousha
+      - Z. A. Xing
+      - E. Kolemen
+
+  - title: 'Updates and Improvements to the DESC Code for Finding and Optimizing Stellarator Equilibria'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-05-01'
+    pdf_file_name: ''
+    context: 'PPPL Stellarator Seminar'
+    authors:
+      - R. Conlin
+      - D. Dudt
+      - D. Panici
+      - E. Kolemen
+  
+  - title: 'Optimization of H-Mode Pedestal by Adaptive ELM Control Using 3D Fields'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-09-01'
+    pdf_file_name: ''
+    context: 'AAPPS-DPP (Virtual)'
+    authors:
+      - S. K. Kim
+      - R. Shousha
+      - S. H. Hahn
+      - A. O. Nelson
+      - J. Wai
+      - S. Yang
+      - J.-K. Park
+      - N. Logan
+      - Y. M. Jeon
+      - Y. In
+      - J. H. Lee
+      - Y.-S. Na
+      - E. Kolemen
+    
+  - title: 'Machine Learning for Real-Time Fusion Plasma Behavior Prediction and Manipulation'
+    type: Presentations
+    category: Machine Learning
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (Virtual)'
+    authors:
+      - E. Kolemen
+      - M. D. Boyer
+      - R. Coffee
+      - J. Schneider
+      - D. R. Smith
+      - A. Jalalvand
+      - R. Conlin
+      - J. Abbate
+    
+  - title: 'Data-Driven Models for Alfvén Eigenmode Classification Based on High Resolution ECE Diagnostics at DIII-D'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: 'APS-DPP (Virtual)'
+    authors:
+      - A. Jalalvand
+      - A. Kaptanoglu
+      - A. V. Garcia
+      - A. O. Nelson
+      - J. A. Abbate
+      - M. E. Austin
+      - G. Verdoolaege
+      - S. L. Brunton
+      - W. H. Heidbrink
+      - E. Kolemen
+
+  - title: Novel Aggregate Machine Learning And Transport Modeling Profile Predictions
+    type: Presentations
+    category: Machine Learning
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - J. A. Abbate
+    - R. Conlin
+    - E. Kolemen
+  
+  - title: Feedback Adaptive Elm Control Towards (Iter) Long Pulse Elm Suppression And Its Application To Kstar
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - R. Shousha
+    - S. Kim
+    - K. Erickson
+    - S. Hahn
+    - A. O. Nelson
+    - J. T. Wai
+    - S. Yang
+    - J. K. Park
+    - E. Kolemen
+  
+  - title: Stellarator Optimization With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - D. W. Dudt
+    - R. Conlin
+    - D. Panici
+    - E. Kolemen
+  
+  - title: Equilibrium Studies Of The Sparc X-Point Target Divertor
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - J. T. Wai
+    - M. L. Reinke
+    - A. Q. Kuang
+    - P. Rodriguez-Fernandez
+    - D. T. Garnier
+    - E. Kolemen
+  
+  - title: New Neural Networks For Plasma Profile Prediction
+    type: Presentations
+    category: Machine Learning
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - A. Rothstein
+    - A. Jalalvand
+    - E. Kolemen
+    - M. Austin
+  
+  - title: Improvements To The Desc Code For Finding And Optimizing Stellarator Equilibria
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - R. Conlin
+    - D. W. Dudt
+    - D. Panici
+    - J. Schilling
+    - E. Kolemen
+  
+  - title: A Comparison Of Vmec And Desc 3D Equilibrium Codes
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - D. Panici
+    - D. W. Dudt
+    - R. Conlin
+    - E. Kolemen
+  
+  - title: Magnetohydrodynamic Effects Of A Gradient Magnetic Field On Liquid Metal Flows
+    type: Presentations
+    category: Liquid Metals
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - B. R. Wynne
+    - E. Kolemen
+  
+  - title: 'Progress On The Liquid Metal ‘Divertorlets’ Concept: Experiments And Simulations'
+    type: Presentations
+    category: Liquid Metals
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - F. Saenz
+    - Z. Sun
+    - E. Kolemen
+  
+  - title: Improved Real-Time Equilibrium Reconstruction With Kinetic Constraints On Diii-D
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - R. Shousha
+    - J. R. Ferron
+    - Z. A. Xing
+    - A. O. Nelson
+    - K. Erickson
+    - E. Kolemen
+  
+  - title: Feedforward Shape Control And Neural Net Equilibrium Modeling On Nstx-U
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: ''
+    context: APS-DPP (Virtual)
+    authors:
+    - J. T. Wai
+    - M. D. Boyer
+    - E. Kolemen
+  
+  - title: 'Progress On The Liquid Metal ‘Divertorlets’ Concept: Experiments And Simulations'
+    type: Presentations
+    category: Liquid Metals
+    date: '2021-12-01'
+    pdf_file_name: ''
+    context: SOFE (Virtual)
+    authors:
+    - Z. Sun
+    - F. Saenz
+    - B. Wynne
+    - E. Kolemen
+  
+  - title: Comparison Of The Desc And Vmec 3D Equilibrium Codes
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-01-01'
+    pdf_file_name: ''
+    context: PPPL Stellarator Seminar
+    authors:
+    - D. Panici
+    - D. Dudt
+    - R. Conlin
+    - E. Kolemen
+  
+  - title: 'Lmx-U Studies: Model Validation And Development Of The Divertorlets Concept'
+    type: Presentations
+    category: Liquid Metals
+    date: '2022-03-01'
+    pdf_file_name: ''
+    context: The 2nd US-Japan Workshop (virtual)
+    authors:
+    - E. Kolemen
+    - Z. Sun
+    - B. Wynne
+    - F. Saenz
+    - J. Al-Salami
+  
+  - title: Neural Net Modeling Of Equilibria In Nstx-U
+    type: Presentations
+    category: Machine Learning
+    date: '2022-04-01'
+    pdf_file_name: ''
+    context: PPPL Monthly Science Meeting
+    authors:
+    - J.T. Wai
+    - M.D. Boyer
+    - E. Kolemen
+  
+  - title: Comparison Of Real-Time Efit Vs Neural Net Based Reconstruction
+    type: Presentations
+    category: Machine Learning
+    date: '2022-05-01'
+    pdf_file_name: ''
+    context: DIII-D Friday Science & Engineering Technology (FSET) meeting
+    authors:
+    - J.T. Wai
+    - M.D. Boyer
+    - E. Kolemen
+  
+  - title: 'Liquid Metal Divertorlets Concept: Experiments, Simulations, And Projections'
+    type: Presentations
+    category: Liquid Metals
+    date: '2022-06-01'
+    pdf_file_name: ''
+    context: Technology of Fusion Energy (TOFE) ANS meeting
+    authors:
+    - F. Saenz
+    - Z. Sun
+    - B. Wynne
+    - E. Kolemen
+  
+  - title: Overview Of The Desc Stellarator Optimization Code
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-06-01'
+    pdf_file_name: ''
+    context: CIEMAT Presentation
+    authors:
+    - D. Dudt
+    - R. Conlin
+    - D. Panici
+    - E. Kolemen
+  
+  - title: Data-Based Control
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-07-01'
+    pdf_file_name: ''
+    context: ITER Summer School on Plasma Operating Scenarios and Control, San Diego CA
+    authors:
+    - E. Kolemen
+  
+  - title: Introduction To Stellarator Optimization With Mercier Stability Objective
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-07-01'
+    pdf_file_name: ''
+    context: Princeton Univeristy Summer Research Colloquium
+    authors:
+    - K. Unalmis
+    - D. Dudt
+    - R. Conlin
+    - D. Panici
+    - and E. Kolemen
+  
+  - title: Adaptive Elm Control And Its Application To Integrated Long-Pulse Rmp Scenarios In Kstar
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-08-01'
+    pdf_file_name: ''
+    context: iFPC
+    authors:
+    - S.K. Kim
+    - R. Shousha
+    - J.-K. Park
+    - S.M. Yang
+    - M. Kim
+    - G. Shin
+    - N. Logan
+    - S.H. Hahn
+    - Q. Hu
+    - G.Y. Park
+    - Y.M. Jeon
+    - W.H. Ko
+    - E. Kolemen
+  
+  - title: Elm Suppressed High Performance Fusion Scenarios Achieved With Feedback Adaptive Rmp Elm Control
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-08-01'
+    pdf_file_name: ''
+    context: iFPC
+    authors:
+    - R. Shousha
+    - S.K. Kim
+    - K.G. Erickson
+    - J.-K. Park
+    - S.M. Yang
+    - M.W. Kim
+    - G. Shin
+    - S.-H. Hahn
+    - G.Y. Park
+    - Y.M. Jeon
+    - N.C. Logan
+    - E. Kolemen
+  
+  - title: Quick And Accurate 3D Mhd Equilibria With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-08-01'
+    pdf_file_name: ''
+    context: Conference on Computational Physics 2022, Virtual
+    authors:
+    - D. Panici
+    - D. Dudt
+    - R. Conlin
+    - E. Kolemen
+  
+  - title: Stellarator Optimization With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-08-01'
+    pdf_file_name: ''
+    context: Conference on Computational Physics 2022, Virtual
+    authors:
+    - R. Conlin
+    - D. Dudt
+    - D. Panici
+    - E. Kolemen
+  
+  - title: Lorentz Force Propulsion On Free Surface Liquid Metal Channel Flow
+    type: Presentations
+    category: Liquid Metals
+    date: '2022-09-01'
+    pdf_file_name: ''
+    context: 32nd SOFT Conference
+    authors:
+    - F. Saenz
+    - J. Al-Salami
+    - A.E. Fisher
+    - B. Wynne
+    - E. Kolemen
+  
+  - title: Classifying And Locating Alfvén Eigenmodes Based On Ece Diagnostics At Diii-D Using Neural Networks
+    type: Presentations
+    category: Machine Learning
+    date: '2022-09-01'
+    pdf_file_name: ''
+    context: 32nd SOFT Conference
+    authors:
+    - A. Jalalvand
+    - A. A. Kaptanoglu
+    - A. V. Garcia
+    - A. O. Nelson
+    - J. Abbate
+    - M. E. Austin
+    - G. Verdoolaege
+    - S. L. Brunton
+    - W. W. Heidbrink
+    - E. Kolemen
+  
+  - title: Nonlinear Mhd Modeling Of N=1 Rmp Effect On The Pedestal In Kstar
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: ITPA-PEP meeting
+    authors:
+    - S.K. Kim
+    - S. Pamela
+    - N. Logan
+    - Y.-S. Na
+    - C. Y. Lee
+    - J.-K. Park
+    - S. Yang
+    - Q. Hu
+    - M. Becoulet
+    - G. Huisjmans
+    - M. Hoelzl
+    - Y. In
+    - M. Kim
+    - H.H.Lee
+    - J. Lee
+    - O. Kwon
+    - E. Kolemen
+  
+  - title: Feedforward + Feedback Shape Control Design On Nstxu
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - J. Wai
+    - M.D. Boyer
+    - W. Wehner
+    - A.S. Welander
+    - E. Kolemen
+  
+  - title: Optimizing Stellarators For Better Equilibria Through The Addition Of Physics Objectives To Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - K.E. Unalmis
+    - D.W. Dudt
+    - R. Conlin
+    - D. Panici
+    - P. Kim
+    - E. Kolemen
+  
+  - title: Constrained And Turbulence Optimization For Stellarators In Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - P. Kim
+    - R. Conlin
+    - D. Dudt
+    - D. Panici
+    - E. Kolemen
+  
+  - title: Free Boundary Stellarator Equilibria And Coil Optimization In Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - R. Conlin
+    - J. Schiling
+    - D. Dudt
+    - D. Panici
+    - P. Kim
+    - K.E. Unalmis
+    - E. Kolemen
+  
+  - title: Startup Scenario Development For Sparc
+    type: Presentations
+    category: Special Topics
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - J.T. Wai
+    - D.J. Battaglia
+    - A.J. Creely
+    - D. Garnier
+    - T. Looby
+    - A.O. Nelson
+    - M. Lagieski
+    - E. Kolemen
+  
+  - title: Improved Real-Time Equilibrium Reconstruction With Kinetic Constraints On Diii-D And Nstx-U
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - R. Shousha
+    - J.R. Ferron
+    - Z.A. Xing
+    - A.O. Nelson
+    - K.G. Erickson
+    - E. Kolemen
+  
+  - title: Multi-Diagnostic Classification Of Alfvén Eigenmodes Using Multimodal Machine Learning
+    type: Presentations
+    category: Machine Learning
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - A. Rothstein
+    - A. Jalalvand
+    - A.V. Garcia
+    - M.E. Austin
+    - W.W. Heidbrink
+    - E. Kolemen
+  
+  - title: 'Feedback Adaptive Rmp Elm Control: Elm Suppressed High Performance Fusion Scenarios Achieved With Feedback Adaptive Rmp Elm Control'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS DPP
+    authors:
+    - R. Shousha
+    - S.K. Kim
+    - K.G. Erickson
+    - J.-K. Park
+    - S.M. Yang
+    - M.W. Kim
+    - W.H. Ko
+    - G. Shin
+    - S.-H. Hahn
+    - G.Y. Park
+    - Y.M. Jeon
+    - N.C. Logan
+    - E. Kolemen
+  
+  - title: Nonlinear Mhd Modeling On Rmp-Induced Pump-Out Under The Kstar Geometry
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - S.K. Kim
+    - N. Logan
+    - M. Becoulet
+    - M. Hoelzl
+    - Q. Hu
+    - G. Huijsmans
+    - S. Pamela
+    - Q. Yu
+    - S.M. Yang
+    - E. Kolemen
+    - J.-K. Park
+    - JOREK Team
+  
+  - title: Tokamak Operation Design And Control With Deep Reinforcement Learning
+    type: Presentations
+    category: Machine Learning
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: MHD Workshop
+    authors:
+    - J. Seo
+    - A. Jalalvand
+    - R. Conlin
+    - A. Rothstein
+    - J. Abbate
+    - B. Kim
+    - C.Y. Lee
+    - M.S. Park
+    - S.J. Park
+    - Y.H. Lee
+    - Y.-S. Na
+    - E. Kolemen
+  
+  - title: Adaptive Elm Control Using Rmp And Its Application To Integrated Long-Pulse Elm-Free Scenarios
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: MHD Workshop
+    authors:
+    - S.K. Kim
+    - R. Shousha
+    - J.-K. Park
+    - S.M. Yang
+    - M.W. Kim
+    - G. Shin
+    - N. Logan
+    - S.H. Hahn
+    - Q. Hu
+    - G.Y. Park
+    - Y.M. Jeon
+    - W.H. Ko
+    - E. Kolemen
+  
+  - title: 'Alfvénnet: Data-Driven Prediction And Control Of Alfvén Eigenmodes At Diii-D'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - A. Jalalvand
+    - R. Kube
+    - M. Boyer
+    - A.V. Garcia
+    - M.E. Austin
+    - G. Verdoolaege
+    - W.W. Heidbrink
+    - E. Kolemen
+    - DIII-D Team
+  
+  - title: Low-Recycling Liquid-Metal ‘Divertorlets’ Concept For Heat Exhaust In Divertors Of Fusion Reactors
+    type: Presentations
+    category: Liquid Metals
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - F. Saenz
+    - Z. Sun
+    - B. Wynne
+    - Al-Salami
+    - E. Kolemen
+  
+  - title: The Value Of Fusion Energy To A Decarbonized Us Electric Grid
+    type: Presentations
+    category: Special Topics
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - J. Schwartz
+    - W. Ricks
+    - E. Kolemen
+    - J. Jenkins
+  
+  - title: In Situ Tritium Separation And Hydrogen Isotope Pumping For Liquid Metal Divertor Applications
+    type: Presentations
+    category: Liquid Metals
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - B. Wynne
+    - F. Saenz
+    - Z. Sun
+    - E. Kolemen
+  
+  - title: Minimal Poincare Boundary Condition For 3D Mhd Equilibria
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - D. Panici
+    - D.W. Dudt
+    - R. Conlin
+    - K. Unalmis
+    - P. Kim
+    - E. Kolemen
+  
+  - title: Tokamak Prediction And Control
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - J. Abbate
+    - R. Conlin
+    - A. Jalalvand
+    - R. Shousha
+    - I. Char
+    - Y. Chung
+    - V. Mehta
+    - E. Fable
+    - G. Tardini
+    - E. Kolemen
+  
+  - title: Nonlinear Mhd Modeling On Rmp-Induced Pump-Out In Kstar With Realistic Tokamak Geometry
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: 6th Asia-Pacific Conference on Plasma Physics
+    authors:
+    - S.K. Kim
+    - N. Logan
+    - M. Becoulet
+    - M. Hoelzl
+    - Q. Hu
+    - G. Huijsmans
+    - S. Pamela
+    - Q. Yu
+    - S.M. Yang
+    - E. Kolemen
+    - J.-K. Park
+    - JOREK Team
+  
+  - title: Mhd Liquid-Metal-Flow Experiments And Simulations For Nuclear Fusion Applications
+    type: Presentations
+    category: Liquid Metals
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: 6th Asia-Pacific Conference on Plasma Physics
+    authors:
+    - F. Saenz
+    - J. Al-Salami
+    - Z. Sun
+    - B. Wynne
+    - A. Khodak
+    - S. Smolentsev
+    - E. Kolemen
+  
+  - title: The Value Of Fusion Energy To A Decarbonized Us Electric Grid
+    type: Presentations
+    category: Special Topics
+    date: '2022-10-01'
+    pdf_file_name: ''
+    context: PPPL Monthly Research Meeting
+    authors:
+    - J. Schwartz
+    - W. Ricks
+    - E. Kolemen
+    - J. Jenkins
+  
+  - title: 3D-Mhd Liquid-Metal-Flow Simulations And Experiments In Oroshhi-2/Nifs And Lmx-U/Pppl For Divertor Applications
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-12-01'
+    pdf_file_name: ''
+    context: ISLA-7
+    authors:
+    - F. Saenz
+    - Z. Sun
+    - B. Wynne
+    - Al-Salami
+    - E. Kolemen
+  
+  - title: Ml-Based Acceleration Of Cake For Real-Time Kinetic Equilibrium Reconstruction
+    type: Presentations
+    category: Machine Learning
+    date: '2023-01-01'
+    pdf_file_name: ''
+    context: DIII-D Friday Science Meeting
+    authors:
+    - J. Seo
+    - R. Shousha
+    - E. Kolemen
+  
+  - title: Flexible Equilibrium Constraints With The Desc Code
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-01-01'
+    pdf_file_name: ''
+    context: SPECtaculars Meeting
+    authors:
+    - D. Panici
+    - D. Dudt
+    - R. Conlin
+    - E. Rodriguez
+    - E. Kolemen
+  
+  - title: Feedback Adaptive Rmp Elm Control On Diii-D And Kstar Towards Robust, Performance Optimized Long Pulse Elm Suppression
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-01-01'
+    pdf_file_name: ''
+    context: PPPL Monthly
+    authors:
+    - R. Shousha
+    - S. K. Kim
+    - K. G. Erickson
+    - J. K. Park
+    - S. M. Yang
+    - A. O. Nelson
+    - N. C. Logan
+    - Q. M. Hu
+    - M. W. Kim
+    - G. Shin
+    - S. H. Hahn
+    - C. Paz-Soldan
+    - R. Wilcox
+    - A. Battey
+    - W. H. Ko
+    - G. Y. Park
+    - Y. M. Jeon
+    - J. Abbate
+    - A. Rothstein
+    - E. Kolemen
+  
+  - title: Offline Model-Based Reinforcement Learning For Tokamak Control
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-01-01'
+    pdf_file_name: ''
+    context: The 5th Annual Learning for Dynamics and Control Conference (PMLR)
+    authors:
+    - I. Char et al.
+  
+  - title: Towards Llms As Operational Copilots For Fusion Reactors
+    type: Presentations
+    category: Machine Learning
+    date: '2023-01-01'
+    pdf_file_name: ''
+    context: NeurIPS
+    authors:
+    - V. Mehta
+    - J. Abbate
+    - A. Wang
+    - A. Rothstein
+    - I. Char
+    - J. Schneider
+    - E. Kolemen
+    - C. Rea
+    - D. Garnier
+  
+  - title: Experimental, Numerical And Analytical Evaluation Lorentz-Force Propulsion On Liquid-Metal Channel Flows For Divertor Applications At The Nifs Oroshhi-2 Facility
+    type: Presentations
+    category: Liquid Metals
+    date: '2023-02-01'
+    pdf_file_name: ''
+    context: US-Japan and International Workshop on Power and Particle Control in DEMO Fusion Reactor by Liquid Metal Plasma-Facing Components
+    authors:
+    - F. Saenz
+    - A. Fisher
+    - J. Al-Salami
+    - T. Tanaka
+    - T. Kunugi
+    - J. Yagi
+    - K. Kusumi
+    - Y. Go
+    - G. Yamazaki
+    - B. Wynne
+    - C. Hu
+    - K. Hanada
+    - E. Kolemen
+  
+  - title: 'Desc Suite: Integrated Stellarator Optimization'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-03-01'
+    pdf_file_name: ''
+    context: Simons NYC Meeting
+    authors:
+    - E. Kolemen
+    - D. Dudt
+    - R. Conlin
+    - D. Panici
+    - P. Kim
+    - K. Unalmis
+    - E. Rodriguez
+    - A. Jalalvand
+  
+  - title: Stellarator Phase Space Exploration With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-05-01'
+    pdf_file_name: ''
+    context: Sherwood Fusion Theory Meeting
+    authors:
+    - D. Panici
+    - D. Dudt
+    - R. Conlin
+    - P. Kim
+    - K. Unalmis
+    - E. Rodriguez
+    - E. Kolemen
+  
+  - title: Cross-Verification And Validation Of Tokamak Plasma Evolution Models
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-05-01'
+    pdf_file_name: ''
+    context: Transport Task Force
+    authors:
+    - Joe Abbate
+    - Emiliano Fable
+    - Alexei Pankin
+    - Giovanni Tardini
+    - Egemen Kolement
+  
+  - title: Spatiotemporal Forecasting Of Plasma Turbulence With Deep Learning
+    type: Presentations
+    category: Machine Learning
+    date: '2023-10-01'
+    pdf_file_name: ''
+    context: DPP
+    authors:
+    - R. Gaur
+    - V. Gopakumar
+    - N. Barbour
+    - B. Jang
+    - N. Mandell
+    - I. Abel
+    - W. Dorland
+    - E. Kolemen
+  
+  - title: Autoencoding And Noise Reduction Of Plasma Diagnostics In Tokamak
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - M. Curie
+    - J. Abbate
+    - A. Jalalvand
+    - E. Kolemen
+  
+  - title: Automated Experimental Design Of Safe Rampdowns Via Probabilistic Machine Learning
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - V. Mehta
+    - J. Barr
+    - J. Abbate
+    - I. Char
+    - W. Neiswanger
+    - M. Boyer
+    - E. Kolemen
+    - J. Schneider
+  
+  - title: Deep Neural Network Based Real-Time Elm Prediction And Reconstruction Of Turbulent Flow Based On The Diii-D Bes Measurement
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - S. Joung
+    - D. Smith
+    - B. Geiger
+    - K. Gill
+    - G. McKee
+    - Z. Yan
+    - J. Zimmerman
+    - R. Coffee
+    - F. O'Shea
+    - A. Jalalvand
+    - E. Kolemen
+  
+  - title: Exploring The Database Of Omnigenous Stellarators With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - R. Gaur et al.
+  
+  - title: 'Freemhd: Experimental Validation Of A Fully-3D-Non Inductive-Mhd Solver For Liquid Metal Flows In Fusion Devices'
+    type: Presentations
+    category: Liquid Metals
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - F. Saenz et al.
+  
+  - title: Helical Coil Optimization In Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - D. Panici
+    - R. Conlin
+    - T. Elder
+    - R.Gaur
+    - D. Dudt
+    - T. Shpigel
+    - I. Gissis
+    - N. Snir
+    - Y. Nikulshin
+    - E. Kolemen
+  
+  - title: Highlights Of Kstar-Pppl Collaborations On 3D Fields, Disruptions, Control, And Impurity Powder Dropper
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - J. Snipes et al.
+  
+  - title: Identification Of Alfvén Eigenmodes Using Recurrent Neural Networks, A Labelled Database And Co2 Interferometer Data On Diii-D
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - A. Garcia et al.
+  
+  - title: Implementing Data-Driven Models For Real-Time Detection And Control Of Alfvén Eigenmodes At Diii-D
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - A. Jalalvand et al.
+  
+  - title: Integrated Process For Enhancing The Normalized Beta During N = 1 Rmp-Driven Elm-Crash-Suppression Phase In Kstar
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - K. Minwoo et al.
+  
+  - title: Near-Axis Constrained Stellarator Equilibria With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - D. Panici
+    - E. Rodriguez
+    - R. Conlin
+    - D. Dudt
+    - E. Kolemen
+  
+  - title: Physics And Engineering Trade-Offs In Stellarator Optimization
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - T. Shpigel
+    - D. Panici
+    - and E. Kolemen
+  
+  - title: Physics-Augmented Machine Learning Techniques For Modeling Tokamak Dynamics
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - J. Abbate et al.
+  
+  - title: Real-Time Equilibrium Reconstruction Using Machine Learning That Is Robust Against Diagnostics Failures
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - E. Kolemen et al.
+  
+  - title: Real-Time Plasma Confinement Mode Classification With Deep Neural Networks And High-Bandwidth Edge Fluctuation Measurements In Diii-D
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - K. Gill et al.
+  
+  - title: Spatio-Temporal Forecasting Of Plasma Turbulence Using Deep Learning
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - R. Gaur et al.
+  
+  - title: Stellarator Optimization With Constraints
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - R. Conlin et al.
+  
+  - title: Tearing Mode Avoidance Using Reinforcement Learning And Classical Delta Prime Stability Analysis On Diii-D
+    type: Presentations
+    category: Machine Learning
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - A. Rothstein
+    - J. Seo
+    - R. Shousha
+    - A. Jalalvand
+    - R. Conlin
+    - E. Kolemen
+  
+  - title: Tungsten Mesh Material Analysis And Assessment Of Droplet Ejection Reduction
+    type: Presentations
+    category: Liquid Metals
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - D. Vergara et al.
+  
+  - title: Valuing Shorter Maintenance Cycles And Operational Flexibility For Fusion Plants
+    type: Presentations
+    category: Special Topics
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DPP
+    authors:
+    - J. Schwartz et al.
+  
+  - title: Numerical Simulation Of Free Surface Liquid Metal Flows Using Freemhd For Nuclear Fusion Applications
+    type: Presentations
+    category: Liquid Metals
+    date: '2023-11-01'
+    pdf_file_name: ''
+    context: APS-DFD
+    authors:
+    - B. Wynne et al.
+  
+  - title: Near-Axis Constrained Equilibria With The Desc Code
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-12-01'
+    pdf_file_name: ''
+    context: Simons Hidden Symmetries ANU Retreat
+    authors:
+    - D. Panici
+    - D. Dudt
+    - R. Conlin
+    - E. Rodriguez
+    - E. Kolemen
+  
+  - title: Generating A Database Of Omnigenous Equilibria With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-12-01'
+    pdf_file_name: ''
+    context: Simons-ANU
+    authors:
+    - R. Gaur
+    - D. Dudt
+    - R. Conlin
+    - D. Panici
+    - A. Rothstein
+    - E. Kolemen
+
+    ### Same day addition, these ones have files ###
+
+  - title: Highest Fusion Performance Without Harmful Edge Energy Bursts In Tokamak
+    type: Presentations
+    category: Controls and Optimization
+    date: '2024-05-01'
+    pdf_file_name: 'Highest Fusion Performance without Harmful Edge Energy Bursts in Tokamak.pdf'
+    context: Nature Communications
+    authors:
+    - S.K. Kim et al.
+  
+  - title: 'Diag2Diag: Multi Modal Super Resolution For Physics Discovery With Application To Fusion'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2024-06-01'
+    pdf_file_name: 'Diag2Diag_Nature_2024.pdf'
+    context: Nature (Under Interal Review)
+    authors:
+    - A. Jalalvand
+    - M. Curie
+    - S.K. Kim
+    - P. Steiner
+    - J. Seo
+    - Q. Hu
+    - A. O. Nelson
+    - E. Kolemen
+  
+  - title: Single-Torus-Liquid-Metal-Coil Fusion Device To Obtain All Stellarator And Tokamak Configurations
+    type: Presentations
+    category: Special Topics
+    date: '2024-10-01'
+    pdf_file_name: 'Princeton-96601-Application-Receipt.pdf'
+    context: Provisional Patent
+    authors:
+    - E. Kolemen
+    - F. Saenz Castro
+    - D. Panici
+    - R. Majeski
+  
+  - title: Large-Database Cross-Verification And Validation Of Tokamak Transport Models Using Baselines For Comparison
+    type: Presentations
+    category: Special Topics
+    date: '2024-04-01'
+    pdf_file_name: 'Large-Database Cross-Verification and Validation of Tokamak Transport Models Using Baselines for Comparison.pdf'
+    context: Physics of Plasma
+    authors:
+    - J. Abbate
+    - E. Fable
+    - B. Grierson
+    - A. Pankin
+    - G. Tardini
+    - E. Kolemen
+  
+  - title: Optimizing And Enriching Plasma Diagnostics With A Data Centric Approach For Fusion Reactors
+    type: Presentations
+    category: Controls and Optimization
+    date: '2024-08-01'
+    pdf_file_name: 'ICDDPS-2024-Aza.pdf'
+    context: 
+    authors:
+    - A. Jalalvand
+    - S. K. Kim
+    - J. Seo
+    - Q. Hu
+    - M. Curie
+    - P. Steiner
+    - A. O. Nelson
+    - Y. S. Na
+    - E. Kolemen
+  
+  - title: Neoclassical Tearing Mode Control By Electron Cyclotron Current Drive Using Dynamic Alignment To Access Higher Performance
+    type: Presentations
+    category: Controls and Optimization
+    date: '2013-06-01'
+    pdf_file_name: 'rf_sorrento_2013_ntm_kolemen_vs4.pdf'
+    context: IEEE-RF
+    authors:
+    - E. Kolemen
+    - A. S. Welander
+    - R. J. La Haye
+    - N. W. Eidietis
+    - D. A. Humphreys
+    - J. Lohr
+    - V. Noraky
+    - B. G. Penaflor
+    - R. Prater
+    - F. Turco
+
+  - title: Detecting Elm Originated By Sawtooth At DIII-D
+    type: Presentations
+    category: Special Topics
+    date: '2023-11-01'
+    pdf_file_name: 'Minseok Kim_2023_APS-DPP_poster.pdf'
+    context: 65th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+    - M. Kim
+    - R. Shousha
+    - A. Jalalvand
+    - S. Kim
+    - M. Curie
+    - E. Kolemen
+
+  - title: Alfvén Eigenmode Detection Using Long-Short Term Memory Networks And Co2 Interferometer Data On The Diii-D National Fusion Facility
+    type: Presentations
+    category: Machine Learning
+    date: '2023-06-01'
+    pdf_file_name: 'Garcia_2023_IJCNN_Talk.pdf'
+    context: International Joint Conference on Neural Networks (IJCNN)
+    authors:
+    - Alvin V. Garcia
+    - A. Jalalvand
+    - P. Steiner
+    - A. Rothstein
+    - M. V. Zeeland
+    - W. W. Heidbrink
+    - E. Kolemen
+
+  - title: Helical Coil Design In Desc
+    type: Presentations
+    category: Special Topics
+    date: '2023-01-01'
+    pdf_file_name: 'Panici_APS_2023_Coils_Poster_Better.pptx.pdf'
+    context: 65th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+    - D. Panici
+    - R. Conlin
+    - T. Elder
+    - R. Gaur
+    - D. Dudt
+    - T. Shpigel
+    - I. Gissis
+    - N. Snir
+    - Y. Nikulshin
+    - E. Kolemen
+
+  - title: Accurate ECH Deposition With Real-Time Torbeam And ECH Mirror Feedback Control
+    type: Presentations
+    category: Controls and Optimization
+    date: '2024-07-01'
+    pdf_file_name: 'SET_Rothstein_20240725.pdf'
+    context: DIII-D SET Meeting
+    authors:
+    - A. Rothstein
+    - K. Erickson
+    - S.K. Kim
+    - A. Bortolon
+    - E. Kolemen
+
+  - title: 'Ai-Based Prediction And Control Of Tokamaks: Combining Simulations And Experimental Data'
+    type: Presentations
+    category: Machine Learning
+    date: '2024-03-01'
+    pdf_file_name: 'abbate_defense.pdf'
+    context: Dissertation Defense
+    authors:
+    - J. Abbate et al.
+
+  - title: Stellarator Equilibrium And Optimization With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2024-02-01'
+    pdf_file_name: 'Panici_stellarator_AST558_seminar_2_16_24.pdf'
+    context: 
+    authors:
+    - D. Panici
+    - D. Dudt
+    - R. Conlin
+    - P. Kim
+    - R. Gaur
+    - Y. Gunsur Elmacioglu
+    - K. Orr
+    - E. Rodriguez
+    - E. Kolemen
+
+  - title: Stabilizing Tokamak Plasmas With Ml-Based Feedback Control
+    type: Presentations
+    category: Machine Learning
+    date: '2024-02-01'
+    pdf_file_name: 'Rothstein_stabilizing_tokamak_plasmas_2024.pdf'
+    context: 
+    authors:
+    - A. Rothstein
+    - B. J. Abbate
+    - J. Seo
+    - H. Farre
+    - C. I. Char
+    - R. Shousha
+    - A. Jalalvand
+    - D. S.K. Kim
+    - E. Kolemen
+
+  - title: Experiments And Freemhd Simulations Of Free-Surface Liquid Metal Flows
+    type: Presentations
+    category: Liquid Metals
+    date: '2024-03-01'
+    pdf_file_name: 'Wynne_US_Japan_LMPFC_2024.pdf'
+    context: 
+    authors:
+    - B. Wynne
+    - F. Saenz
+    - J. Al-Salami
+    - Z. Sun
+    - C. Hu
+    - K. Hanada
+    - Y. Xu
+    - E. Kolemen
+
+  - title: Physics And Machine Learning Based Approaches To Stability Analysis And Control On Diii-D
+    type: Presentations
+    category: Machine Learning
+    date: '2020-11-01'
+    pdf_file_name: '[41] Rory Conlin et al. “Physics and Machine Learning Based Approaches to Stability Analysis and Control on DIII-D”.pdf'
+    context: APS-DPP Meeting
+    authors:
+    - R. Conlin
+    - J. Abbate
+    - K. Erickson
+    - A. S. Glasser
+    - A. Wu
+    - A. Iqtidar
+    - E. Kolemen
+
+  - title: 'Desc: An Efficient Stellarator Equilibrium Code'
+    type: Presentations
+    category: Controls and Optimization
+    date: '2020-11-01'
+    pdf_file_name: '[48] Daniel Dudt and Egemen Kolemen. “DESC, An Efficient Stellarator Equilibrium Code”.pdf'
+    context: APS DPP
+    authors:
+    - D. Dudt
+    - E. Kolemen
+
+  - title: Efficient Stellarator Optimization And Analysis With Desc
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: '[50] Daniel Dudt et al. “Efficient Stellarator Optimization and Analysis with DESC”.pdf'
+    context: APS DPP
+    authors:
+    - D. Dudt
+    - R. Conlin
+    - D. Panici
+    - P. Kim
+    - K. Unalmis
+    - E. Kolemen
+
+  - title: Omnigenity Optimization
+    type: Presentations
+    category: Controls and Optimization
+    date: '2023-12-01'
+    pdf_file_name: '[51] Daniel Dudt et al. “Omnigenity Optimization”.pdf'
+    context: Simons Retreat
+    authors:
+    - D. Dudt
+    - A. Goodman
+    - R. Conlin
+    - D. Panici
+    - R. Gaur
+    - E. Kolemen
+
+  - title: Modeling And Control Of Plasma Rotation For Nstx Using Neoclassical Toroidal Viscosity (Ntv) And Neutral Beam Injection (Nbi)
+    type: Presentations
+    category: Controls and Optimization
+    date: '2015-01-01'
+    pdf_file_name: '[96] Imene Goumiri et al. “Modeling and control of plasma rotation for NSTX using Neoclassical Toroidal Viscosity (NTV) and Neutral Beam Injection (NBI)”.pdf'
+    context: APS DPP
+    authors:
+    - I. R. Goumiri
+    - C. W. Rowley
+    - S. A. Sabbagh
+    - D. A. Gates
+    - S. P. Gerhardt
+    - E. Kolemen
+    - K. Taira
+
+  - title: Physics-Based Control-Oriented Modeling Of The Current Profile Evolution In Nstx-Upgrade
+    type: Presentations
+    category: Controls and Optimization
+    date: '2013-11-01'
+    pdf_file_name: '[125] Zeki Ilhan et al. “Physics-based Control-oriented Modeling of the Current Profile Evolution in NSTX-Upgrade”.pdf'
+    context: 55th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+    - Z. Ilhan
+    - J. Barton
+    - W. Shi
+    - E. Schuster
+    - D. Gates
+    - S. Gerhardt
+    - E. Kolemen
+    - J. Menard
+
+  - title: Optimizing Edge Confinement And Stability Via Adaptive Elm Control Using Rmps
+    type: Presentations
+    category: Controls and Optimization
+    date: '2021-11-01'
+    pdf_file_name: '[154] SangKyeun Kim et al. “Optimizing edge confinement and stability via adaptive ELM control using RMPs”.pdf'
+    context: APS-DPP 2021
+    authors:
+    - S. K. Kim et al.
+
+  - title: 'Flit: Flowing Liquid Metal Torus'
+    type: Presentations
+    category: Liquid Metals
+    date: '2017-11-01'
+    pdf_file_name: '[194] Egemen Kolemen et al. “FLIT; Flowing LIquid metal Torus”.pdf'
+    context: IAEA Divertor Workshop
+    authors:
+    - E. Kolemen et al.
+
+  - title: Transient-Free Operations With Physics-Based Real-Time Analysis And Control
+    type: Presentations
+    category: Controls and Optimization
+    date: '2016-11-01'
+    pdf_file_name: '[206] Egemen Kolemen et al. “Transient-Free Operations With Physics-Based Real-time Analysis and Control”.pdf'
+    context: APS Division of Plasma Physics Meeting
+    authors:
+    - E. Kolemen et al.
+
+  - title: The Universality Of Inter-Elm Pedestal Fluctuations In Aug And Diii-D
+    type: Presentations
+    category: Special Topics
+    date: '2018-10-01'
+    pdf_file_name: '[215] FM LAGGNER et al. “THE UNIVERSALITY OF INTER-ELM PEDESTAL FLUCTUATIONS IN AUG AND DIII-D”.pdf'
+    context: 27th IAEA Fusion Energy Conference
+    authors:
+    - F. M. Laggner et al.
+
+  - title: Status And Progress Of The Domestic Liquid Metal Plasma-Facing Component Design Program
+    type: Presentations
+    category: Liquid Metals
+    date: '2020-11-01'
+    pdf_file_name: '[225] R Maingi et al. “Status and Progress of the Domestic Liquid Metal Plasma-Facing Component Design Program”.pdf'
+    context: Magnetic Fusion Science Meeting
+    authors:
+    - R. Maingi
+    - A. Khodak
+    - E. Kolemen
+    - C. Kessel
+    - J. Jun
+    - J. Lore
+    - B. Pint
+    - D. Youchison
+    - S. Smolentsev
+    - D. Andruczyk
+    - D. Curreli
+
+  - title: Pedestal Fueling Variation In A Closed Divertor Configuration At Diii-D
+    type: Presentations
+    category: Special Topics
+    date: '2018-11-01'
+    pdf_file_name: '[247] Andrew Nelson et al. “Pedestal fueling variation in a closed divertor configuration at DIII-D”.pdf'
+    context: 60th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+    - A. O. Nelson
+    - E. Kolemen
+    - F. M. Laggner
+    - O. Izacard
+    - R. Groebner
+    - D. Eldon
+    - M. W. Shafer
+    - A. Leonard
+    - D. Shiraki
+    - A. C. Sontag
+
+  - title: Investigating Elm Pacing By Vertical Oscillations On DIII-D
+    type: Presentations
+    category: Special Topics
+    date: '2021-11-01'
+    pdf_file_name: '[262] Dario Panici et al. “Investigating ELM Pacing by Vertical Oscillations on DIII-D”.pdf'
+    context: APS Division of Plasma Physics Meeting
+    authors:
+    - D. Panici
+    - A. O. Nelson
+    - F. Laggner
+    - E. Kolemen
+
+  - title: Progress In Disruption Prevention For ITER
+    type: Presentations
+    category: Special Topics
+    date: '2018-10-01'
+    pdf_file_name: '[326] EJ STRAIT et al. “PROGRESS IN DISRUPTION PREVENTION OV-4- 5 FOR ITER”.pdf'
+    context: 
+    authors:
+    - E. J. Strait et al.
+
+  - title: Development Of The Nstx-U Advanced Divertor Control
+    type: Presentations
+    category: Controls and Optimization
+    date: '2016-11-01'
+    pdf_file_name: '[332] Patrick Vail and Egemen Kolemen. “Development of the NSTX-U Advanced Divertor Control”.pdf'
+    context: 
+    authors:
+    - P. Vail
+    - E. Kolemen
+
+  - title: Nstx-U Feedforward Shape Control And Neural Net Dynamics Modeling
+    type: Presentations
+    category: Special Topics
+    date: '2021-11-01'
+    pdf_file_name: '[341] J Wai, MD Boyer, and E Kolemen. “NSTX-U feedforward shape control and neural net dynamics modeling”.pdf'
+    context: 
+    authors:
+    - J. Wai
+    - M. D. Boyer
+    - E. Kolemen
+
+  - title: Feedforward+Feedback Shape Control Design On Nstx-U
+    type: Presentations
+    category: Controls and Optimization
+    date: '2022-10-01'
+    pdf_file_name: '[342] J Wai et al. “Feedforward+ feedback shape control design on NSTXU”.pdf'
+    context: 
+    authors:
+    - J. Wai
+    - M. D. Boyer
+    - W. Wehner
+    - A. S. Welander
+    - E. Kolemen
+
+  - title: System Modeling, Validation, And Design Of Shape Controllers For Nstx
+    type: Presentations
+    category: Special Topics
+    date: '2011-11-01'
+    pdf_file_name: '[352] ML Walker et al. “System modeling, validation, and design of shape controllers for NSTX”.pdf'
+    context: 
+    authors:
+    - M. L. Walker
+    - D. A. Humphreys
+    - N. W. Eidietis
+    - J. A. Leuer
+    - A. S. Welander
+    - E. Kolemen
