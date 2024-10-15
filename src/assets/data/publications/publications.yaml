@@ -579,7 +579,7 @@ publications:
       - et al.
 
   - title: High Internal Inductance for Steady-State Operation
-      in Iter and a Reactor
+      in ITER and a Reactor
     type: Papers
     category: Special Topics
     date: '2015-06-01'
@@ -3721,7 +3721,7 @@ publications:
     - R. Conlin
     - E. Kolemen
   
-  - title: Feedback Adaptive Elm Control Towards (Iter) Long Pulse Elm Suppression And Its Application To Kstar
+  - title: Feedback Adaptive Elm Control Towards (ITER) Long Pulse Elm Suppression And Its Application To KSTAR
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
@@ -3822,7 +3822,7 @@ publications:
     - Z. Sun
     - E. Kolemen
   
-  - title: Improved Real-Time Equilibrium Reconstruction With Kinetic Constraints On Diii-D
+  - title: Improved Real-Time Equilibrium Reconstruction With Kinetic Constraints On DIII-D
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
@@ -3952,7 +3952,7 @@ publications:
     - D. Panici
     - and E. Kolemen
   
-  - title: Adaptive Elm Control And Its Application To Integrated Long-Pulse Rmp Scenarios In Kstar
+  - title: Adaptive Elm Control And Its Application To Integrated Long-Pulse Rmp Scenarios In KSTAR
     type: Presentations
     category: Controls and Optimization
     date: '2022-08-01'
@@ -4030,7 +4030,7 @@ publications:
     - B. Wynne
     - E. Kolemen
   
-  - title: Classifying And Locating Alfvén Eigenmodes Based On Ece Diagnostics At Diii-D Using Neural Networks
+  - title: Classifying And Locating Alfvén Eigenmodes Based On Ece Diagnostics At DIII-D Using Neural Networks
     type: Presentations
     category: Machine Learning
     date: '2022-09-01'
@@ -4048,7 +4048,7 @@ publications:
     - W. W. Heidbrink
     - E. Kolemen
   
-  - title: Nonlinear Mhd Modeling Of N=1 Rmp Effect On The Pedestal In Kstar
+  - title: Nonlinear Mhd Modeling Of N=1 Rmp Effect On The Pedestal In KSTAR
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
@@ -4144,7 +4144,7 @@ publications:
     - M. Lagieski
     - E. Kolemen
   
-  - title: Improved Real-Time Equilibrium Reconstruction With Kinetic Constraints On Diii-D And Nstx-U
+  - title: Improved Real-Time Equilibrium Reconstruction With Kinetic Constraints On DIII-D And Nstx-U
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
@@ -4193,7 +4193,7 @@ publications:
     - N.C. Logan
     - E. Kolemen
   
-  - title: Nonlinear Mhd Modeling On Rmp-Induced Pump-Out Under The Kstar Geometry
+  - title: Nonlinear Mhd Modeling On Rmp-Induced Pump-Out Under The KSTAR Geometry
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
@@ -4254,7 +4254,7 @@ publications:
     - W.H. Ko
     - E. Kolemen
   
-  - title: 'Alfvénnet: Data-Driven Prediction And Control Of Alfvén Eigenmodes At Diii-D'
+  - title: 'Alfvénnet: Data-Driven Prediction And Control Of Alfvén Eigenmodes At DIII-D'
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
@@ -4340,7 +4340,7 @@ publications:
     - G. Tardini
     - E. Kolemen
   
-  - title: Nonlinear Mhd Modeling On Rmp-Induced Pump-Out In Kstar With Realistic Tokamak Geometry
+  - title: Nonlinear Mhd Modeling On Rmp-Induced Pump-Out In KSTAR With Realistic Tokamak Geometry
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
@@ -4424,7 +4424,7 @@ publications:
     - E. Rodriguez
     - E. Kolemen
   
-  - title: Feedback Adaptive Rmp Elm Control On Diii-D And Kstar Towards Robust, Performance Optimized Long Pulse Elm Suppression
+  - title: Feedback Adaptive Rmp Elm Control On DIII-D And KSTAR Towards Robust, Performance Optimized Long Pulse Elm Suppression
     type: Presentations
     category: Controls and Optimization
     date: '2023-01-01'
@@ -4587,7 +4587,7 @@ publications:
     - E. Kolemen
     - J. Schneider
   
-  - title: Deep Neural Network Based Real-Time Elm Prediction And Reconstruction Of Turbulent Flow Based On The Diii-D Bes Measurement
+  - title: Deep Neural Network Based Real-Time Elm Prediction And Reconstruction Of Turbulent Flow Based On The DIII-D Bes Measurement
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
@@ -4642,7 +4642,7 @@ publications:
     - Y. Nikulshin
     - E. Kolemen
   
-  - title: Highlights Of Kstar-Pppl Collaborations On 3D Fields, Disruptions, Control, And Impurity Powder Dropper
+  - title: Highlights Of KSTAR-Pppl Collaborations On 3D Fields, Disruptions, Control, And Impurity Powder Dropper
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
@@ -4651,7 +4651,7 @@ publications:
     authors:
     - J. Snipes et al.
   
-  - title: Identification Of Alfvén Eigenmodes Using Recurrent Neural Networks, A Labelled Database And Co2 Interferometer Data On Diii-D
+  - title: Identification Of Alfvén Eigenmodes Using Recurrent Neural Networks, A Labelled Database And Co2 Interferometer Data On DIII-D
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
@@ -4660,7 +4660,7 @@ publications:
     authors:
     - A. Garcia et al.
   
-  - title: Implementing Data-Driven Models For Real-Time Detection And Control Of Alfvén Eigenmodes At Diii-D
+  - title: Implementing Data-Driven Models For Real-Time Detection And Control Of Alfvén Eigenmodes At DIII-D
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
@@ -4669,7 +4669,7 @@ publications:
     authors:
     - A. Jalalvand et al.
   
-  - title: Integrated Process For Enhancing The Normalized Beta During N = 1 Rmp-Driven Elm-Crash-Suppression Phase In Kstar
+  - title: Integrated Process For Enhancing The Normalized Beta During N = 1 Rmp-Driven Elm-Crash-Suppression Phase In KSTAR
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
@@ -4720,7 +4720,7 @@ publications:
     authors:
     - E. Kolemen et al.
   
-  - title: Real-Time Plasma Confinement Mode Classification With Deep Neural Networks And High-Bandwidth Edge Fluctuation Measurements In Diii-D
+  - title: Real-Time Plasma Confinement Mode Classification With Deep Neural Networks And High-Bandwidth Edge Fluctuation Measurements In DIII-D
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
@@ -4747,7 +4747,7 @@ publications:
     authors:
     - R. Conlin et al.
   
-  - title: Tearing Mode Avoidance Using Reinforcement Learning And Classical Delta Prime Stability Analysis On Diii-D
+  - title: Tearing Mode Avoidance Using Reinforcement Learning And Classical Delta Prime Stability Analysis On DIII-D
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
@@ -4917,7 +4917,7 @@ publications:
     - M. Curie
     - E. Kolemen
 
-  - title: Alfvén Eigenmode Detection Using Long-Short Term Memory Networks And Co2 Interferometer Data On The Diii-D National Fusion Facility
+  - title: Alfvén Eigenmode Detection Using Long-Short Term Memory Networks And Co2 Interferometer Data On The DIII-D National Fusion Facility
     type: Presentations
     category: Machine Learning
     date: '2023-06-01'
@@ -5022,7 +5022,7 @@ publications:
     - Y. Xu
     - E. Kolemen
 
-  - title: Physics And Machine Learning Based Approaches To Stability Analysis And Control On Diii-D
+  - title: Physics And Machine Learning Based Approaches To Stability Analysis And Control On DIII-D
     type: Presentations
     category: Machine Learning
     date: '2020-11-01'
@@ -5133,7 +5133,7 @@ publications:
     authors:
     - E. Kolemen et al.
 
-  - title: The Universality Of Inter-Elm Pedestal Fluctuations In Aug And Diii-D
+  - title: The Universality Of Inter-Elm Pedestal Fluctuations In Aug And DIII-D
     type: Presentations
     category: Special Topics
     date: '2018-10-01'
@@ -5161,7 +5161,7 @@ publications:
     - D. Andruczyk
     - D. Curreli
 
-  - title: Pedestal Fueling Variation In A Closed Divertor Configuration At Diii-D
+  - title: Pedestal Fueling Variation In A Closed Divertor Configuration At DIII-D
     type: Presentations
     category: Special Topics
     date: '2018-11-01'
