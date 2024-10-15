@@ -133,6 +133,26 @@ research_staff:
       (3) Design, propose, and conduct experiments in DIII-D (future).'
     photo_file_name: Max_Curie.jpg
 
+  - name: Ricardo Shousha
+    title: Postdoctoral Researcher
+    description: 'Ricardo Shousha is a postdoctoral researcher
+      specializing in plasma control systems at the Princeton
+      Plasma Physics Laboratory (PPPL). He holds a Ph.D. from
+      Princeton University’s Department of Mechanical and Aerospace
+      Engineering, where he focused on advancing plasma control
+      techniques deployed on the DIII-D and KSTAR tokamaks. At
+      PPPL, Ricardo is developing the plasma control system infrastructure
+      for LTX-beta, marking a transition from feedforward to feedback
+      control mechanisms in plasma research capabilities for LTX-beta.
+      His research interests extend to applying machine learning
+      tools in plasma diagnostics and control, including in collaborations
+      with teams working on the DIII-D and KSTAR projects. '
+    emails:
+      - rshousha@pppl.gov
+      - rshousha@princeton.edu
+    photo_file_name: Ricardo_Shousha.02
+    google_scholar_url: https://scholar.google.com/citations?user=HBWNz8UAAAAJ&hl=en
+    github_username: https://github.com/rshoushaprinceton
 graduate_students:
   - name: Dario Panici
     title: 4th Year Graduate Student
