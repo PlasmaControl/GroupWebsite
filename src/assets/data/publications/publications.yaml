@@ -3102,4 +3102,11 @@ publications:
     context:
     authors:
       - Z. A. Xing et al.
- 
+  - title: sdf
+    type: Presentations
+    category: Liquid Metals
+    authors:
+      - sdfsdf
+    date: '2024-10-18'
+    context: sdfdsf
+    pdf_file_name: Introduction to Kokkos.pdf
