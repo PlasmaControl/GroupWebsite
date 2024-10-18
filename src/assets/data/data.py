@@ -34,7 +34,7 @@ class Publication(BaseModel):
     authors: list[str]
     date: str
     context: Optional[str] = None
-    pdf_file_name: str
+    pdf_file_name: Optional[str] = None
 
     @functools.cached_property
     def date_object(self) -> Date:
@@ -67,7 +67,10 @@ class Publication(BaseModel):
     @functools.cached_property
     def pdf_url(self) -> str:
         """Return the URL of the PDF file."""
-        return f"https://plasmacontrol.github.io/GroupWebsite/assets/data/publications/pdfs/{self.pdf_file_name}"
+        if self.pdf_file_name is None:
+            return None
+        else:
+            return f"https://plasmacontrol.github.io/GroupWebsite/assets/data/publications/pdfs/{self.pdf_file_name}"
 
     @pydantic.field_validator("date")
     @classmethod
@@ -84,10 +87,13 @@ class Publication(BaseModel):
     @classmethod
     def validate_pdf_exists(cls, pdf_file_name: str) -> str:
         """Validate that the PDF file exists."""
+        if pdf_file_name is None:
+            return pdf_file_name
+
         pdf_file_path = (
             pathlib.Path(__file__).parent / "publications" / "pdfs" / pdf_file_name
         )
-        if not pdf_file_path.exists():
+        if not pdf_file_path.exists() and pdf_file_path.is_file():
             raise FileNotFoundError(f"The file {pdf_file_name} does not exist!")
 
         return pdf_file_name

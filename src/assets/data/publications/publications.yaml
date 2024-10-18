@@ -3109,7 +3109,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2017-01-01'
-    pdf_file_name: ''
     context: 'PPPL SULI Program'
     authors:
       - D. Patel
@@ -3121,7 +3120,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2017-01-01'
-    pdf_file_name: ''
     context: 'PPPL SULI Program'
     authors:
       - G. Bruhaug
@@ -3133,7 +3131,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2017-01-01'
-    pdf_file_name: ''
     context: 'PPPL SULI Program'
     authors:
       - N. Barbour
@@ -3145,7 +3142,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2017-10-01'
-    pdf_file_name: ''
     context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
     authors:
       - A. E. Fisher et al.
@@ -3154,7 +3150,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2017-10-01'
-    pdf_file_name: ''
     context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
     authors:
       - F. M. Laggner et al.
@@ -3163,7 +3158,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2017-10-01'
-    pdf_file_name: ''
     context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
     authors:
       - M. A. Roelofs et al.
@@ -3172,7 +3166,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2017-10-01'
-    pdf_file_name: ''
     context: '59th Annual Meeting of the APS Division of Plasma Physics, Milwaukee, WI'
     authors:
       - P. J. Vail et al.
@@ -3181,7 +3174,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2018-01-01'
-    pdf_file_name: ''
     context: 'General Examination, Department of Mechanical and Aerospace Engineering, Princeton, NJ'
     authors:
       - T. Chen
@@ -3190,7 +3182,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2018-01-01'
-    pdf_file_name: ''
     context: 'PPPL SULI Program'
     authors:
       - J. Butt
@@ -3200,7 +3191,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2018-03-01'
-    pdf_file_name: ''
     context: 'Machine Learning in Plasma Physics, Princeton Plasma Physics Laboratory, Princeton, NJ'
     authors:
       - Y. Fu et al.
@@ -3209,7 +3199,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2018-03-01'
-    pdf_file_name: ''
     context: 'Princeton Innovation Forum, Princeton University, Princeton, NJ'
     authors:
       - M. G. Hvasta
@@ -3221,7 +3210,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2018-05-01'
-    pdf_file_name: ''
     context: 'Invited Speaker, Round table on Climate Engineering and Religion, Princeton, NJ'
     authors:
       - E. Kolemen
@@ -3230,7 +3218,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2018-06-01'
-    pdf_file_name: ''
     context: '23rd International Conference on Plasma Surface Interactions in Controlled Fusion Devices, Princeton, NJ'
     authors:
       - F. M. Laggner
@@ -3241,7 +3228,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2018-06-01'
-    pdf_file_name: ''
     context: '23rd International Conference on Plasma Surface Interactions in Controlled Fusion Devices, Princeton, NJ'
     authors:
       - A. E. Fisher
@@ -3252,7 +3238,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2018-06-01'
-    pdf_file_name: ''
     context: '23rd International Conference on Plasma Surface Interactions in Controlled Fusion Devices, Princeton, NJ'
     authors:
       - P. J. Vail
@@ -3263,7 +3248,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2018-11-01'
-    pdf_file_name: ''
     context: 'Invited Speaker, MHD Workshop, Los Angeles, CA'
     authors:
       - E. Kolemen
@@ -3272,7 +3256,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2018-11-01'
-    pdf_file_name: ''
     context: 'Invited Speaker, APS-DPP, Portland, OR'
     authors:
       - E. Kolemen
@@ -3281,7 +3264,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2018-11-01'
-    pdf_file_name: ''
     context: '60th Annual Meeting of the APS Division of Plasma Physics, Portland, OR'
     authors:
       - F. M. Laggner
@@ -3297,7 +3279,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2019-02-01'
-    pdf_file_name: ''
     context: 'Oroshhi-2 Workshop, Toki, Japan'
     authors:
       - A. E. Fisher
@@ -3307,7 +3288,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-06-01'
-    pdf_file_name: ''
     context: 'Andlinger Center for Energy and the Environment E-ffiliates 2019 retreat, Princeton, NJ'
     authors:
       - J. Abbate
@@ -3319,7 +3299,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-09-01'
-    pdf_file_name: ''
     context: 'ISHW 2019, Madison, WI'
     authors:
       - D. Dudt
@@ -3329,7 +3308,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2019-09-01'
-    pdf_file_name: ''
     context: 'ISLA 2019, University of Illinois Urbana-Champaign, IL'
     authors:
       - A. E. Fisher
@@ -3345,7 +3323,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: '24th Workshop on MHD Stability Control, New York City, NY'
     authors:
       - J. Wai
@@ -3356,7 +3333,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: '24th Workshop on MHD Stability Control, New York City, NY'
     authors:
       - A. O. Nelson
@@ -3369,7 +3345,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2019-10-01'
-    pdf_file_name: ''
     context: '24th Workshop on MHD Stability Control, New York City, NY'
     authors:
       - J. Abbate
@@ -3381,7 +3356,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: '24th Workshop on MHD Stability Control, New York City, NY'
     authors:
       - D. Dudt
@@ -3391,7 +3365,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: '24th Workshop on MHD Stability Control, New York City, NY'
     authors:
       - D. Dudt
@@ -3401,7 +3374,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: '24th Workshop on MHD Stability Control, New York City, NY'
     authors:
       - R. Conlin
@@ -3412,7 +3384,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: 'APS DPP, Fort Lauderdale, FL'
     authors:
       - A. O. Nelson
@@ -3424,7 +3395,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2019-10-01'
-    pdf_file_name: ''
     context: 'APS DPP, Fort Lauderdale, FL'
     authors:
       - J. Abbate
@@ -3436,7 +3406,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: 'APS DPP, Fort Lauderdale, FL'
     authors:
       - J. Wai
@@ -3448,7 +3417,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: 'APS DPP, Fort Lauderdale, FL'
     authors:
       - R. Conlin
@@ -3460,7 +3428,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: 'APS DPP, Fort Lauderdale, FL'
     authors:
       - D. Dudt
@@ -3470,7 +3437,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2019-10-01'
-    pdf_file_name: ''
     context: 'HMWS 2019, Shanghai, China'
     authors:
       - A. O. Nelson
@@ -3490,7 +3456,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2020-10-01'
-    pdf_file_name: ''
     context: 'APS-GEC (virtual)'
     authors:
       - T. Chen
@@ -3503,7 +3468,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2020-10-01'
-    pdf_file_name: ''
     context: 'PPPL SULI Program'
     authors:
       - M. Wolff
@@ -3515,7 +3479,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2020-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (virtual)'
     authors:
       - A. Jalalvand
@@ -3528,7 +3491,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2020-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (virtual)'
     authors:
       - J. Wai
@@ -3542,7 +3504,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2020-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (virtual)'
     authors:
       - Z. Xing
@@ -3558,7 +3519,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2020-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (virtual)'
     authors:
       - A. O. Nelson
@@ -3571,7 +3531,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2020-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (virtual)'
     authors:
       - E. Kolemen
@@ -3584,7 +3543,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2020-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (virtual)'
     authors:
       - R. Shousha
@@ -3598,7 +3556,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-03-01'
-    pdf_file_name: ''
     context: 'IAEA-FEC (virtual)'
     authors:
       - S. K. Kim
@@ -3620,7 +3577,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-04-01'
-    pdf_file_name: ''
     context: 'IPP MHD Topical Group'
     authors:
       - D. Dudt
@@ -3632,7 +3588,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-04-01'
-    pdf_file_name: ''
     context: 'Plenary Talk at TTF'
     authors:
       - A. O. Nelson
@@ -3647,7 +3602,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-05-01'
-    pdf_file_name: ''
     context: 'PPPL Stellarator Seminar'
     authors:
       - R. Conlin
@@ -3659,7 +3613,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-09-01'
-    pdf_file_name: ''
     context: 'AAPPS-DPP (Virtual)'
     authors:
       - S. K. Kim
@@ -3680,7 +3633,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2021-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (Virtual)'
     authors:
       - E. Kolemen
@@ -3696,7 +3648,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: 'APS-DPP (Virtual)'
     authors:
       - A. Jalalvand
@@ -3714,7 +3665,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - J. A. Abbate
@@ -3725,7 +3675,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - R. Shousha
@@ -3742,7 +3691,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - D. W. Dudt
@@ -3754,7 +3702,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - J. T. Wai
@@ -3768,7 +3715,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - A. Rothstein
@@ -3780,7 +3726,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - R. Conlin
@@ -3793,7 +3738,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - D. Panici
@@ -3805,7 +3749,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - B. R. Wynne
@@ -3815,7 +3758,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - F. Saenz
@@ -3826,7 +3768,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - R. Shousha
@@ -3840,7 +3781,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2021-11-01'
-    pdf_file_name: ''
     context: APS-DPP (Virtual)
     authors:
     - J. T. Wai
@@ -3851,7 +3791,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2021-12-01'
-    pdf_file_name: ''
     context: SOFE (Virtual)
     authors:
     - Z. Sun
@@ -3863,7 +3802,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-01-01'
-    pdf_file_name: ''
     context: PPPL Stellarator Seminar
     authors:
     - D. Panici
@@ -3875,7 +3813,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2022-03-01'
-    pdf_file_name: ''
     context: The 2nd US-Japan Workshop (virtual)
     authors:
     - E. Kolemen
@@ -3888,7 +3825,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2022-04-01'
-    pdf_file_name: ''
     context: PPPL Monthly Science Meeting
     authors:
     - J.T. Wai
@@ -3899,7 +3835,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2022-05-01'
-    pdf_file_name: ''
     context: DIII-D Friday Science & Engineering Technology (FSET) meeting
     authors:
     - J.T. Wai
@@ -3910,7 +3845,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2022-06-01'
-    pdf_file_name: ''
     context: Technology of Fusion Energy (TOFE) ANS meeting
     authors:
     - F. Saenz
@@ -3922,7 +3856,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-06-01'
-    pdf_file_name: ''
     context: CIEMAT Presentation
     authors:
     - D. Dudt
@@ -3934,7 +3867,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-07-01'
-    pdf_file_name: ''
     context: ITER Summer School on Plasma Operating Scenarios and Control, San Diego CA
     authors:
     - E. Kolemen
@@ -3943,7 +3875,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-07-01'
-    pdf_file_name: ''
     context: Princeton Univeristy Summer Research Colloquium
     authors:
     - K. Unalmis
@@ -3956,7 +3887,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-08-01'
-    pdf_file_name: ''
     context: iFPC
     authors:
     - S.K. Kim
@@ -3977,7 +3907,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-08-01'
-    pdf_file_name: ''
     context: iFPC
     authors:
     - R. Shousha
@@ -3997,7 +3926,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-08-01'
-    pdf_file_name: ''
     context: Conference on Computational Physics 2022, Virtual
     authors:
     - D. Panici
@@ -4009,7 +3937,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-08-01'
-    pdf_file_name: ''
     context: Conference on Computational Physics 2022, Virtual
     authors:
     - R. Conlin
@@ -4021,7 +3948,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2022-09-01'
-    pdf_file_name: ''
     context: 32nd SOFT Conference
     authors:
     - F. Saenz
@@ -4034,7 +3960,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2022-09-01'
-    pdf_file_name: ''
     context: 32nd SOFT Conference
     authors:
     - A. Jalalvand
@@ -4052,7 +3977,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: ITPA-PEP meeting
     authors:
     - S.K. Kim
@@ -4077,7 +4001,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - J. Wai
@@ -4090,7 +4013,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - K.E. Unalmis
@@ -4104,7 +4026,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - P. Kim
@@ -4117,7 +4038,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - R. Conlin
@@ -4132,7 +4052,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - J.T. Wai
@@ -4148,7 +4067,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - R. Shousha
@@ -4162,7 +4080,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - A. Rothstein
@@ -4176,7 +4093,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS DPP
     authors:
     - R. Shousha
@@ -4197,7 +4113,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - S.K. Kim
@@ -4217,7 +4132,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2022-10-01'
-    pdf_file_name: ''
     context: MHD Workshop
     authors:
     - J. Seo
@@ -4237,7 +4151,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: MHD Workshop
     authors:
     - S.K. Kim
@@ -4258,7 +4171,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - A. Jalalvand
@@ -4275,7 +4187,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - F. Saenz
@@ -4288,7 +4199,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - J. Schwartz
@@ -4300,7 +4210,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - B. Wynne
@@ -4312,7 +4221,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - D. Panici
@@ -4326,7 +4234,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - J. Abbate
@@ -4344,7 +4251,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-10-01'
-    pdf_file_name: ''
     context: 6th Asia-Pacific Conference on Plasma Physics
     authors:
     - S.K. Kim
@@ -4364,7 +4270,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2022-10-01'
-    pdf_file_name: ''
     context: 6th Asia-Pacific Conference on Plasma Physics
     authors:
     - F. Saenz
@@ -4379,7 +4284,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2022-10-01'
-    pdf_file_name: ''
     context: PPPL Monthly Research Meeting
     authors:
     - J. Schwartz
@@ -4391,7 +4295,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2022-12-01'
-    pdf_file_name: ''
     context: ISLA-7
     authors:
     - F. Saenz
@@ -4404,7 +4307,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-01-01'
-    pdf_file_name: ''
     context: DIII-D Friday Science Meeting
     authors:
     - J. Seo
@@ -4415,7 +4317,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-01-01'
-    pdf_file_name: ''
     context: SPECtaculars Meeting
     authors:
     - D. Panici
@@ -4428,7 +4329,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-01-01'
-    pdf_file_name: ''
     context: PPPL Monthly
     authors:
     - R. Shousha
@@ -4456,7 +4356,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-01-01'
-    pdf_file_name: ''
     context: The 5th Annual Learning for Dynamics and Control Conference (PMLR)
     authors:
     - I. Char et al.
@@ -4465,7 +4364,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-01-01'
-    pdf_file_name: ''
     context: NeurIPS
     authors:
     - V. Mehta
@@ -4482,7 +4380,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2023-02-01'
-    pdf_file_name: ''
     context: US-Japan and International Workshop on Power and Particle Control in DEMO Fusion Reactor by Liquid Metal Plasma-Facing Components
     authors:
     - F. Saenz
@@ -4503,7 +4400,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-03-01'
-    pdf_file_name: ''
     context: Simons NYC Meeting
     authors:
     - E. Kolemen
@@ -4519,7 +4415,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-05-01'
-    pdf_file_name: ''
     context: Sherwood Fusion Theory Meeting
     authors:
     - D. Panici
@@ -4534,7 +4429,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-05-01'
-    pdf_file_name: ''
     context: Transport Task Force
     authors:
     - Joe Abbate
@@ -4547,7 +4441,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-10-01'
-    pdf_file_name: ''
     context: DPP
     authors:
     - R. Gaur
@@ -4563,7 +4456,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - M. Curie
@@ -4575,7 +4467,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - V. Mehta
@@ -4591,7 +4482,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - S. Joung
@@ -4610,7 +4500,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - R. Gaur et al.
@@ -4619,7 +4508,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - F. Saenz et al.
@@ -4628,7 +4516,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - D. Panici
@@ -4646,7 +4533,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - J. Snipes et al.
@@ -4655,7 +4541,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - A. Garcia et al.
@@ -4664,7 +4549,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - A. Jalalvand et al.
@@ -4673,7 +4557,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - K. Minwoo et al.
@@ -4682,7 +4565,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - D. Panici
@@ -4695,7 +4577,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - T. Shpigel
@@ -4706,7 +4587,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - J. Abbate et al.
@@ -4715,7 +4595,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - E. Kolemen et al.
@@ -4724,7 +4603,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - K. Gill et al.
@@ -4733,7 +4611,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - R. Gaur et al.
@@ -4742,7 +4619,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - R. Conlin et al.
@@ -4751,7 +4627,6 @@ publications:
     type: Presentations
     category: Machine Learning
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - A. Rothstein
@@ -4765,7 +4640,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - D. Vergara et al.
@@ -4774,7 +4648,6 @@ publications:
     type: Presentations
     category: Special Topics
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DPP
     authors:
     - J. Schwartz et al.
@@ -4783,7 +4656,6 @@ publications:
     type: Presentations
     category: Liquid Metals
     date: '2023-11-01'
-    pdf_file_name: ''
     context: APS-DFD
     authors:
     - B. Wynne et al.
@@ -4792,7 +4664,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-12-01'
-    pdf_file_name: ''
     context: Simons Hidden Symmetries ANU Retreat
     authors:
     - D. Panici
@@ -4805,7 +4676,6 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: '2023-12-01'
-    pdf_file_name: ''
     context: Simons-ANU
     authors:
     - R. Gaur

@@ -18,7 +18,7 @@ toc_depth: 1
 #### {{ type }}
 
             {% for publication in publications %}
-- "{{ publication.title }}," {{ publication.author_list }}, {{ publication.context }}, {{ publication.beautiful_date }}, [:fontawesome-regular-file-pdf:]({{ publication.pdf_url }})
+- "{{ publication.title }}," {{ publication.author_list }}, {{ publication.context }}, {{ publication.beautiful_date }}{% if publication.pdf_url %}, [:fontawesome-regular-file-pdf:]({{ publication.pdf_url }}){% endif %}
             {% endfor %}
         {% endfor %}
 
