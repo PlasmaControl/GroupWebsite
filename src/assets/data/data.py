@@ -22,7 +22,7 @@ available_categories = Literal[
     "Special Topics",
 ]
 
-available_types = Literal["Papers", "Presentations"]
+available_types = Literal["Papers", "Presentations", "Patents"]
 
 
 class Publication(BaseModel):
