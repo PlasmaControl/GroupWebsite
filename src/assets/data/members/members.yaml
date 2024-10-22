@@ -135,7 +135,7 @@ research_staff:
 
   - name: Ricardo Shousha
     title: Postdoctoral Researcher
-    description: "Ricardo Shousha is a postdoctoral researcher
+    description: Ricardo Shousha is a postdoctoral researcher
       specializing in plasma control systems at the Princeton
       Plasma Physics Laboratory (PPPL). He holds a Ph.D. from
       Princeton University’s Department of Mechanical and Aerospace
@@ -146,7 +146,7 @@ research_staff:
       control mechanisms in plasma research capabilities for LTX-beta.
       His research interests extend to applying machine learning
       tools in plasma diagnostics and control, including in collaborations
-      with teams working on the DIII-D and KSTAR projects."
+      with teams working on the DIII-D and KSTAR projects.
     emails:
       - rshousha@pppl.gov
       - rshousha@princeton.edu
@@ -333,6 +333,17 @@ undergraduate_students:
   - name: Aly Rashid
     title: Undergraduate Student
 
+  - name: Luc Harbers
+    title: Undergraduate Student
+    description: Luc joined the group as a summer student in 2024.
+      He worked on upgrades for the Liquid Metal eXperiment Upgrade
+      at PPPL. Additionally, he performed preliminary experiments
+      and data analysis on waves in liquid metal flows. Currently,
+      he is working on the design of a small stellarator prototype
+      using one of our patented methods for coil designs.
+    emails:
+      - harbers@princeton.edu
+    photo_file_name: Luc_Harbers.webp
 visiting_scholars:
   - name: Andrea Hernandez
     title: Visiting Scholar
