@@ -38,8 +38,8 @@
 .md-header__button.md-logo svg {
   height: 2.6rem;
 }
-// To make anchor links work with the increased logo size:
-// For PC screens:
+/* To make anchor links work with the increased logo size:
+For PC screens: */
 :target {
 }
 @media (min-width: 1220px) {
@@ -54,6 +54,7 @@
   height: auto;
   width: 100%;
   overflow: hidden;
+  text-align: center;
 }
 /* Post title image settings */
 
