@@ -1,5 +1,5 @@
 ---
-date: 2024-02-10
+date: 2024-04-29
 authors:
   - plasmacontrol
 categories:
@@ -9,7 +9,7 @@ categories:
 # Controlling Fusion Reactor Instability with Deep Reinforcement Learning with Aza Jalalvand
 
 <div class="post-title-image" markdown="span">
-![](images/aza.png)
+![](images/controlling_fusion_reactor_instability_with_deep_reinforcement_learning_with_aza_jalalvand.png)
 </div>
 
 Watch PCG Research Scientist Aza Jalalvand talk about machine learning and fusion on the TWIML podcast.

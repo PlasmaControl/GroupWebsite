@@ -1,15 +1,15 @@
 ---
-date: 2024-02-10
+date: 2024-03-28
 authors:
   - plasmacontrol
 categories:
   - News
 ---
 
-# Using AI to wrangle fusion energy
+# SJTU/USTC Colloquia on AI for Fusion
 
 <div class="post-title-image" markdown="span">
-![](images/Screenshot 2024-10-23 192350.png)
+![](images/SJTU_colloquia_on_AI_for_fusion.png)
 </div>
 
 Talk given by Dr. Egemen Kolemen during the 3/28/2024 colloquia co-hosted by the Institute of Natural Sciences of SJTU, and the School of Nuclear Science and Technology of USTC.
