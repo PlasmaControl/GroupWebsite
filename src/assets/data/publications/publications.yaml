@@ -4521,6 +4521,18 @@ publications:
     - B. G. Penaflor
     - R. Prater
     - F. Turco
+  
+  - title: Lithium Experimental Application Platform (LEAP)
+    type: Presentations
+    category: Controls and Optimization
+    date: '2024-08-06'
+    pdf_file_name: LEAP_talk_7_31.pdf
+    authors:
+    - Y. Xu
+    - Y. Momozaki
+    - M. Hvasta
+    - E. Kolemen
+    - R. Maingi
 
   - title: Detecting ELM Originated By Sawtooth At DIII-D
     type: Presentations
