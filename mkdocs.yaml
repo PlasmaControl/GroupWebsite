@@ -48,8 +48,7 @@ theme:
     - content.code.annotate # allow annotations in code blocks
 
 nav:
-  - Home:
-      - index.md
+  - Home: index.md
   - Research:
       - Research: research/index.md
       - Machine Learning Control of Fusion:
@@ -83,6 +82,8 @@ plugins:
       post_date_format: long
       archive_toc: false
       categories_toc: false
+      archive: false
+      categories: false
       pagination_per_page: 12
       categories_allowed:
         - News
