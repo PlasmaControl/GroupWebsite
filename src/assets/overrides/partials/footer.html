@@ -16,32 +16,10 @@
   >
     <div class="md-grid">
       <ul class="md-tabs__list">
-        <li class="md-tabs__item">
-          <a
-            href="{{site_url}}/GroupWebsite/research/"
-            class="md-tabs__link"
-          >
-            Research
-          </a>
-        </li>
-
-        <li class="md-tabs__item">
-          <a
-            href="{{site_url}}/GroupWebsite/members/"
-            class="md-tabs__link"
-          >
-            Members
-          </a>
-        </li>
-
-        <li class="md-tabs__item">
-          <a
-            href="{{site_url}}/GroupWebsite/publications/"
-            class="md-tabs__link"
-          >
-            Publications
-          </a>
-        </li>
+        {% import "partials/tabs-item.html" as item with context %}
+        {% for nav_item in nav %}
+            {{ item.render(nav_item) }}
+        {% endfor %}
       </ul>
     </div>
   </nav>
