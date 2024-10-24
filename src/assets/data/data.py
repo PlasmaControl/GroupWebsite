@@ -139,7 +139,15 @@ def group_publications_by_type(
     publications: list[Publication],
 ) -> dict[str, list[Publication]]:
     """Group the publications by type."""
-    return group_publications(publications, "type")
+    grouped_publications = group_publications(publications, "type")
+    # Sort it as "Papers", "Presentations", "Patents", and any other type
+    sorted_grouped_publications = {}
+    for publication_type in get_args(available_types):
+        if publication_type in grouped_publications:
+            sorted_grouped_publications[publication_type] = grouped_publications[
+                publication_type
+            ]
+    return sorted_grouped_publications
 
 
 def group_publications_by_category(
