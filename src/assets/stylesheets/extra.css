@@ -207,10 +207,17 @@ For PC screens: */
 .md-typeset .past-member-grid > ul > li {
   background-color: #e4efeb60;
   border-radius: 10px;
-  display: block;
+  display: grid;
   margin: 0;
   padding: 0.8rem;
   text-align: center;
+  aspect-ratio: 1 / 1.2;
+}
+
+.md-typeset .past-member-grid > ul > li > p {
+    overflow: hidden;
+    display: block;
+    height: inherit;
 }
 
 .md-typeset .past-member-grid > ul > li > hr {
@@ -228,13 +235,8 @@ For PC screens: */
 
 .md-typeset .past-member-grid > ul > li :last-child {
   width: 100%;
-  aspect-ratio: 1;
-  overflow: hidden;
 }
 
-.md-typeset .past-member-grid > ul > li > p > img {
-  object-fit: cover;
-}
 /* For members page  */
 
 /* For footer logo */
