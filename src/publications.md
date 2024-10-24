@@ -1,6 +1,4 @@
 ---
-hide:
- - navigation
 disable_comments: true
 toc_depth: 1
 ---

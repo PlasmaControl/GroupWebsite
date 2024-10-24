@@ -159,4 +159,4 @@ extra:
       link: https://github.com/PlasmaControl
 
 hooks:
-  - src/assets/hooks/archive_and_category_pages.py
+  - src/assets/hooks/hook.py

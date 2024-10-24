@@ -1,7 +1,6 @@
 ---
 toc_depth: 0
 hide:
-- navigation
 - toc
 disable_comments: true
 ---
