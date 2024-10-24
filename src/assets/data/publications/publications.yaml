@@ -4492,7 +4492,6 @@ publications:
     category: Controls and Optimization
     date: '2024-08-01'
     pdf_file_name: 'ICDDPS-2024-Aza.pdf'
-    context: 
     authors:
     - A. Jalalvand
     - S. K. Kim
@@ -4595,7 +4594,6 @@ publications:
     category: Controls and Optimization
     date: '2024-02-01'
     pdf_file_name: 'Panici_stellarator_AST558_seminar_2_16_24.pdf'
-    context: 
     authors:
     - D. Panici
     - D. Dudt
@@ -4612,7 +4610,6 @@ publications:
     category: Machine Learning
     date: '2024-02-01'
     pdf_file_name: 'Rothstein_stabilizing_tokamak_plasmas_2024.pdf'
-    context: 
     authors:
     - A. Rothstein
     - B. J. Abbate
@@ -4629,7 +4626,6 @@ publications:
     category: Liquid Metals
     date: '2024-03-01'
     pdf_file_name: 'Wynne_US_Japan_LMPFC_2024.pdf'
-    context: 
     authors:
     - B. Wynne
     - F. Saenz
@@ -4814,7 +4810,6 @@ publications:
     category: Controls and Optimization
     date: '2016-11-01'
     pdf_file_name: '[332] Patrick Vail and Egemen Kolemen. “Development of the NSTX-U Advanced Divertor Control”.pdf'
-    context: 
     authors:
     - P. Vail
     - E. Kolemen
@@ -4824,7 +4819,6 @@ publications:
     category: Special Topics
     date: '2021-11-01'
     pdf_file_name: '[341] J Wai, MD Boyer, and E Kolemen. “NSTX-U feedforward shape control and neural net dynamics modeling”.pdf'
-    context: 
     authors:
     - J. Wai
     - M. D. Boyer
@@ -4835,7 +4829,6 @@ publications:
     category: Controls and Optimization
     date: '2022-10-01'
     pdf_file_name: '[342] J Wai et al. “Feedforward+ feedback shape control design on NSTXU”.pdf'
-    context: 
     authors:
     - J. Wai
     - M. D. Boyer
@@ -4848,7 +4841,6 @@ publications:
     category: Special Topics
     date: '2011-11-01'
     pdf_file_name: '[352] ML Walker et al. “System modeling, validation, and design of shape controllers for NSTX”.pdf'
-    context: 
     authors:
     - M. L. Walker
     - D. A. Humphreys
