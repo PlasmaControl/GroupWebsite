@@ -30,8 +30,8 @@ disable_comments: true
 
     ---
 
-    [:octicons-arrow-right-24: DESC](stellarator_field_optimization/desc.md) (Open Source on [GitHub](https://github.com/PlasmaControl/DESC))
-
+    [:octicons-arrow-right-24: DESC](stellarator_field_optimization/desc.md)
+    
 -   **Liquid Metal Experiments and Simulations**
 
     ---
