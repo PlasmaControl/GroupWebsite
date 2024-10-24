@@ -1,9 +1,8 @@
-site_name: Plasma Control Group
+site_name: Plasma Control Group - Princeton University
 site_url: https://control.princeton.edu/
 site_author: Plasma Control Group
 site_description: Plasma Control Group at Princeton University
-copyright: Copyright &copy; 2024 Plasma Control Group
-docs_dir: src
+copyright: Copyright &copy; 2025 Plasma Control Group
 
 theme:
   name: material
@@ -11,7 +10,7 @@ theme:
   favicon: assets/images/favicon_logo.png
   language: en
   locale: en
-  custom_dir: src/assets/overrides
+  custom_dir: docs/assets/overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -49,24 +48,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Research:
-      - Research: research/index.md
-      - Machine Learning Control of Fusion:
-          - Machine Learning for Real Time Control: research/machine_learning_control_of_fusion/machine_learning_for_real_time_control.md
-          - X-Divertor Control for ITER: research/machine_learning_control_of_fusion/x_divertor_control_for_iter.md
-          - DIII-D Tokamak: research/machine_learning_control_of_fusion/diii_d_tokamak.md
-          - National Spherical Torus Experiment (NSTX): research/machine_learning_control_of_fusion/national_spherical_torus_experiment_nstx.md
-          - Korea Superconducting Tokamak Advanced Research (KSTAR): research/machine_learning_control_of_fusion/korea_superconducting_tokamak_advanced_research_kstar.md
-      - Stellarator Field Optimization:
-          - DESC: research/stellarator_field_optimization/desc.md
-      - Liquid Metal Experiments and Simulations:
-          - Liquid Metals for Fusion Applications: research/liquid_metal_experiments_and_simulations/liquid_metals_for_fusion_applications.md
-          - Lithium Experimental Application Platform (LEAP): research/liquid_metal_experiments_and_simulations/lithium_experimental_application_platform_leap.md
-          - Flowing Liquid Metal Torus (FLIT): research/liquid_metal_experiments_and_simulations/flowing_liquid_metal_torus_flit.md
-      - Low Temperature Plasma Diagnostics:
-          - Laser Diagnostics: research/low_temperature_plasma_diagnostics/laser_diagnostics.md
-      - Fusion Systems, Costing, and Valuation:
-          - FAROES and GenX: research/fusion_systems_costing_and_valuation/faroes_and_genx.md
+  - Research: research/index.md
   - Members: members.md
   - Publications: publications.md
   - Gallery: gallery.md
@@ -90,7 +72,7 @@ plugins:
         - Hiring
 
   - bibtex: # https://github.com/shyamd/mkdocs-bibtex
-      bib_file: src/assets/data/bibliography.bib
+      bib_file: docs/assets/data/bibliography.bib
       bib_by_default: false
 
   - caption: # https://github.com/tobiasah/mkdocs-caption
@@ -107,7 +89,7 @@ plugins:
       comments_path: "#__comments"
 
   - macros: # https://github.com/fralau/mkdocs-macros-plugin
-      module_name: src/assets/data/data
+      module_name: docs/assets/data/data
 
   # Redirect the old pages to the new ones:
   - redirects:
@@ -159,4 +141,4 @@ extra:
       link: https://github.com/PlasmaControl
 
 hooks:
-  - src/assets/hooks/archive_and_category_pages.py
+  - docs/assets/hooks/hook.py

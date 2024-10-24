@@ -30,7 +30,9 @@ There are two ways of updating the website:
 
 To get started, follow the steps below:
 
-1.  Ensure that you have Python version 3.12 or higher.
+1. Install [Hatch](https://hatch.pypa.io/latest/). The installation guide for Hatch can be found [here](https://hatch.pypa.io/latest/install/#installation).
+   
+    Hatch is a Python project manager. It mainly allows you to define the virtual environments you need in [`pyproject.toml`](https://github.com/PlasmaControl/HTSCC/blob/main/pyproject.toml). Then, it takes care of the rest. Also, you don't need to install Python. Hatch will install it when you follow the steps below.
 2.  Fork the repository and clone it with the following command.
     ```
     git clone https://github.com/YOURUSERNAME/GroupWebsite.git
@@ -39,28 +41,23 @@ To get started, follow the steps below:
     ```
     cd GroupWebsite
     ```
-4.  Create a virtual environment.
+4. Start using one of the virtual environments by activating it in the terminal.
+
+    Default development environment with Python 3.13:
+    ```bash
+    hatch shell
     ```
-    python -m venv .venv
+5. Finally, activate the virtual environment in your integrated development environment (IDE). In Visual Studio Code:
+
+    - Press `Ctrl+Shift+P`.
+    - Type `Python: Select Interpreter`.
+    - Select the virtual environment created by Hatch.
+
+6.  Run the following command.
     ```
-5.  Activate the virtual environment.
-    -  Windows
-        ```
-        .venv\Scripts\activate
-        ```
-    -  MacOS and Linux
-        ```
-        source .venv/bin/activate
-        ```
-7.  Install the requirements to the virtual environment with the following command.
+    hatch run serve
     ```
-    pip install -r requirements.txt
-    ```
-9.  Run the following command.
-    ```
-    mkdocs serve
-    ```
-10. Then, go to [http://127.0.0.1:8000](http://127.0.0.1:8000/) and see your changes in real time. You can now start working on the website.
+7. Then, go to [http://127.0.0.1:8000](http://127.0.0.1:8000/) and see your changes in real time. You can now start working on the website.
 
 ### Adding or editing a new page
 
