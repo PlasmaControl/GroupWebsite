@@ -40,6 +40,10 @@ research_staff:
       magnetic confinement devices to produce controlled thermonuclear
       fusion power.
     photo_file_name: Azarakhsh_Jalalvand.jpg
+    orcid_id: 0000-0001-8739-1793
+    google_scholar_url: https://scholar.google.be/citations?user=Kb2NDK0AAAAJ&hl=en
+    emails:
+      - azarakhsh.jalalvand@princeton.edu
 
   - name: SangKyeun Kim
     title: Research Scientist
@@ -55,6 +59,10 @@ research_staff:
       for 3D control, ELM suppression, and boundary control, contributing
       to advancements in these fields.
     photo_file_name: SangKyeun_Kim.jpg
+    orcid_id: 0000-0002-0701-8962
+    google_scholar_url: https://scholar.google.be/citations?hl=en&user=5kZ9lDkAAAAJ
+    emails:
+      - skim2@pppl.gov
 
   - name: CheolSik Byun
     title: Postdoctoral Researcher
@@ -70,6 +78,8 @@ research_staff:
       utilizing RT-bolometer to manage heat loads on the plasma-facing
       components in KSTAR.
     photo_file_name: CheolSik_Byun.jpg
+    emails:
+      - cb3887@princeton.edu
 
   - name: Alvin Garcia
     title: Postdoctoral Researcher
@@ -85,6 +95,10 @@ research_staff:
       dangerous Alfvén eigenmodes on DIII-D as a contributing
       member of the Plasma Control Group.
     photo_file_name: Alvin_Garcia.jpg
+    google_scholar_url: https://scholar.google.be/citations?hl=en&user=3345y6IAAAAJ
+    orcid_id: 0000-0001-8647-2727
+    emails:
+      - ag6990@princeton.edu
 
   - name: Yufan Xu
     title: Postdoctoral Researcher
@@ -100,6 +114,10 @@ research_staff:
       validating liquid metal plasma facing component designs
       for fusion devices.
     photo_file_name: Yufan_Xu.jpg
+    orcid_id: 0000-0001-9123-124X
+    google_scholar_url: https://scholar.google.com/citations?user=YJtUZ8UAAAAJ&hl=en&oi=sra
+    emails:
+      - yxu@pppl.gov
 
   - name: Rahul Gaur
     title: Postdoctoral Researcher
@@ -110,7 +128,11 @@ research_staff:
       of Maryland, College Park where he investigated the effect
       of ideal MHD and kinetic instabilities on high-beta tokamak
       and stellarator equilibria.
+    google_scholar_url: https://scholar.google.com/citations?user=cq_lJXEAAAAJ&hl=en
+    orcid_id: 0000-0003-4367-9052
     photo_file_name: Rahul_Gaur.jpg
+    emails:
+      - rg6256@princeton.edu
 
   - name: Peter Steiner
     title: Postdoctoral Researcher
@@ -123,6 +145,10 @@ research_staff:
       data-driven models for plasma control and signal processing
       methods for different plasma diagnostics.
     photo_file_name: Peter_Steiner.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=wQLTh3MAAAAJ&hl=en&oi=ao
+    orcid_id: 0000-0002-8149-2275
+    emails:
+      - peter.steiner@princeton.edu
 
   - name: Max Curie
     title: Postdoctoral Researcher
@@ -132,6 +158,10 @@ research_staff:
       for Tokamak. (2) Signal processing for the spectral diagnostics.
       (3) Design, propose, and conduct experiments in DIII-D (future)."
     photo_file_name: Max_Curie.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=-eY7buUAAAAJ&hl=en
+    orcid_id: 0000-0002-6856-8730
+    emails:
+      - max.curie@princeton.edu
 
   - name: Ricardo Shousha
     title: Postdoctoral Researcher
@@ -153,6 +183,7 @@ research_staff:
     photo_file_name: Ricardo_Shousha.png
     google_scholar_url: https://scholar.google.com/citations?user=HBWNz8UAAAAJ&hl=en
     github_username: rshoushaprinceton
+    orcid_id: 0000-0003-1498-8980
 graduate_students:
   - name: Dario Panici
     title: 4th Year Graduate Student
@@ -165,6 +196,10 @@ graduate_students:
       equilibria, as well as helical coil design and connections
       between 3D global MHD equilibria and the near-axis expansion.
     photo_file_name: Dario_Panici.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=c60cmk4AAAAJ&hl=en
+    orcid_id: 0000-0003-0736-4360
+    emails:
+      - dpanici@princeton.edu
 
   - name: Francisco Saenz
     title: 4th Year Graduate Student
@@ -179,6 +214,10 @@ graduate_students:
       he works on simulations of free-surface liquid metal flows
       for MHD drag calculations.
     photo_file_name: Francisco_Saenz.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=um0cflQAAAAJ&hl=en
+    orcid_id: 0000-0001-7456-590X
+    emails:
+      - fcastro@princeton.edu
 
   - name: Brian Wynne
     title: 3rd Year Graduate Student
@@ -191,6 +230,10 @@ graduate_students:
       free surface flow, as well as designing a magnetically driven
       centrifuge for lithium hydride separation from liquid lithium.
     photo_file_name: Brian_Wynne.jpg
+    google_scholar_url: https://scholar.google.com/citations?hl=en&user=pCcoQswAAAAJ
+    orcid_id: 0000-0002-0593-2195
+    emails:
+      - brianwynne@princeton.edu
 
   - name: Andy Rothstein
     title: 3rd Year Graduate Student
@@ -203,6 +246,10 @@ graduate_students:
       from Caltech and while performing research in astrodynamics
       and quantum optics.
     photo_file_name: Andy_Rothstein.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=aEnzWKUAAAAJ&hl=en&oi=sra
+    orcid_id: 0000-0003-2183-0997
+    emails:
+      - arothstein@princeton.edu
 
   - name: Jalal Butt
     title: 2nd Year Graduate Student
@@ -215,6 +262,10 @@ graduate_students:
       scientist at NASA Goddard Space Flight Center on novel satellite
       remote sensing techniques.
     photo_file_name: Jalal _Butt.jpg
+    google_scholar_url: https://scholar.google.com/citations?hl=en&user=psOMdeQAAAAJ
+    orcid_id: 0000-0002-3322-6060
+    emails:
+      - jb108@princeton.edu
 
   - name: Minseok Kim
     title: 2nd Year Graduate Student
@@ -229,12 +280,12 @@ graduate_students:
       in Physics and Artificial Intelligence at Korea University
       and a Master's in Nuclear and Quantum Engineering at KAIST
       for Nuclear Fusion energy.
+    google_scholar_url: https://scholar.google.com/citations?hl=en&user=TffO2hcAAAAJ
+    orcid_id: 0009-0002-1664-6618
     emails:
       - mseokim@princeton.edu
     photo_file_name: Minseok_Kim.jpg
     cv_file_name: Minseok_Kim_CV.pdf
-    google_scholar_url: https://scholar.google.com/citations?hl=en&user=TffO2hcAAAAJ
-    orcid_id: 0009-0002-1664-6618
   - name: Yigit Gunsur Elmacioglu
     title: 1st Year Graduate Student
     description: Yigit is an incoming PhD student in the Mechanical
@@ -246,6 +297,9 @@ graduate_students:
       grid region. In the Kolemen group, he will work on plasma
       simulations for stellarators.
     photo_file_name: Yigit_Gunsur_Elmacioglu.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=lMQMhWwAAAAJ&hl=en
+    emails:
+      - ye2698@princeton.edu
 
   - name: Sina Atalay
     title: 1st Year Graduate Student
@@ -277,6 +331,10 @@ graduate_students:
       Bachelor's and Master's degrees in Physics from the University
       of Cambridge.
     photo_file_name: Hiro_Farre.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=9LNRcfcAAAAJ&hl=en
+    orcid_id: 0009-0004-3640-4557
+    emails:
+      - hiro.farre@princeton.edu
 
   - name: Nathaniel Chen
     title: 1st Year Graduate Student
@@ -286,6 +344,8 @@ graduate_students:
       of California, Los Angeles. He works on machine learning
       and diagnostics in the plasma control group.
     photo_file_name: Nathaniel_Chen.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=rvhhTTUAAAAJ&hl=en
+    orcid_id: 0000-0001-8362-414X
 
 undergraduate_students:
   - name: Kaya Unalmis
@@ -297,6 +357,8 @@ undergraduate_students:
       and optimization code. Outside of research, Kaya enjoys
       swimming and lifting.
     photo_file_name: Kaya_Unalmis.jpg
+    google_scholar_url: https://scholar.google.com/citations?user=0UE19kAAAAAJ&hl=en&oi=ao
+    orcid_id: 0000-0002-1755-6764
 
   - name: Felipe De Bolle
     title: Undergraduate Student
