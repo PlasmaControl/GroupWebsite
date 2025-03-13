@@ -285,7 +285,6 @@ graduate_students:
     emails:
       - mseokim@princeton.edu
     photo_file_name: Minseok_Kim.jpg
-    cv_file_name: Minseok_Kim_CV.pdf
   - name: Yigit Gunsur Elmacioglu
     title: 1st Year Graduate Student
     description: Yigit is an incoming PhD student in the Mechanical
