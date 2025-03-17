@@ -3,6 +3,7 @@ site_url: https://control.princeton.edu/
 site_author: Plasma Control Group
 site_description: Plasma Control Group at Princeton University
 copyright: Copyright &copy; 2025 Plasma Control Group
+docs_dir: plasmacontrolwebsite
 
 theme:
   name: material
@@ -10,7 +11,7 @@ theme:
   favicon: assets/images/favicon_logo.png
   language: en
   locale: en
-  custom_dir: docs/assets/overrides
+  custom_dir: plasmacontrolwebsite/assets/overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -72,7 +73,7 @@ plugins:
         - Hiring
 
   - bibtex: # https://github.com/shyamd/mkdocs-bibtex
-      bib_file: docs/assets/data/bibliography.bib
+      bib_file: plasmacontrolwebsite/assets/data/bibliography.bib
       bib_by_default: false
 
   - caption: # https://github.com/tobiasah/mkdocs-caption
@@ -89,7 +90,7 @@ plugins:
       comments_path: "#__comments"
 
   - macros: # https://github.com/fralau/mkdocs-macros-plugin
-      module_name: docs/assets/data/data
+      module_name: plasmacontrolwebsite/assets/data/data
 
   # Redirect the old pages to the new ones:
   - redirects:
@@ -141,4 +142,4 @@ extra:
       link: https://github.com/PlasmaControl
 
 hooks:
-  - docs/assets/hooks/hook.py
+  - plasmacontrolwebsite/assets/hooks/hook.py
