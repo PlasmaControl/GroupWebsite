@@ -25,7 +25,7 @@ disable_comments: true
     [:octicons-arrow-right-24: Korea Superconducting Tokamak Advanced Research (KSTAR)](machine_learning_control_of_fusion/korea_superconducting_tokamak_advanced_research_kstar.md)
 
 
--   **Stellarator Field Optimization**
+-   **Stellarator Optimization**
 
     ---
 

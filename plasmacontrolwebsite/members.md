@@ -13,24 +13,28 @@ disable_comments: true
 
 {% for person in people %}
 
-### {{ person.name }} {% if people_category not in ["Principal Investigator"] %}({{ person.title }}) {% endif %}
+<div class="member-wrapper">
+    <h3 id="{{ person.h3_id }}">
+        {{ person.name }} {% if people_category not in ["Principal Investigator"] %}({{ person.title }}) {% endif %}
+        <a class="headerlink" href="#{{ person.h3_id }}" title="Permanent link">¶</a>
+    </h3>
 
-<div class="member-container">
-    <div class="member-photo">
-        <img src="../{{ person.photo_url }}">
+    <div class="member-container">
+        <div class="member-photo">
+            <img src="../{{ person.photo_url }}">
 
-        {% if person.links %}<p>{{ person.links }}</p>{% endif %}
-    </div>
+            {% if person.links %}<p>{{ person.links }}</p>{% endif %}
+        </div>
 
-    <div class="member-description" markdown="span">
-<p>{{ person.description }}</p>
+        <div class="member-description" markdown="span">
+    <p>{{ person.description }}</p>
 
-{% if person.emails != [] %}
-<p><strong>Contact: </strong>{{ person.emails_html_urls }}</p>
-{% endif %}
+    {% if person.emails != [] %}
+    <p><strong>Contact: </strong>{{ person.emails_html_urls }}</p>
+    {% endif %}
+        </div>
     </div>
 </div>
-
 {% endfor %}
 
 {% endif %}

@@ -202,6 +202,12 @@ class Member(BaseModel):
         return None
 
     @functools.cached_property
+    def h3_id(self) -> str | None:
+        """Return the URL of the member h3."""
+        h3_id = self.name.lower().replace(" ", "-")
+        return h3_id
+
+    @functools.cached_property
     def github_html_url(self) -> str | None:
         """Return the URL of the GitHub profile."""
         if self.github_username is not None:

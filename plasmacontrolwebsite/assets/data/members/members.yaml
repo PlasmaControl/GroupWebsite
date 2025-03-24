@@ -150,19 +150,6 @@ research_staff:
     emails:
       - peter.steiner@princeton.edu
 
-  - name: Max Curie
-    title: Postdoctoral Researcher
-    description: "Max Curie is a postdoc in Princeton University.
-      He received his Ph.D. in physics in the University of Texas
-      at Austin in 2022. His focuses are: (1) End-to-end prediction
-      for Tokamak. (2) Signal processing for the spectral diagnostics.
-      (3) Design, propose, and conduct experiments in DIII-D (future)."
-    photo_file_name: Max_Curie.jpg
-    google_scholar_url: https://scholar.google.com/citations?user=-eY7buUAAAAJ&hl=en
-    orcid_id: 0000-0002-6856-8730
-    emails:
-      - max.curie@princeton.edu
-
   - name: Ricardo Shousha
     title: Postdoctoral Researcher
     description: Ricardo Shousha is a postdoctoral researcher
@@ -301,14 +288,13 @@ graduate_students:
 
   - name: Sina Atalay
     title: 1st Year Graduate Student
-    description: Sina is an incoming PhD student in the Mechanical
+    description: Sina is a 1st year PhD student in the Mechanical
       and Aerospace Engineering department. He completed his bachelor's
       degree in Mechanical Engineering at Bogazici University
       in Istanbul. Following his undergraduate studies, he worked
       at CERN as a technical student, focusing on modeling and
-      simulating the quench of superconducting coils. In his upcoming
-      work with the Plasma Control Group, he will concentrate
-      on stellarator optimization and superconductivity.
+      simulating the quench of superconducting coils. In his the Plasma Control Group, 
+      he will concentrate on stellarator optimization and superconductivity.
     emails:
       - sina.atalay@princeton.edu
     photo_file_name: Sina_Atalay.jpg
@@ -344,6 +330,15 @@ graduate_students:
     photo_file_name: Nathaniel_Chen.jpg
     google_scholar_url: https://scholar.google.com/citations?user=rvhhTTUAAAAJ&hl=en
     orcid_id: 0000-0001-8362-414X
+
+  - name: Logan Klinger
+    title: 1st Year Graduate Student
+    description: Logan is a first-year graduate student in the
+      Mechanical and Aerospace Engineering department.  In the Kolemen
+      group, he is working on liquid metals.
+    photo_file_name: Klinger_Logan.jpg
+    emails:
+      -  lk8655@princeton.edu
 
 undergraduate_students:
   - name: Kaya Unalmis
@@ -522,3 +517,5 @@ past_members:
     photo_file_name: Gerrit_Bruhaug.jpg
   - name: Dhruval Patel
     photo_file_name: Dhruval_Patel.jpg
+  - name: Max Curie
+    photo_file_name: Max_Curie.jpg

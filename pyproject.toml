@@ -9,7 +9,7 @@ packages = ["plasmacontrolwebsite"]
 name = 'plasmacontrolwebsite'
 authors = [{ name = 'Sina Atalay', email = 'dev@atalay.biz' }]
 readme = "README.md"
-requires-python = '>=3.13'
+requires-python = '>=3.11'
 dependencies = [
     "mkdocs-material==9.6.7",
     "mkdocs-bibtex==4.2.2",
