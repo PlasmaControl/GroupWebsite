@@ -97,6 +97,7 @@ plugins:
       redirect_maps:
         people.md: members.md
         group-members.md: members.md
+        desc.md: research/stellarator_field_optimization/desc.md
 
 markdown_extensions:
   # see https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/ for more pymdownx info
