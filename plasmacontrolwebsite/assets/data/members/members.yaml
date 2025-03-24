@@ -186,8 +186,8 @@ research_staff:
     orcid_id: 0000-0003-1498-8980
 graduate_students:
   - name: Dario Panici
-    title: 4th Year Graduate Student
-    description: Dario is a 4th-year graduate student in the MAE
+    title: 5th Year Graduate Student
+    description: Dario is a 5th-year graduate student in the MAE
       department interested in computational plasma physics, especially
       related to fusion energy. He completed his undergraduate
       in Nuclear, Plasma, and Radiological Engineering at UIUC
@@ -202,8 +202,8 @@ graduate_students:
       - dpanici@princeton.edu
 
   - name: Francisco Saenz
-    title: 4th Year Graduate Student
-    description: Francisco is a 4th-year PhD student in the MAE
+    title: 5th Year Graduate Student
+    description: Francisco is a 5th-year PhD student in the MAE
       department interested in computational/experimental liquid
       metal magnetohydrodynamics, especially related to the design
       of plasma-facing component of fusion systems. His undergraduate
@@ -220,8 +220,8 @@ graduate_students:
       - fcastro@princeton.edu
 
   - name: Brian Wynne
-    title: 3rd Year Graduate Student
-    description: Brian is a 3rd year graduate student in MAE.
+    title: 4th Year Graduate Student
+    description: Brian is a 4th year graduate student in MAE.
       Before joining the Kolemen group, he completed his Bachelor's
       Degree in Chemical Engineering at The Ohio State University.
       Brian works with experiments and simulations on LMX-U (Liquid
@@ -236,8 +236,8 @@ graduate_students:
       - brianwynne@princeton.edu
 
   - name: Andy Rothstein
-    title: 3rd Year Graduate Student
-    description: Andy is a 3rd year graduate student in MAE interested
+    title: 4th Year Graduate Student
+    description: Andy is a 4th year graduate student in MAE interested
       in data-driven approaches to plasma control. His work involved
       building machine learning models to find correlations between
       tokamak diagnostics and magnetic instabilities to build
@@ -252,7 +252,7 @@ graduate_students:
       - arothstein@princeton.edu
 
   - name: Jalal Butt
-    title: 2nd Year Graduate Student
+    title: 3rd Year Graduate Student
     description: Jalal studies the 3D field physics of edge-localized
       modes (ELMs) and their control in pursuit of long-pulse
       tokamak operation for KSTAR, ITER and beyond. Before Princeton,
@@ -269,7 +269,7 @@ graduate_students:
 
   - name: Minseok Kim
     title: 2nd Year Graduate Student
-    description: Minseok Kim is a second-year graduate student
+    description: Minseok Kim is a 2nd year graduate student
       in Mechanical and Aerospace Engineering. He has studied
       electron density profile reconstruction using line-averaged
       density information measured by a Two-Colored Interferometer
@@ -286,19 +286,18 @@ graduate_students:
       - mseokim@princeton.edu
     photo_file_name: Minseok_Kim.jpg
   - name: Yigit Gunsur Elmacioglu
-    title: 1st Year Graduate Student
-    description: Yigit is an incoming PhD student in the Mechanical
+    title: 2nd Year Graduate Student
+    description: Yigit is a 2nd year PhD student in the Mechanical
       and Aerospace Engineering department. He completed his bachelor's
       degree in Mechanical Engineering along with a double major
-      in Physics at Bogazici University. During his undergraduate
-      studies, he worked on magnetic guidewire steering in ultrahigh
-      magnetic fields and PIC-DSMC implementation of the ion thruster
-      grid region. In the Kolemen group, he will work on plasma
-      simulations for stellarators.
+      in Physics at Bogazici University. In the Kolemen group, he is working on plasma
+      simulations for stellarators with DESC.
     photo_file_name: Yigit_Gunsur_Elmacioglu.jpg
     google_scholar_url: https://scholar.google.com/citations?user=lMQMhWwAAAAJ&hl=en
+    orcid_id: 0009-0002-7747-2834
+    github_username: YigitElma
     emails:
-      - ye2698@princeton.edu
+      - yigit.elma@princeton.edu
 
   - name: Sina Atalay
     title: 1st Year Graduate Student
@@ -336,8 +335,8 @@ graduate_students:
       - hiro.farre@princeton.edu
 
   - name: Nathaniel Chen
-    title: 1st Year Graduate Student
-    description: Nathan is a PhD student in  the Mechanical and
+    title: 2nd Year Graduate Student
+    description: Nathan is a 2nd year PhD student in  the Mechanical and
       Aerospace Engineering department. He completed his bachelor's
       degree in Physics and Cognitive Science at the University
       of California, Los Angeles. He works on machine learning

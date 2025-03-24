@@ -29,7 +29,7 @@ disable_comments: true
 
     ---
 
-    [:octicons-arrow-right-24: DESC](stellarator_field_optimization/desc.md)
+    [:octicons-arrow-right-24: DESC](stellarator_optimization/desc.md)
     
 -   **Liquid Metal Experiments and Simulations**
 
