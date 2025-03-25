@@ -5,7 +5,7 @@ toc_depth: 1
 
 # Publications
 
-[Find the publications on Google Scholar as well](https://scholar.google.com/citations?hl=en&user=-GHcoUYAAAAJ)
+[Find the publications on Google Scholar as well](https://scholar.google.com/citations?hl=en&user=-GHcoUYAAAAJ&view_op=list_works&sortby=pubdate)
 
 {% for year_of_research in year_of_research_objects() %}
 ## {{ year_of_research.year }}
