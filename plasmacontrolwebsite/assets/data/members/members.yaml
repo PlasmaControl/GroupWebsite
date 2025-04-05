@@ -21,8 +21,7 @@ principal_investigator:
       - ekolemen@princeton.edu
     cv_file_name: Egemen_Kolemen_CV.pdf
     photo_file_name: Egemen_Kolemen.png
-    orcid_id: 0000-0003-4212-3247
-    google_scholar_url: https://scholar.google.com/citations?user=-GHcoUYAAAAJ&hl=en
+    google_scholar_url: https://scholar.google.com/citations?hl=en&user=-GHcoUYAAAAJ&view_op=list_works&sortby=pubdate
 
 research_staff:
   - name: Azarakhsh Jalalvand
