@@ -238,22 +238,6 @@ graduate_students:
     emails:
       - arothstein@princeton.edu
 
-  - name: Jalal Butt
-    title: 3rd Year Graduate Student
-    description: Jalal studies the 3D field physics of edge-localized
-      modes (ELMs) and their control in pursuit of long-pulse
-      tokamak operation for KSTAR, ITER and beyond. Before Princeton,
-      Jalal graduated from Columbia University, where he contributed
-      to the disruption event characterization and forecasting
-      code (DECAF), and CCSU. Jalal also worked as a research
-      scientist at NASA Goddard Space Flight Center on novel satellite
-      remote sensing techniques.
-    photo_file_name: Jalal _Butt.jpg
-    google_scholar_url: https://scholar.google.com/citations?hl=en&user=psOMdeQAAAAJ
-    orcid_id: 0000-0002-3322-6060
-    emails:
-      - jb108@princeton.edu
-
   - name: Minseok Kim
     title: 2nd Year Graduate Student
     description: Minseok Kim is a 2nd year graduate student
