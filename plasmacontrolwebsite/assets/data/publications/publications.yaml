@@ -5049,3 +5049,19 @@ publications:
       - R. Gaur
       - R. Conlin
       - E. Kolemen
+
+  - title: Stellarator Equilibrium and Coil Optimization with DESC
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-04-18"
+    pdf_file_name: "Dario-Panici-talk4.pdf"
+    context: PICSciE Graduate Certificate in Computational Science and Engineering Colloquium April 18 2025
+    authors:
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - Y. G. Elmacioglu
+      - R. Gaur
+      - K. Unalmis
+      - S. Atalay
+      - E. Kolemen
