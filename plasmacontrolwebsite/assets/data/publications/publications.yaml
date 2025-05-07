@@ -4915,3 +4915,21 @@ publications:
       - J. A. Leuer
       - A. S. Welander
       - E. Kolemen
+
+  - title: FreeMHD: Validation and verification of the open-source, multi-domain, multi-phase solver for electrically conductive flows
+    type: Papers
+    category: Liquid Metals
+    date: “2025-01-29”
+    pdf_file_name: “FreeMHD Paper Published 20250129.pdf”
+    context: Nuclear Materials and Energy
+    authors:
+      - B. Wynne
+      - F. Saenz
+      - J. Al-Salami
+      - Y. Xu
+      - Z. Sun
+      - C. Hu
+      - K. Hanada
+      - E. Kolemen
+      - M. G. Hvasta
+      - E. Kolemen
