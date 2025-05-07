@@ -4933,3 +4933,70 @@ publications:
       - E. Kolemen
       - M. G. Hvasta
       - E. Kolemen
+
+  - title: Detecting ELM originated by Sawtooth at DIII-D
+    type: Presentations
+    category: Machine Learning
+    date: "2023-10-30"
+    pdf_file_name: "Poster_Minseok Kim_2023 APS-DPP.pdf"
+    context: 65th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+      - M.Kim
+      - R.Shousha
+      - A.Jalalvand
+      - S.Kim
+      - M.Curie
+      - E.Kolemen
+
+  - title: Autonomous detection and control of Sawtooth instability triggering ELM
+    type: Presentations
+    category: Machine Learning
+    date: "2024-08-13"
+    pdf_file_name: "Poster_Minseok Kim_2024 ICDDPS-5.pdf"
+    context: The 5th International Conference on Data-Driven Plasma Science (ICDDPS-5)
+    authors:
+      - M.Kim
+      - S.Kim
+      - A.Jalalvand
+      - R.Shousha
+      - A.Garcia
+      - M.Curie
+      - J.Butt
+      - E.Kolemen
+
+  - title: Design of a PID controller for the pedestal top electron density at KSTAR
+    type: Presentations
+    category: Controls and Optimization
+    date: "2024-07-10"
+    pdf_file_name: "Poster_Minseok Kim_2024_APS_v2.pdf"
+    context: 66th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+      - M.Kim et al.
+
+  - title: Pedestal-top ne control using RMP at KSTAR
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-02-03"
+    pdf_file_name: "Poster_Minseok Kim_2025_EPFL_v2/.pdf"
+    context: Control & Operation of Tokamaks 2025
+    authors:
+      - M.Kim et al.
+
+  - title: Overview of classical control 
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-02-18"
+    pdf_file_name: "250218_ML_sub_control_overview.pdf"
+    context: Machine Learning subgroup meeting
+    authors:
+      - M.Kim
+      - H.Farre
+
+  - title: Study of real-time ne profile evolution and control
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-25"
+    pdf_file_name: "250325_summary_talk_Minseok_Kim.pdf"
+    context: 2024 KSTAR campaign summary meeting
+    authors:
+      - M.Kim et al.
