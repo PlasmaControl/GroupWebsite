@@ -5002,14 +5002,25 @@ publications:
       - M.Kim et al.
 
   - title: Overview of the Liquid Metal Research for Fusion Applications of the Plasma Control Group at the Princeton Plasma Physics Laboratory
-    type: Papers
+    type: Presentations
     category: Liquid Metals
     date: "2025-09-08"
     pdf_file_name: "ISLA8-Francisco_Saenz.pdf"
-    context: 2024 KSTAR campaign summary meeting
     authors:
       - F. Saenz
       - B. Wynne
       - Y. Xu
       - Z. Sun
+      - E. Kolemen
+
+  - title: Challenges of Long Distance Liquid Metal Flow for Divertors, Improved Design for Divertorlets, and MHD Centrifuge for in situ Li/LiH separation at PPPL
+    type: Presentations
+    category: Liquid Metals
+    date: "2025-02-18"
+    pdf_file_name: "Wynne for Saenz US-Japan 2025 PDF.pdf"
+    authors:
+      - F. Saenz
+      - B. Wynne
+      - L. Klinger
+      - Y. Xu
       - E. Kolemen
