@@ -4916,7 +4916,7 @@ publications:
       - A. S. Welander
       - E. Kolemen
 
-  - title: FreeMHD: Validation and verification of the open-source, multi-domain, multi-phase solver for electrically conductive flows
+  - title: FreeMHD, Validation and verification of the open-source, multi-domain, multi-phase solver for electrically conductive flows
     type: Papers
     category: Liquid Metals
     date: “2025-01-29”
