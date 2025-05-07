@@ -5065,3 +5065,37 @@ publications:
       - K. Unalmis
       - S. Atalay
       - E. Kolemen
+
+  - title: DESC Stellarator Equilibrium and  Optimization Code
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-01" 
+    pdf_file_name: "SIAM_2025_Panici_DESC.pdf"
+    context: SIAM CSE 2025 Fusion Mini-Symposium
+    authors:
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - Y. G. Elmacioglu
+      - R. Gaur
+      - K. Unalmis
+      - S. Atalay
+      - P. Kim
+      - K. Orr
+      - E. Rodriguez
+      - E. Kolemen
+
+  - title: Reconstruction Capabilities in DESC
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-01" 
+    pdf_file_name: "panici_simons_2025_recon_poster_mod0.pdf"
+    context: Simons Hidden Symmetries 2025 Annual Meeting
+    authors:
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - Y. G. Elmacioglu
+      - R. Gaur
+      - K. Orr
+      - E. Kolemen
