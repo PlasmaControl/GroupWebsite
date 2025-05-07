@@ -5000,3 +5000,16 @@ publications:
     context: 2024 KSTAR campaign summary meeting
     authors:
       - M.Kim et al.
+
+  - title: Overview of the Liquid Metal Research for Fusion Applications of the Plasma Control Group at the Princeton Plasma Physics Laboratory
+    type: Papers
+    category: Liquid Metals
+    date: "2025-09-08"
+    pdf_file_name: "ISLA8-Francisco_Saenz.pdf"
+    context: 2024 KSTAR campaign summary meeting
+    authors:
+      - F. Saenz
+      - B. Wynne
+      - Y. Xu
+      - Z. Sun
+      - E. Kolemen
