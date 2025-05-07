@@ -152,4 +152,4 @@ The "Members" page is created automatically from the [`members.yaml`](https://g
 
 ### Updating the "Publications" page
 
-The "Publications" page is created automatically from the [`publications.yaml`](https://github.com/PlasmaControl/GroupWebsite/blob/main/src/assets/data/publications/publications.yaml) file. All the PDFs are stored in the [`pdfs`](https://github.com/PlasmaControl/GroupWebsite/tree/main/src/assets/data/publications/pdfs)folder next to the `publications.yaml` file.
+The "Publications" page is created automatically from the [publications.yaml](https://github.com/PlasmaControl/GroupWebsite/blob/main/plasmacontrolwebsite/assets/data/publications/publications.yaml) file. All the PDFs are stored in the [`pdfs`](https://github.com/PlasmaControl/GroupWebsite/tree/main/src/assets/data/publications/pdfs)folder next to the `publications.yaml` file.
