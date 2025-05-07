@@ -5037,3 +5037,15 @@ publications:
       - F. Saenz
       - B. Wynne
       - E. Kolemen
+
+  - title: Modular coil designs for stellarators
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-10-12"
+    pdf_file_name: "APS-2024_Poster_V2.pdf"
+    authors:
+      - F. Saenz
+      - D. Panici
+      - R. Gaur
+      - R. Conlin
+      - E. Kolemen
