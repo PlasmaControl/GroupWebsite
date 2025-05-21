@@ -4915,3 +4915,187 @@ publications:
       - J. A. Leuer
       - A. S. Welander
       - E. Kolemen
+
+  - title: FreeMHD, Validation and verification of the open-source, multi-domain, multi-phase solver for electrically conductive flows
+    type: Papers
+    category: Liquid Metals
+    date: "2025-01-29"
+    pdf_file_name: "FreeMHD Paper Published 20250129.pdf"
+    context: Nuclear Materials and Energy
+    authors:
+      - B. Wynne
+      - F. Saenz
+      - J. Al-Salami
+      - Y. Xu
+      - Z. Sun
+      - C. Hu
+      - K. Hanada
+      - E. Kolemen
+      - M. G. Hvasta
+      - E. Kolemen
+
+  - title: Detecting ELM originated by Sawtooth at DIII-D
+    type: Presentations
+    category: Machine Learning
+    date: "2023-10-30"
+    pdf_file_name: "Poster_Minseok Kim_2023 APS-DPP.pdf"
+    context: 65th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+      - M.Kim
+      - R.Shousha
+      - A.Jalalvand
+      - S.Kim
+      - M.Curie
+      - E.Kolemen
+
+  - title: Autonomous detection and control of Sawtooth instability triggering ELM
+    type: Presentations
+    category: Machine Learning
+    date: "2024-08-13"
+    pdf_file_name: "Poster_Minseok Kim_2024 ICDDPS-5.pdf"
+    context: The 5th International Conference on Data-Driven Plasma Science (ICDDPS-5)
+    authors:
+      - M.Kim
+      - S.Kim
+      - A.Jalalvand
+      - R.Shousha
+      - A.Garcia
+      - M.Curie
+      - J.Butt
+      - E.Kolemen
+
+  - title: Design of a PID controller for the pedestal top electron density at KSTAR
+    type: Presentations
+    category: Controls and Optimization
+    date: "2024-07-10"
+    pdf_file_name: "Poster_Minseok Kim_2024_APS_v2.pdf"
+    context: 66th Annual Meeting of the APS Division of Plasma Physics
+    authors:
+      - M.Kim et al.
+
+  - title: Pedestal-top ne control using RMP at KSTAR
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-02-03"
+    pdf_file_name: "Poster_Minseok Kim_2025_EPFL_v2/.pdf"
+    context: Control & Operation of Tokamaks 2025
+    authors:
+      - M.Kim et al.
+
+  - title: Overview of classical control 
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-02-18"
+    pdf_file_name: "250218_ML_sub_control_overview.pdf"
+    context: Machine Learning subgroup meeting
+    authors:
+      - M.Kim
+      - H.Farre
+
+  - title: Study of real-time ne profile evolution and control
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-25"
+    pdf_file_name: "250325_summary_talk_Minseok_Kim.pdf"
+    context: 2024 KSTAR campaign summary meeting
+    authors:
+      - M.Kim et al.
+
+  - title: Overview of the Liquid Metal Research for Fusion Applications of the Plasma Control Group at the Princeton Plasma Physics Laboratory
+    type: Presentations
+    category: Liquid Metals
+    date: "2025-09-08"
+    pdf_file_name: "ISLA8-Francisco_Saenz.pdf"
+    authors:
+      - F. Saenz
+      - B. Wynne
+      - Y. Xu
+      - Z. Sun
+      - E. Kolemen
+
+  - title: Challenges of Long Distance Liquid Metal Flow for Divertors, Improved Design for Divertorlets, and MHD Centrifuge for in situ Li/LiH separation at PPPL
+    type: Presentations
+    category: Liquid Metals
+    date: "2025-02-18"
+    pdf_file_name: "Wynne for Saenz US-Japan 2025 PDF.pdf"
+    authors:
+      - F. Saenz
+      - B. Wynne
+      - L. Klinger
+      - Y. Xu
+      - E. Kolemen
+
+  - title: Lorentz Propulsion Magneto-cyclone for In-Situ Centrifugal Separation of Li/LiH       
+    type: Presentations
+    category: Liquid Metals
+    date: "2024-10-01"
+    pdf_file_name: "APS DPP Magneto-cyclone 2024.pdf"
+    context: APS-DPP 2024 Poster Session
+    authors:
+      - L. Klinger
+      - Y. Xu
+      - F. Saenz
+      - B. Wynne
+      - E. Kolemen
+
+  - title: Modular coil designs for stellarators
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-10-12"
+    pdf_file_name: "APS-2024_Poster_V2.pdf"
+    authors:
+      - F. Saenz
+      - D. Panici
+      - R. Gaur
+      - R. Conlin
+      - E. Kolemen
+
+  - title: Stellarator Equilibrium and Coil Optimization with DESC
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-04-18"
+    pdf_file_name: "Dario-Panici-talk4.pdf"
+    context: PICSciE Graduate Certificate in Computational Science and Engineering Colloquium April 18 2025
+    authors:
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - Y. G. Elmacioglu
+      - R. Gaur
+      - K. Unalmis
+      - S. Atalay
+      - E. Kolemen
+
+  - title: DESC Stellarator Equilibrium and  Optimization Code
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-01" 
+    pdf_file_name: "SIAM_2025_Panici_DESC.pdf"
+    context: SIAM CSE 2025 Fusion Mini-Symposium
+    authors:
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - Y. G. Elmacioglu
+      - R. Gaur
+      - K. Unalmis
+      - S. Atalay
+      - P. Kim
+      - K. Orr
+      - E. Rodriguez
+      - E. Kolemen
+
+  - title: Reconstruction Capabilities in DESC
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-01" 
+    pdf_file_name: "panici_simons_2025_recon_poster_mod0.pdf"
+    context: Simons Hidden Symmetries 2025 Annual Meeting
+    authors:
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - Y. G. Elmacioglu
+      - R. Gaur
+      - K. Orr
+      - E. Kolemen
