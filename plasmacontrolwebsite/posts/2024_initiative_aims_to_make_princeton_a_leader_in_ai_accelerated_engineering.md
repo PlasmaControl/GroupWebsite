@@ -17,7 +17,7 @@ As a part of a broad set of investments around artificial intelligence, Princeto
 <!-- more -->
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q4kOZ3tJZk0?si=tYJcaeuPNhSy_E2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<div>
+
 
 “What we have the opportunity to do here is to transform engineering by taking this tool and using it in ways that haven’t yet been imagined,” said Andrea Goldsmith, dean of the School of Engineering and Applied Science and the Arthur LeGrand Doty Professor of Electrical and Computer Engineering at the launch event Aug. 29. “We have an opportunity to lead.”
 
