@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# Yigit Elmacioglu Wins OSSFE Best Student Talk Award
+# Video: Yigit Elmacioglu Wins OSSFE Best Student Talk Award
 
 <div class="post-title-image" markdown="span">
 ![](images/yigit_elmacioglu_ossfe_award.jpeg)

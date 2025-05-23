@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# What does liquid metal have to do with fusion?
+# Video: What does liquid metal have to do with fusion?
 
 <div class="post-title-image" markdown="span">
 ![](images/what_does_liquid_metal_have_to_do_with_fusion.jpg)

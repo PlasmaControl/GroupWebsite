@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# Lithium Experimental Application Platform (LEAP)
+# Video: Lithium Experimental Application Platform (LEAP)
 
 <div class="post-title-image" markdown="span">
 ![](images/lithium_experimental_application_platform_leap.png)

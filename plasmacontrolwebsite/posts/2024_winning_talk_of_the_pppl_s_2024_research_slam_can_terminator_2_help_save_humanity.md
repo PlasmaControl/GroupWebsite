@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# Winning Talk of the PPPL’s 2024 Research Slam: Can Terminator 2 help save humanity?
+# Video: Winning Talk of the PPPL’s 2024 Research Slam: Can Terminator 2 help save humanity?
 
 <div class="post-title-image" markdown="span">
 ![](images/winning_talk_of_the_pppl_s_2024_research_slam_can_terminator_2_help_save_humanity.png)

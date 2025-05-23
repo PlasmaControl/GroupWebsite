@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# Controlling Fusion Reactor Instability with Deep Reinforcement Learning with Aza Jalalvand
+# Video: Controlling Fusion Reactor Instability with Deep Reinforcement Learning with Aza Jalalvand
 
 <div class="post-title-image" markdown="span">
 ![](images/controlling_fusion_reactor_instability_with_deep_reinforcement_learning_with_aza_jalalvand.png)

@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# Initiative Aims to Make Princeton a Leader in AI Accelerated Engineering
+# Video: Initiative Aims to Make Princeton a Leader in AI Accelerated Engineering
 
 <div class="post-title-image" markdown="span">
 ![](images/initiative_aims_to_make_princeton_a_leader_in_ai_accelerated_engineering.jpg)

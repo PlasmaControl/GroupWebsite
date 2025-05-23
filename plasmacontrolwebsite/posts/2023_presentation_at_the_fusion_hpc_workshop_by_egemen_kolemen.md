@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# Presentation at the Fusion HPC Workshop by Egemen Kolemen
+# Video: Presentation at the Fusion HPC Workshop by Egemen Kolemen
 
 <div class="post-title-image" markdown="span">
 ![](images/presentation_at_the_fusion_hpc_workshop_by_egemen_kolemen.png)

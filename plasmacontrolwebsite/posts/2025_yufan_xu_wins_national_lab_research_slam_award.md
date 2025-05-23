@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# Yufan Xu Wins National Lab Research Slam Award
+# Video: Yufan Xu Wins National Lab Research Slam Award
 
 <div class="post-title-image" markdown="span">
 ![](images/yufan_xu_wins_national_lab_research_slam_award.png)

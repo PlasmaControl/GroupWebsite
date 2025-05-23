@@ -6,7 +6,7 @@ categories:
   - News
 ---
 
-# CNN Features Our Breakthrough in AI-Driven Nuclear Fusion
+# Video: CNN Features Our Breakthrough in AI-Driven Nuclear Fusion
 
 <div class="post-title-image" markdown="span">
 ![](images/cnn_features_our_breakthrough_in_ai_driven_nuclear_fusion.png)
