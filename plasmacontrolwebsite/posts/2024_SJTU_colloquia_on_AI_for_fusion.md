@@ -6,11 +6,7 @@ categories:
   - News
 ---
 
-# SJTU/USTC Colloquia on AI for Fusion
-
-<div class="post-title-image" markdown="span">
-![](images/SJTU_colloquia_on_AI_for_fusion.png)
-</div>
+# (Video) SJTU/USTC Colloquia on AI for Fusion
 
 Talk given by Dr. Egemen Kolemen during the 3/28/2024 colloquia co-hosted by the Institute of Natural Sciences of SJTU, and the School of Nuclear Science and Technology of USTC.
 
