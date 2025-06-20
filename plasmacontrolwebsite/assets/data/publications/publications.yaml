@@ -4973,6 +4973,19 @@ publications:
     authors:
       - M.Kim et al.
 
+  - title: Solving 3D MHD Equation Using Poincare Boundary Condition in DESC
+    type: Presentations
+    category: Controls and Optimization
+    date: "2024-09-01" 
+    pdf_file_name: "yge_ISHW_2024_poster.pdf"
+    context: International Stellarator Heliotron Workshop (ISHW), Japan
+    authors:
+      - Y. G. Elmacioglu
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - E. Kolemen
+
   - title: Pedestal-top ne control using RMP at KSTAR
     type: Presentations
     category: Controls and Optimization
@@ -5122,7 +5135,7 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: "2025-03-01" 
-    pdf_file_name: "simons_2025_yge_poster.pdf"
+    pdf_file_name: "yge_SIMONS_2025_poster.pdf"
     context: Simons Hidden Symmetries 2025 Annual Meeting
     authors:
       - Y. G. Elmacioglu
