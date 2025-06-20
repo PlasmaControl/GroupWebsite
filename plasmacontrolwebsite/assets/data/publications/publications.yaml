@@ -5099,3 +5099,49 @@ publications:
       - R. Gaur
       - K. Orr
       - E. Kolemen
+
+  - title: DESC Stellarator Equilibrium and  Optimization Code
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-15" 
+    pdf_file_name: "OSSFE_2025_YGE_DESC.pdf"
+    context: Open Source Software for Fusion Energy (OSSFE) 2025
+    authors:
+      - Y. G. Elmacioglu
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - R. Gaur
+      - K. Unalmis
+      - P. Kim
+      - K. Orr
+      - E. Rodriguez
+      - E. Kolemen
+
+  - title: DESC Software Updates
+    type: Presentations
+    category: Controls and Optimization
+    date: "2025-03-01" 
+    pdf_file_name: "simons_2025_yge_poster.pdf"
+    context: Simons Hidden Symmetries 2025 Annual Meeting
+    authors:
+      - Y. G. Elmacioglu
+      - R. Gaur
+      - D. Panici
+      - R. Conlin
+      - D. Dudt
+      - K. Unalmis
+      - E. Kolemen
+
+  - title: ZERNIPAX - A Fast and Accurate Zernike Polynomial Calculator in Python
+    type: Papers
+    category: Controls and Optimization
+    date: "2025-05-22"
+    pdf_file_name: "yge_zernipax_accepted_manuscript.pdf"
+    context: Applied Mathematics and Computation
+    authors:
+      - Y. G. Elmacioglu
+      - R. Conlin
+      - D. Dudt
+      - D. Panici
+      - E. Kolemen
