@@ -55,7 +55,7 @@ nav:
   - Gallery: gallery.md
 
 plugins:
-  - search # mkdocs-material search plugin
+  - search # mkdocs-material search plugins
   - glightbox
   - redirects:
     redirect_maps:
