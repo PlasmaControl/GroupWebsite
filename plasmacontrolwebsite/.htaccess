@@ -1,2 +1,3 @@
+RewriteEngine On
+RewriteRule ^wp-content/uploads/sites/418/2020/11/Dudt_Kolemen_2020.pdf$ https://control.princeton.edu/assets/data/publications/pdfs/%5B48%5D%20Daniel%20Dudt%20and%20Egemen%20Kolemen.%20%E2%80%9CDESC%2C%20An%20Efficient%20Stellarator%20Equilibrium%20Code%E2%80%9D.pdf [R=301,L]
 ErrorDocument 404 /404.html
-Redirect 301 /wp-content/uploads/sites/418/2020/11/Dudt_Kolemen_2020.pdf https://control.princeton.edu/assets/data/publications/pdfs/%5B48%5D%20Daniel%20Dudt%20and%20Egemen%20Kolemen.%20%E2%80%9CDESC%2C%20An%20Efficient%20Stellarator%20Equilibrium%20Code%E2%80%9D.pdf
