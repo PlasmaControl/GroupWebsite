@@ -29,7 +29,6 @@ jobs:
       - name: Build the website
         run: |
           hatch run build
-          hatch run build
 
       - name: Deploy to cPanel
         uses: appleboy/scp-action@v0.1.7
