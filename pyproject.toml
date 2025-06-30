@@ -5,6 +5,9 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["plasmacontrolwebsite"]
 
+[tool.hatch.metadata]
+allow-direct-references = true
+
 [project]
 name = 'plasmacontrolwebsite'
 authors = [{ name = 'Sina Atalay', email = 'dev@atalay.biz' }]
@@ -18,7 +21,7 @@ dependencies = [
     "mkdocs-macros-plugin==1.3.7",
     "pydantic[email]==2.10.6",
     "ruamel.yaml==0.18.10",
-    "mkdocs-redirects==1.2.2",
+    "mkdocs-redirects @ ./mkdocs_redirects",
     "mkdocs-glightbox==0.4.0"
 ]
 classifiers = ["Intended Audience :: Science/Research"]
@@ -31,7 +34,7 @@ dependencies = ["ruff", "black"]
 
 [tool.hatch.envs.default.scripts]
 build = "mkdocs build --clean --strict --site-dir public_html"                                                                                           # hatch run build
-serve = "mkdocs serve --strict"                                                                                                   # hatch run serve
+serve = "mkdocs serve"                                                                                                   # hatch run serve
 format = "black plasmacontrolwebsite && ruff check --fix plasmacontrolwebsite && ruff format plasmacontrolwebsite" # hatch run format
 lint = "ruff check"                                                                                                      # hatch run lint
 test = "pytest"                                                                                                          # hatch run test
