@@ -4952,7 +4952,7 @@ publications:
     type: Presentations
     category: Machine Learning
     date: "2024-08-13"
-    pdf_file_name: "Poster_Minseok Kim_2024 ICDDPS-5.pdf"
+    pdf_file_name: "Poster_Minseok_Kim_2024_ICDDPS-5.pdf"
     context: The 5th International Conference on Data-Driven Plasma Science (ICDDPS-5)
     authors:
       - M.Kim
@@ -4968,7 +4968,7 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: "2024-07-10"
-    pdf_file_name: "Poster_Minseok Kim_2024_APS_v2.pdf"
+    pdf_file_name: "Poster_Minseok_Kim_2024_APS_v2.pdf"
     context: 66th Annual Meeting of the APS Division of Plasma Physics
     authors:
       - M.Kim et al.
@@ -4990,7 +4990,7 @@ publications:
     type: Presentations
     category: Controls and Optimization
     date: "2025-02-03"
-    pdf_file_name: "Poster_Minseok Kim_2025_EPFL_v2/.pdf"
+    pdf_file_name: "Poster_Minseok_Kim_2025_EPFL_v2.pdf"
     context: Control & Operation of Tokamaks 2025
     authors:
       - M.Kim et al.
