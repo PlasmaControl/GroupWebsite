@@ -92,14 +92,6 @@ plugins:
   - macros: # https://github.com/fralau/mkdocs-macros-plugin
       module_name: plasmacontrolwebsite/assets/data/data
 
-  # Redirect the old pages to the new ones:
-  - redirects:
-      redirect_maps:
-        people.md: members.md
-        group-members.md: members.md
-        desc.md: research/stellarator_optimization/desc.md
-        "wp-content/uploads/sites/418/2020/11/Dudt_Kolemen_2020.pdf": assets/data/publications/pdfs/a.pdf
-
 markdown_extensions:
   # see https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/ for more pymdownx info
   - pymdownx.highlight:
