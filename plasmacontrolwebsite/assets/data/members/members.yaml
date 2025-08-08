@@ -308,6 +308,17 @@ graduate_students:
       -  lk8655@princeton.edu
 
 undergraduate_students:
+  - name: Griffin Hon
+    title: Undergraduate Student
+    description: Griffin Hon is an undergraduate researcher in the
+      Department of Operations Research and Financial Engineering at
+      Princeton University. Previously, he worked in bioinformatics,
+      focusing on single-cell RNA sequencing analysis and cell
+      clustering. His current interests include data science, systems
+      optimization, and machine learning, with applications in complex
+      systems such as plasma diagnostics and control.
+    photo_file_name: Griffin_Hon.jpg
+
   - name: Kaya Unalmis
     title: Undergraduate Student
     description: Kaya is an undergraduate student at Princeton
