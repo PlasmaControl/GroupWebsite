@@ -239,17 +239,18 @@ graduate_students:
 
   - name: Minseok Kim
     title: 2nd Year Graduate Student
-    description: Minseok Kim is a 2nd year graduate student
-      in Mechanical and Aerospace Engineering. He has studied
-      electron density profile reconstruction using line-averaged
-      density information measured by a Two-Colored Interferometer
-      (TCI) and the control of the profile. Another side project
-      he has worked on is establishing a DIII-D kinetic profile
-      database reconstructed by rtCAKENN (real-time kinetic equilibrium
-      reconstruction using a neural network). He got his Bachelor's
-      in Physics and Artificial Intelligence at Korea University
-      and a Master's in Nuclear and Quantum Engineering at KAIST
-      for Nuclear Fusion energy.
+    description: Minseok Kim is a 3rd year graduate student in
+      Mechanical and Aerospace Engineering. He worked on controlling
+      pedestal-top electron density at KSTAR using a PID feedback
+      control loop with gas puff and RMP as actuators for his second
+      year. The density profile is reconstructed in real-time using a
+      neural network with line-averaged density measurements and
+      equilibrium information. He turned his interests into controlling
+      ELM frequency and density profile gradient to flush out tungsten
+      accumulated in the core plasmas. He earned his Bachelor's degree
+      in Physics and Artificial Intelligence at Korea University and a
+      Master's degree in Nuclear and Quantum Engineering at KAIST, with
+      a focus on nuclear fusion engineering.
     google_scholar_url: https://scholar.google.com/citations?hl=en&user=TffO2hcAAAAJ
     orcid_id: 0009-0002-1664-6618
     emails:
