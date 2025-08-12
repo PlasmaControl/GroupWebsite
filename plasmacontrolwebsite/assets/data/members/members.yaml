@@ -350,6 +350,16 @@ undergraduate_students:
       - harbers@princeton.edu
     photo_file_name: Luc_Harbers.webp
 visiting_scholars:
+  - name: Erik Ji
+    title: Visiting Scholar
+    description: Erik Ji is a student at West Windsor-Plainsboro High
+      School South. Previously, he applied machine learning to object
+      detection in images with YOLO networks. His current interests
+      include software engineering, machine learning, and system
+      administration. He is working on foundation models for plasma and
+      improvement of Diag2Diag.
+    photo_file_name: Erik_Ji.jpg
+
   - name: Andrea Hernandez
     title: Visiting Scholar
     description: High heat flux and recycling hydrogen isotopes
